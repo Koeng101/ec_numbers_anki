@@ -1,0 +1,6 @@
+EC 5.1:; Epimerases and racemases
+EC 5.2:; cis-trans-Isomerases
+EC 5.3:; Intramolecular Oxidoreductases
+EC 5.4:; Intramolecular Transferases
+EC 5.5:; Intramolecular Lyases
+EC 5.99:; Other Isomerases

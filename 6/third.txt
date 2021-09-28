@@ -1,0 +1,9 @@
+EC 6.1.1:; Ligases Forming Aminoacyl-tRNA and Related Compounds (Aminoacyl tRNA synthetase)
+EC 6.1.2:; Acid—alcohol ligases (ester synthases)
+EC 6.2.1:; Acid-Thiol Ligases
+EC 6.3.1:; Acid-Ammonia (or Amine) Ligases (Amide Synthases)
+EC 6.3.2:; Acid-Amino-Acid Ligases (Peptide Synthases)
+EC 6.3.3:; Cyclo-Ligases
+EC 6.3.4:; Other Carbon-Nitrogen Ligases
+EC 6.3.5:; Carbon-Nitrogen Ligases with Glutamine as Amido-N-Donor
+EC 6.6.1:; Forming Coordination Complexes

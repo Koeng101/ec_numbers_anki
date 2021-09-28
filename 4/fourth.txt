@@ -1,0 +1,630 @@
+EC 4.1.1.1; pyruvate decarboxylase
+EC 4.1.1.2; oxalate decarboxylase
+EC 4.1.1.3; oxaloacetate decarboxylase
+EC 4.1.1.4; acetoacetate decarboxylase
+EC 4.1.1.5; acetolactate decarboxylase
+EC 4.1.1.6; aconitate decarboxylase
+EC 4.1.1.7; benzoylformate decarboxylase
+EC 4.1.1.8; oxalyl-CoA decarboxylase
+EC 4.1.1.9; malonyl-CoA decarboxylase
+EC 4.1.1.10; deleted, included in EC 4.1.1.12
+EC 4.1.1.11; aspartate 1-decarboxylase
+EC 4.1.1.12; aspartate 4-decarboxylase
+EC 4.1.1.13; deleted
+EC 4.1.1.14; valine decarboxylase
+EC 4.1.1.15; glutamate decarboxylase
+EC 4.1.1.16; hydroxyglutamate decarboxylase
+EC 4.1.1.17; ornithine decarboxylase
+EC 4.1.1.18; lysine decarboxylase
+EC 4.1.1.19; arginine decarboxylase
+EC 4.1.1.20; diaminopimelate decarboxylase
+EC 4.1.1.21; phosphoribosylaminoimidazole carboxylase
+EC 4.1.1.22; histidine decarboxylase
+EC 4.1.1.23; orotidine-5'-phosphate decarboxylase
+EC 4.1.1.24; aminobenzoate decarboxylase
+EC 4.1.1.25; tyrosine decarboxylase
+EC 4.1.1.26; deleted, included in EC 4.1.1.28
+EC 4.1.1.27; deleted, included in EC 4.1.1.28
+EC 4.1.1.28; aromatic-L-amino-acid decarboxylase
+EC 4.1.1.29; sulfoalanine decarboxylase
+EC 4.1.1.30; pantothenoylcysteine decarboxylase
+EC 4.1.1.31; phosphoenolpyruvate carboxylase
+EC 4.1.1.32; phosphoenolpyruvate carboxykinase (GTP)
+EC 4.1.1.33; diphosphomevalonate decarboxylase
+EC 4.1.1.34; dehydro-L-gulonate decarboxylase
+EC 4.1.1.35; UDP-glucuronate decarboxylase
+EC 4.1.1.36; phosphopantothenoylcysteine decarboxylase
+EC 4.1.1.37; uroporphyrinogen decarboxylase
+EC 4.1.1.38; phosphoenolpyruvate carboxykinase (diphosphate)
+EC 4.1.1.39; ribulose-bisphosphate carboxylase
+EC 4.1.1.40; hydroxypyruvate decarboxylase
+EC 4.1.1.41; methylmalonyl-CoA decarboxylase
+EC 4.1.1.42; carnitine decarboxylase
+EC 4.1.1.43; phenylpyruvate decarboxylase
+EC 4.1.1.44; 4-carboxymuconolactone decarboxylase
+EC 4.1.1.45; aminocarboxymuconate-semialdehyde decarboxylase
+EC 4.1.1.46; o-pyrocatechuate decarboxylase
+EC 4.1.1.47; tartronate-semialdehyde synthase
+EC 4.1.1.48; indole-3-glycerol-phosphate synthase
+EC 4.1.1.49; phosphoenolpyruvate carboxykinase (ATP)
+EC 4.1.1.50; adenosylmethionine decarboxylase
+EC 4.1.1.51; 3-hydroxy-2-methylpyridine-4,5-dicarboxylate 4-decarboxylase
+EC 4.1.1.52; 6-methylsalicylate decarboxylase
+EC 4.1.1.53; phenylalanine decarboxylase
+EC 4.1.1.54; dihydroxyfumarate decarboxylase
+EC 4.1.1.55; 4,5-dihydroxyphthalate decarboxylase
+EC 4.1.1.56; 3-oxolaurate decarboxylase
+EC 4.1.1.57; methionine decarboxylase
+EC 4.1.1.58; orsellinate decarboxylase
+EC 4.1.1.59; gallate decarboxylase
+EC 4.1.1.60; stipitatonate decarboxylase
+EC 4.1.1.61; 4-hydroxybenzoate decarboxylase
+EC 4.1.1.62; gentisate decarboxylase
+EC 4.1.1.63; protocatechuate decarboxylase
+EC 4.1.1.64; 2,2-dialkylglycine decarboxylase (pyruvate)
+EC 4.1.1.65; phosphatidylserine decarboxylase
+EC 4.1.1.66; uracil-5-carboxylate decarboxylase
+EC 4.1.1.67; UDP-galacturonate decarboxylase
+EC 4.1.1.68; 5-oxopent-3-ene-1,2,5-tricarboxylate decarboxylase
+EC 4.1.1.69; 3,4-dihydroxyphthalate decarboxylase
+EC 4.1.1.70; glutaconyl-CoA decarboxylase
+EC 4.1.1.71; 2-oxoglutarate decarboxylase
+EC 4.1.1.72; branched-chain-2-oxoacid decarboxylase
+EC 4.1.1.73; tartrate decarboxylase
+EC 4.1.1.74; indolepyruvate decarboxylase
+EC 4.1.1.75; 5-guanidino-2-oxopentanoate decarboxylase
+EC 4.1.1.76; arylmalonate decarboxylase
+EC 4.1.1.77; 4-oxalocrotonate decarboxylase
+EC 4.1.1.78; acetylenedicarboxylate decarboxylase
+EC 4.1.1.79; sulfopyruvate decarboxylase
+EC 4.1.1.80; 4-hydroxyphenylpyruvate decarboxylase
+EC 4.1.1.81; threonine-phosphate decarboxylase
+EC 4.1.1.82; phosphonopyruvate decarboxylase
+EC 4.1.1.83; 4-hydroxyphenylacetate decarboxylase
+EC 4.1.1.84; D-dopachrome decarboxylase
+EC 4.1.1.85; 3-dehydro-L-gulonate-6-phosphate decarboxylase
+EC 4.1.1.86; diaminobutyrate decarboxylase
+EC 4.1.1.87; malonyl-S-ACP decarboxylase
+EC 4.1.1.88; biotin-independent malonate decarboxylase
+EC 4.1.1.89; biotin-dependent malonate decarboxylase
+EC 4.1.1.90; peptidyl-glutamate 4-carboxylase
+EC 4.1.1.91; salicylate decarboxylase
+EC 4.1.1.92; indole-3-carboxylate decarboxylase
+EC 4.1.1.93; pyrrole-2-carboxylate decarboxylase
+EC 4.1.1.94; ethylmalonyl-CoA decarboxylase
+EC 4.1.1.95; L-glutamyl-(BtrI acyl-carrier protein) decarboxylase
+EC 4.1.1.96; carboxynorspermidine decarboxylase
+EC 4.1.2.1; deleted, included in EC 4.1.3.16
+EC 4.1.2.2; ketotetrose-phosphate aldolase
+EC 4.1.2.3; deleted, was pentosealdolase.
+EC 4.1.2.4; deoxyribose-phosphate aldolase
+EC 4.1.2.5; threonine aldolase
+EC 4.1.2.6; deleted entry, was allothreonine aldolase. Reaction is due to EC 2.1.2.1 glycine hydroxymethyltransferase. See also EC 4.1.2.49.
+EC 4.1.2.7; deleted, included in EC 4.1.2.13
+EC 4.1.2.8; indole-3-glycerol-phosphate lyase
+EC 4.1.2.9; phosphoketolase
+EC 4.1.2.10; mandelonitrile lyase
+EC 4.1.2.11; hydroxymandelonitrile lyase
+EC 4.1.2.12; 2-dehydropantoate aldolase
+EC 4.1.2.13; fructose-bisphosphate aldolase
+EC 4.1.2.14; 2-dehydro-3-deoxy-phosphogluconate aldolase
+EC 4.1.2.15; now EC 2.5.1.54
+EC 4.1.2.16; now EC 2.5.1.55
+EC 4.1.2.17; L-fuculose-phosphate aldolase
+EC 4.1.2.18; 2-dehydro-3-deoxy-L-pentonate aldolase
+EC 4.1.2.19; rhamnulose-1-phosphate aldolase
+EC 4.1.2.20; 2-dehydro-3-deoxyglucarate aldolase
+EC 4.1.2.21; 2-dehydro-3-deoxy-6-phosphogalactonate aldolase
+EC 4.1.2.22; fructose-6-phosphate phosphoketolase
+EC 4.1.2.23; 3-deoxy-D-manno-octulosonate aldolase
+EC 4.1.2.24; dimethylaniline-N-oxide aldolase
+EC 4.1.2.25; dihydroneopterin aldolase
+EC 4.1.2.26; phenylserine aldolase
+EC 4.1.2.27; sphinganine-1-phosphate aldolase
+EC 4.1.2.28; 2-dehydro-3-deoxy-D-pentonate aldolase
+EC 4.1.2.29; 5-dehydro-2-deoxyphosphogluconate aldolase
+EC 4.1.2.30; 17a-hydroxyprogesterone aldolase
+EC 4.1.2.31; deleted, included in EC 4.1.3.16
+EC 4.1.2.32; trimethylamine-oxide aldolase
+EC 4.1.2.33; fucosterol-epoxide lyase
+EC 4.1.2.34; 4-(2-carboxyphenyl)-2-oxobut-3-enoate aldolase
+EC 4.1.2.35; propioin synthase
+EC 4.1.2.36; lactate aldolase
+EC 4.1.2.37; hydroxynitrilase
+EC 4.1.2.38; benzoin aldolase
+EC 4.1.2.39; Deleted, same as EC 4.1.2.37
+EC 4.1.2.40; tagatose-bisphosphate aldolase
+EC 4.1.2.41; vanillin synthase
+EC 4.1.2.42; D-threonine aldolase
+EC 4.1.2.43; 3-hexulose-6-phosphate synthase
+EC 4.1.2.44; benzoyl-CoA-dihydrodiol lyase
+EC 4.1.2.45; trans-o-hydroxybenzylidenepyruvate hydratase-aldolase
+EC 4.1.2.46; aliphatic (R)-hydroxynitrile lyase
+EC 4.1.2.47; (S)-hydroxynitrile lyase
+EC 4.1.2.48; low-specificity L-threonine aldolase
+EC 4.1.2.49; L-allo-threonine aldolase
+EC 4.1.2.50; 6-carboxytetrahydropterin synthase
+EC 4.1.3.1; isocitrate lyase
+EC 4.1.3.2; now EC 2.3.3.9
+EC 4.1.3.3; N-acetylneuraminate lyase
+EC 4.1.3.4; hydroxymethylglutaryl-CoA lyase
+EC 4.1.3.5; now EC 2.3.3.10
+EC 4.1.3.6; citrate (pro-3S)-lyase
+EC 4.1.3.7; now EC 2.3.3.1
+EC 4.1.3.8; now EC 2.3.3.8
+EC 4.1.3.9; now EC 2.3.3.11
+EC 4.1.3.10; now EC 2.3.3.7
+EC 4.1.3.11; now EC 2.3.3.12
+EC 4.1.3.12; now EC 2.3.3.13
+EC 4.1.3.13; oxalomalate lyase
+EC 4.1.3.14; 3-hydroxyaspartate aldolase
+EC 4.1.3.15; now EC 2.2.1.5
+EC 4.1.3.16; 4-hydroxy-2-oxoglutarate aldolase
+EC 4.1.3.17; 4-hydroxy-4-methyl-2-oxoglutarate aldolase
+EC 4.1.3.18; now EC 2.2.1.6
+EC 4.1.3.19; now EC 2.5.1.56
+EC 4.1.3.20; now EC 2.5.1.57
+EC 4.1.3.21; now EC 2.3.3.14
+EC 4.1.3.22; citramalate lyase
+EC 4.1.3.23; now EC 2.3.3.2
+EC 4.1.3.24; malyl-CoA lyase
+EC 4.1.3.25; citramalyl-CoA lyase
+EC 4.1.3.26; 3-hydroxy-3-isohexenylglutaryl-CoA lyase
+EC 4.1.3.27; anthranilate synthase
+EC 4.1.3.28; now EC 2.3.3.3
+EC 4.1.3.29; now EC 2.3.3.4
+EC 4.1.3.30; methylisocitrate lyase
+EC 4.1.3.31; now EC 2.3.3.5
+EC 4.1.3.32; 2,3-dimethylmalate lyase
+EC 4.1.3.33; now EC 2.3.3.6
+EC 4.1.3.34; citryl-CoA lyase
+EC 4.1.3.35; (1-hydroxycyclohexan-1-yl)acetyl-CoA lyase
+EC 4.1.3.36; naphthoate synthase
+EC 4.1.3.37; now EC 2.2.1.7
+EC 4.1.3.38; aminodeoxychorismate lyase
+EC 4.1.3.39; 4-hydroxy-2-oxovalerate aldolase
+EC 4.1.3.40; chorismate lyase
+EC 4.1.3.41; 3-hydroxy-D-aspartate aldolase
+EC 4.1.99.1; tryptophanase
+EC 4.1.99.2; tyrosine phenol-lyase
+EC 4.1.99.3; deoxyribodipyrimidine photo-lyase
+EC 4.1.99.4; now EC 3.5.99.7
+EC 4.1.99.5; octadecanal decarbonylase
+EC 4.1.99.6; now EC 4.2.3.6
+EC 4.1.99.7; now EC 4.2.3.9
+EC 4.1.99.8; now EC 4.2.3.14
+EC 4.1.99.9; now EC 4.2.3.15
+EC 4.1.99.10; now EC 4.2.3.16
+EC 4.1.99.11; benzylsuccinate synthase
+EC 4.1.99.12; 3,4-dihydroxy-2-butanone-4-phosphate synthase
+EC 4.1.99.13; (6-4)DNA photolyase
+EC 4.1.99.14; spore photoproduct lyase
+EC 4.1.99.15; S-specific spore photoproduct lyase
+EC 4.1.99.16; geosmin synthase
+EC 4.1.99.17; phosphomethylpyrimidine synthase
+EC 4.1.99.18; cyclic pyranopterin monophosphate synthase
+EC 4.1.99.19; 2-iminoacetate synthase
+EC 4.2.1.1; carbonate dehydratase
+EC 4.2.1.2; fumarate hydratase
+EC 4.2.1.3; aconitate hydratase
+EC 4.2.1.4; now EC 4.2.1.3
+EC 4.2.1.5; arabinonate dehydratase
+EC 4.2.1.6; galactonate dehydratase
+EC 4.2.1.7; altronate dehydratase
+EC 4.2.1.8; mannonate dehydratase
+EC 4.2.1.9; dihydroxy-acid dehydratase
+EC 4.2.1.10; 3-dehydroquinate dehydratase
+EC 4.2.1.11; phosphopyruvate hydratase
+EC 4.2.1.12; phosphogluconate dehydratase
+EC 4.2.1.13; now EC 4.3.1.17
+EC 4.2.1.14; now EC 4.3.1.18
+EC 4.2.1.15; now EC 4.4.1.1
+EC 4.2.1.16; now EC 4.3.1.19
+EC 4.2.1.17; enoyl-CoA hydratase
+EC 4.2.1.18; methylglutaconyl-CoA hydratase
+EC 4.2.1.19; imidazoleglycerol-phosphate dehydratase
+EC 4.2.1.20; tryptophan synthase
+EC 4.2.1.21; now EC 4.2.1.22
+EC 4.2.1.22; cystathionine b-synthase
+EC 4.2.1.23; deleted (methylcysteine synthase)
+EC 4.2.1.24; porphobilinogen synthase
+EC 4.2.1.25; L-arabinonate dehydratase
+EC 4.2.1.26; now EC 4.3.1.21
+EC 4.2.1.27; acetylenecarboxylate hydratase
+EC 4.2.1.28; propanediol dehydratase
+EC 4.2.1.29; now EC 4.99.1.6
+EC 4.2.1.30; glycerol dehydratase
+EC 4.2.1.31; maleate hydratase
+EC 4.2.1.32; L(+)-tartrate dehydratase
+EC 4.2.1.33; 3-isopropylmalate dehydratase
+EC 4.2.1.34; (S)-2-methylmalate dehydratase
+EC 4.2.1.35; (R)-2-methylmalate dehydratase
+EC 4.2.1.36; homoaconitate hydratase
+EC 4.2.1.37; now EC 3.3.2.4
+EC 4.2.1.38; now EC 4.3.1.20
+EC 4.2.1.39; gluconate dehydratase
+EC 4.2.1.40; glucarate dehydratase
+EC 4.2.1.41; 5-dehydro-4-deoxyglucarate dehydratase
+EC 4.2.1.42; galactarate dehydratase
+EC 4.2.1.43; 2-dehydro-3-deoxy-L-arabinonate dehydratase
+EC 4.2.1.44; myo-inosose-2 dehydratase
+EC 4.2.1.45; CDP-glucose 4,6-dehydratase
+EC 4.2.1.46; dTDP-glucose 4,6-dehydratase
+EC 4.2.1.47; GDP-mannose 4,6-dehydratase
+EC 4.2.1.48; D-glutamate cyclase
+EC 4.2.1.49; urocanate hydratase
+EC 4.2.1.50; pyrazolylalanine synthase
+EC 4.2.1.51; prephenate dehydratase
+EC 4.2.1.52; now EC 4.3.3.7
+EC 4.2.1.53; oleate hydratase
+EC 4.2.1.54; lactoyl-CoA dehydratase
+EC 4.2.1.55; 3-hydroxybutyryl-CoA dehydratase
+EC 4.2.1.56; itaconyl-CoA hydratase
+EC 4.2.1.57; isohexenylglutaconyl-CoA hydratase
+EC 4.2.1.58; now EC 4.2.1.59
+EC 4.2.1.59; 3-hydroxyoctanoyl-(acyl-carrier-protein) dehydratase
+EC 4.2.1.60; now EC 4.2.1.59
+EC 4.2.1.61; now EC 4.2.1.59
+EC 4.2.1.62; 5a-hydroxysteroid dehydratase
+EC 4.2.1.63; now EC 3.3.2.3
+EC 4.2.1.64; now EC 3.3.2.3
+EC 4.2.1.65; 3-cyanoalanine hydratase
+EC 4.2.1.66; cyanide hydratase
+EC 4.2.1.67; D-fuconate dehydratase
+EC 4.2.1.68; L-fuconate dehydratase
+EC 4.2.1.69; cyanamide hydratase
+EC 4.2.1.70; pseudouridylate synthase
+EC 4.2.1.71; identical to EC 4.2.1.27
+EC 4.2.1.72; now EC 4.1.1.78
+EC 4.2.1.73; protoaphin-aglucone dehydratase (cyclizing)
+EC 4.2.1.74; long-chain-enoyl-CoA hydratase
+EC 4.2.1.75; uroporphyrinogen-III synthase
+EC 4.2.1.76; UDP-glucose 4,6-dehydratase
+EC 4.2.1.77; trans-L-3-hydroxyproline dehydratase
+EC 4.2.1.78; (S)-norcoclaurine synthase
+EC 4.2.1.79; 2-methylcitrate dehydratase
+EC 4.2.1.80; 2-oxopent-4-enoate hydratase
+EC 4.2.1.81; D(-)-tartrate dehydratase
+EC 4.2.1.82; xylonate dehydratase
+EC 4.2.1.83; 4-oxalmesaconate hydratase
+EC 4.2.1.84; nitrile hydratase
+EC 4.2.1.85; dimethylmaleate hydratase
+EC 4.2.1.86; deleted identical to EC 4.2.1.98
+EC 4.2.1.87; octopamine dehydratase
+EC 4.2.1.88; synephrine dehydratase
+EC 4.2.1.89; carnitine dehydratase
+EC 4.2.1.90; L-rhamnonate dehydratase
+EC 4.2.1.91; arogenate dehydratase
+EC 4.2.1.92; hydroperoxide dehydratase
+EC 4.2.1.93; ATP-dependent NAD(P)H-hydrate dehydratase
+EC 4.2.1.94; scytalone dehydratase
+EC 4.2.1.95; kievitone hydratase
+EC 4.2.1.96; 4a-hydroxytetrahydrobiopterin dehydratase
+EC 4.2.1.97; phaseollidin hydratase
+EC 4.2.1.98; 16a-hydroxyprogesterone dehydratase
+EC 4.2.1.99; 2-methylisocitrate dehydratase
+EC 4.2.1.100; cyclohexa-1,5-dienecarbonyl-CoA hydratase
+EC 4.2.1.101; trans-feruloyl-CoA hydratase
+EC 4.2.1.102; now EC 4.2.1.100
+EC 4.2.1.103; cyclohexyl-isocyanide hydratase
+EC 4.2.1.104; cyanate hydratase
+EC 4.2.1.105; 2-hydroxyisoflavanone dehydratase
+EC 4.2.1.106; bile-acid 7a-dehydratase
+EC 4.2.1.107; 3a,7a,12a-trihydroxy-5b-cholest-24-enoyl-CoA dehydratase
+EC 4.2.1.108; ectoine synthase
+EC 4.2.1.109; methylthioribulose 1-phosphate dehydratase
+EC 4.2.1.110; aldos-2-ulose dehydratase
+EC 4.2.1.111; 1,5-anhydro-D-fructose dehydratase
+EC 4.2.1.112; acetylene hydratase
+EC 4.2.1.113; o-succinylbenzoate synthase
+EC 4.2.1.114; methanogen homoaconitase
+EC 4.2.1.115; UDP-N-acetylglucosamine 4,6-dehydratase (configuration-inverting)
+EC 4.2.1.116; 3-hydroxypropionyl-CoA dehydratase
+EC 4.2.1.117; 2-methylcitrate dehydratase (2-methyl-trans-aconitate forming)
+EC 4.2.1.118; 3-dehydroshikimate dehydratase
+EC 4.2.1.119; venoyl-CoA hydratase 2
+EC 4.2.1.120; 4-hydroxybutanoyl-CoA dehydratase
+EC 4.2.1.121; colneleate synthase
+EC 4.2.1.122; tryptophan synthase (indole-salvaging)
+EC 4.2.1.123; tetrahymanol synthase
+EC 4.2.1.124; arabidiol synthase
+EC 4.2.1.125; dammarenediol II synthase
+EC 4.2.1.126; N-acetylmuramic acid 6-phosphate etherase
+EC 4.2.1.127; linalool dehydratase
+EC 4.2.1.128; lupan-3beta,20-diol synthase
+EC 4.2.1.129; squalene---hopanol cyclase
+EC 4.2.1.130; D-lactate dehydratase
+EC 4.2.1.131; carotenoid 1,2-hydratase
+EC 4.2.1.132; 2-hydroxyhexa-2,4-dienoate hydratase
+EC 4.2.1.133; copal-8-ol diphosphate hydratase
+EC 4.2.1.134; very-long-chain (3R)-3-hydroxyacyl-(acyl-carrier protein) dehydratase
+EC 4.2.1.135; UDP-N-acetylglucosamine 4,6-dehydratase (configuration-retaining)
+EC 4.2.1.136; ADP-dependent NAD(P)H-hydrate dehydratase
+EC 4.2.1.137; sporulenol synthase
+EC 4.2.1.138; (+)-Caryolan-1-ol synthase
+EC 4.2.1.163; 2-oxo-hept-4-ene-1,7-dioate hydratase
+EC 4.2.2.1; hyaluronate lyase
+EC 4.2.2.2; pectate lyase
+EC 4.2.2.3; poly(b-D-mannuronate) lyase
+EC 4.2.2.4; chondroitin ABC lyase
+EC 4.2.2.5; chondroitin AC lyase
+EC 4.2.2.6; oligogalacturonide lyase
+EC 4.2.2.7; heparin lyase
+EC 4.2.2.8; heparin-sulfate lyase
+EC 4.2.2.9; pectate disaccharide-lyase
+EC 4.2.2.10; pectin lyase
+EC 4.2.2.11; poly(a-L-guluronate) lyase
+EC 4.2.2.12; xanthan lyase
+EC 4.2.2.13; exo-(1-4)-α-D-glucan lyase
+EC 4.2.2.14; glucuronan lyase
+EC 4.2.2.15; anhydrosialidase
+EC 4.2.2.16; levan fructotransferase (DFA-IV-forming)
+EC 4.2.2.17; inulin fructotransferase (DFA-I-forming)
+EC 4.2.2.18; inulin fructotransferase (DFA-III-forming)
+EC 4.2.2.19; chondroitin B lyase
+EC 4.2.2.20; chondroitin-sulfate-ABC endolyase
+EC 4.2.2.21; chondroitin-sulfate-ABC exolyase
+EC 4.2.2.22; pectate trisaccharide-lyase
+EC 4.2.2.23; rhamnogalacturonan endolyase
+EC 4.2.2.24; rhamnogalacturonan exolyase
+EC 4.2.2.25; gellan lyase
+EC 4.2.3.1; threonine synthase
+EC 4.2.3.2; ethanolamine-phosphate phospho-lyase
+EC 4.2.3.3; methylglyoxal synthase
+EC 4.2.3.4; 3-dehydroquinate synthase
+EC 4.2.3.5; chorismate synthase
+EC 4.2.3.6; trichodiene synthase
+EC 4.2.3.7; pentalenene synthase
+EC 4.2.3.8; casbene synthase
+EC 4.2.3.9; aristolochene synthase
+EC 4.2.3.10; (-)-endo-fenchol synthase
+EC 4.2.3.11; sabinene-hydrate synthase
+EC 4.2.3.12; 6-pyruvoyltetrahydropterin synthase
+EC 4.2.3.13; (+)-d-cadinene synthase
+EC 4.2.3.14; pinene synthase
+EC 4.2.3.15; myrcene synthase
+EC 4.2.3.16; (4S)-limonene synthase
+EC 4.2.3.17; taxadiene synthase
+EC 4.2.3.18; abietadiene synthase
+EC 4.2.3.19; ent-kaurene synthase
+EC 4.2.3.20; (R)-limonene synthase
+EC 4.2.3.21; vetispiradiene synthase
+EC 4.2.3.22; germacradienol synthase
+EC 4.2.3.23; germacrene-A synthase
+EC 4.2.3.24; amorpha-4,11-diene synthase
+EC 4.2.3.25; S-linalool synthase
+EC 4.2.3.26; R-linalool synthase
+EC 4.2.3.27; isoprene synthase
+EC 4.2.3.28; ent-cassa-12,15-diene synthase
+EC 4.2.3.29; ent-sandaracopimaradiene synthase
+EC 4.2.3.30; ent-pimara-8(14),15-diene synthase
+EC 4.2.3.31; ent-pimara-9(11),15-diene synthase
+EC 4.2.3.32; levopimaradiene synthase
+EC 4.2.3.33; stemar-13-ene synthase
+EC 4.2.3.34; stemod-13(17)-ene synthase
+EC 4.2.3.35; syn-pimara-7,15-diene synthase
+EC 4.2.3.36; terpentetriene synthase
+EC 4.2.3.37; epi-isozizaene synthase
+EC 4.2.3.38; alpha-bisabolene synthase
+EC 4.2.3.39; epi-cedrol synthase
+EC 4.2.3.40; (Z)-gamma-bisabolene synthase
+EC 4.2.3.41; elisabethatriene synthase
+EC 4.2.3.42; aphidicolan-16beta-ol synthase
+EC 4.2.3.43; fusicocca-2,10(14)-diene synthase
+EC 4.2.3.44; isopimara-7,15-diene synthase
+EC 4.2.3.45; phyllocladan-16alpha-ol synthase
+EC 4.2.3.46; alpha-farnesene synthase
+EC 4.2.3.47; beta-farnesene synthase
+EC 4.2.3.48; (3S,6E)-nerolidol synthase
+EC 4.2.3.49; (3R,6E)-nerolidol synthase
+EC 4.2.3.50; (+)-alpha-santalene synthase ((2Z,6Z)-farnesyl diphosphate cyclizing)
+EC 4.2.3.51; beta-phellandrene synthase (neryl-diphosphate-cyclizing)
+EC 4.2.3.52; (4S)-beta-phellandrene synthase (geranyl-diphosphate-cyclizing)
+EC 4.2.3.53; (+)-endo-beta-bergamotene synthase ((2Z,6Z)-farnesyl diphosphate cyclizing)
+EC 4.2.3.54; (-)-endo-alpha-bergamotene synthase ((2Z,6Z)-farnesyl diphosphate cyclizing)
+EC 4.2.3.55; (S)-beta-bisabolene synthase
+EC 4.2.3.56; gamma-humulene synthase
+EC 4.2.3.57; (-)-beta-caryophyllene synthase
+EC 4.2.3.58; longifolene synthase
+EC 4.2.3.59; (E)-gamma-bisabolene synthase
+EC 4.2.3.60; germacrene C synthase
+EC 4.2.3.61; 5-epiaristolochene synthase
+EC 4.2.3.62; (-)-gamma-cadinene synthase ((2Z,6E)-farnesyl diphosphate cyclizing)
+EC 4.2.3.63; (+)-cubenene synthase
+EC 4.2.3.64; (+)-epicubenol synthase
+EC 4.2.3.65; zingiberene synthase
+EC 4.2.3.66; beta-selinene cyclase
+EC 4.2.3.67; cis-muuroladiene synthase
+EC 4.2.3.68; beta-eudesmol synthase
+EC 4.2.3.69; (+)-alpha-barbatene synthase
+EC 4.2.3.70; patchoulol synthase
+EC 4.2.3.71; (E,E)-germacrene B synthase
+EC 4.2.3.72; alpha-gurjunene synthase
+EC 4.2.3.73; valencene synthase
+EC 4.2.3.74; presilphiperfolanol synthase
+EC 4.2.3.75; (-)-germacrene D synthase
+EC 4.2.3.76; (+)-delta-selinene synthase
+EC 4.2.3.77; (+)-germacrene D synthase
+EC 4.2.3.78; beta-chamigrene synthase
+EC 4.2.3.79; thujopsene synthase
+EC 4.2.3.80; alpha-longipinene synthase
+EC 4.2.3.81; exo-alpha-bergamotene synthase
+EC 4.2.3.82; alpha-santalene synthase
+EC 4.2.3.83; beta-santalene synthase
+EC 4.2.3.84; 10-epi-gamma-eudesmol synthase
+EC 4.2.3.85; alpha-eudesmol synthase
+EC 4.2.3.86; 7-epi-alpha-selinene synthase
+EC 4.2.3.87; alpha-guaiene synthase
+EC 4.2.3.88; viridiflorene synthase
+EC 4.2.3.89; (+)-beta-caryophyllene synthase
+EC 4.2.3.90; 5-epi-alpha-selinene synthase
+EC 4.2.3.91; cubebol synthase
+EC 4.2.3.92; (+)-gamma-cadinene synthase
+EC 4.2.3.93; delta-guaiene synthase
+EC 4.2.3.94; gamma-curcumene synthase
+EC 4.2.3.95; (-)-alpha-cuprenene synthase
+EC 4.2.3.96; avermitilol synthase
+EC 4.2.3.97; (-)-delta-cadinene synthase
+EC 4.2.3.98; (+)-T-muurolol synthase
+EC 4.2.3.99; labdatriene synthase
+EC 4.2.3.100; bicyclogermacrene synthase
+EC 4.2.3.101; 7-epi-sesquithujene synthase
+EC 4.2.3.102; sesquithujene synthase
+EC 4.2.3.103; ent-isokaurene synthase
+EC 4.2.3.104; alpha-humulene synthase
+EC 4.2.3.105; tricyclene synthase
+EC 4.2.3.106; (E)-beta-ocimene synthase
+EC 4.2.3.107; (+)-car-3-ene synthase
+EC 4.2.3.108; 1,8-cineole synthase
+EC 4.2.3.109; (-)-sabinene synthase
+EC 4.2.3.110; (+)-sabinene synthase
+EC 4.2.3.111; (-)-alpha-terpineol synthase
+EC 4.2.3.112; (+)-alpha-terpineol synthase
+EC 4.2.3.113; terpinolene synthase
+EC 4.2.3.114; gamma-terpinene synthase
+EC 4.2.3.115; alpha-terpinene synthase
+EC 4.2.3.116; (+)-camphene synthase
+EC 4.2.3.117; (-)-camphene synthase
+EC 4.2.3.118; 2-methylisoborneol synthase
+EC 4.2.3.119; (-)-alpha-pinene synthase
+EC 4.2.3.120; (-)-beta-pinene synthase
+EC 4.2.3.121; (+)-alpha-pinene synthase
+EC 4.2.3.122; (+)-beta-pinene synthase
+EC 4.2.3.123; beta-sesquiphellandrene synthase
+EC 4.2.3.124; 2-deoxy-scyllo-inosose synthase
+EC 4.2.3.125; alpha-muurolene synthase
+EC 4.2.3.126; gamma-muurolene synthase
+EC 4.2.3.127; beta-copaene synthase
+EC 4.2.3.128; beta-cubebene synthase
+EC 4.2.3.129; (+)-sativene synthase
+EC 4.2.3.130; tetraprenyl-beta-curcumene synthase
+EC 4.2.3.131; miltiradiene synthase
+EC 4.2.3.132; neoabietadiene synthase
+EC 4.2.3.133; alpha-copaene synthase
+EC 4.2.3.134; 5-phosphonooxy-L-lysine phospho-lyase
+EC 4.2.3.135; Delta6-protoilludene synthase
+EC 4.2.3.136; alpha-isocomene synthase
+EC 4.2.3.137; (E)-2-epi-beta-caryophyllene synthase
+EC 4.2.3.138; (+)-epi-alpha-bisabolol synthase
+EC 4.2.3.139; valerena-4,7(11)-diene synthase
+EC 4.2.3.140; cis-abienol synthase
+EC 4.2.99.1; now EC 4.2.2.2
+EC 4.2.99.2; now EC 4.2.3.1
+EC 4.2.99.3; now EC 4.2.2.2
+EC 4.2.99.4; now EC 4.2.2.3
+EC 4.2.99.5; deleted
+EC 4.2.99.6; deleted, included in EC 4.2.2.4 and EC 4.2.2.5
+EC 4.2.99.7; now EC 4.2.3.2
+EC 4.2.99.8; now EC 2.5.1.47
+EC 4.2.99.9; now EC 2.5.1.48
+EC 4.2.99.10; now EC 2.5.1.49
+EC 4.2.99.11; now EC 4.2.3.3
+EC 4.2.99.12; carboxymethyloxysuccinate lyase
+EC 4.2.99.13; now EC 2.5.1.50
+EC 4.2.99.14; now EC 2.5.1.51
+EC 4.2.99.15; now EC 2.5.1.52
+EC 4.2.99.16; now EC 2.5.1.53
+EC 4.2.99.17; now EC 4.2.99.14
+EC 4.2.99.18; DNA-(apurinic or apyrimidinic site) lyase
+EC 4.2.99.19; transferred entry, now EC 4.4.1.23
+EC 4.2.99.20; 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+EC 4.2.99.21; isochorismate lyase
+EC 4.3.1.1; aspartate ammonia-lyase
+EC 4.3.1.2; methylaspartate ammonia-lyase
+EC 4.3.1.3; histidine ammonia-lyase
+EC 4.3.1.4; formiminotetrahydrofolate cyclodeaminase
+EC 4.3.1.5; Now divided into EC 4.3.1.23 (tyrosine ammonia-lyase), EC 4.3.1.24 (phenylalanine ammonia-lyase) and EC 4.3.1.25 (phenylalanine/tyrosine ammonia-lyase)
+EC 4.3.1.6; b-alanyl-CoA ammonia-lyase
+EC 4.3.1.7; ethanolamine ammonia-lyase
+EC 4.3.1.8; now EC 2.5.1.61
+EC 4.3.1.9; glucosaminate ammonia-lyase
+EC 4.3.1.10; serine-sulfate ammonia-lyase
+EC 4.3.1.11; dihydroxyphenylalanine ammonia-lyase
+EC 4.3.1.12; ornithine cyclodeaminase
+EC 4.3.1.13; carbamoyl-serine ammonia-lyase
+EC 4.3.1.14; 3-aminobutyryl-CoA ammonia-lyase
+EC 4.3.1.15; diaminopropionate ammonia-lyase
+EC 4.3.1.16; threo-3-hydroxyaspartate ammonia-lyase
+EC 4.3.1.17; L-serine ammonia-lyase
+EC 4.3.1.18; D-serine ammonia-lyase
+EC 4.3.1.19; threonine ammonia-lyase
+EC 4.3.1.20; erythro-3-hydroxyaspartate ammonia-lyase
+EC 4.3.1.21; Identical to EC 4.3.1.9
+EC 4.3.1.22; 3,4-dihydroxyphenylalanine reductive deaminase
+EC 4.3.1.23; tyrosine ammonia-lyase
+EC 4.3.1.24; phenylalanine ammonia-lyase
+EC 4.3.1.25; phenylalanine/tyrosine ammonia-lyase
+EC 4.3.1.26; chromopyrrolate synthase is now EC 1.21.3.9, dichlorochromopyrrolate synthase
+EC 4.3.1.27; threo-3-hydroxy-D-aspartate ammonia-lyase
+EC 4.3.1.28; L-lysine cyclodeaminase
+EC 4.3.2.1; argininosuccinate lyase
+EC 4.3.2.2; adenylosuccinate lyase
+EC 4.3.2.3; ureidoglycolate lyase
+EC 4.3.2.4; purine imidazole-ring cyclase
+EC 4.3.2.5; peptidylamidoglycolate lyase
+EC 4.3.2.6; gamma-L-glutamyl-butirosin B gamma-glutamyl cyclotransferase
+EC 4.3.3.1; 3-ketovalidoxylamine C-N-lyase
+EC 4.3.3.2; strictosidine synthase
+EC 4.3.3.3; deacetylisoipecoside synthase
+EC 4.3.3.4; deacetylipecoside synthase
+EC 4.3.3.5; 4'-demethylrebeccamycin synthase
+EC 4.3.3.6; pyridoxal 5'-phosphate synthase (glutamine hydrolyzing)
+EC 4.3.3.7; 4-hydroxy-tetrahydrodipicolinate synthase
+EC 4.3.99.1; now EC 4.2.1.104
+EC 4.3.99.2; carboxybiotin decarboxylase
+EC 4.3.99.3; 7-carboxy-7-deazaguanine synthase
+EC 4.4.1.1; cystathionine g-lyase
+EC 4.4.1.2; homocysteine desulfhydrase
+EC 4.4.1.3; dimethylpropiothetin dethiomethylase
+EC 4.4.1.4; alliin lyase
+EC 4.4.1.5; lactoylglutathione lyase
+EC 4.4.1.6; S-alkylcysteine lyase
+EC 4.4.1.7; deleted, included in EC 2.5.1.18
+EC 4.4.1.8; cystathionine b-lyase
+EC 4.4.1.9; L-3-cyanoalanine synthase
+EC 4.4.1.10; cysteine lyase
+EC 4.4.1.11; methionine g-lyase
+EC 4.4.1.12; deleted
+EC 4.4.1.13; cysteine-S-conjugate b-lyase
+EC 4.4.1.14; 1-aminocyclopropane-1-carboxylate synthase
+EC 4.4.1.15; D-cysteine desulfhydrase
+EC 4.4.1.16; selenocysteine lyase
+EC 4.4.1.17; holocytochrome-c synthase
+EC 4.4.1.18; now EC 1.8.3.5
+EC 4.4.1.19; phosphosulfolactate synthase
+EC 4.4.1.20; leukotriene-C4 synthase
+EC 4.4.1.21; S-ribosylhomocysteine lyase
+EC 4.4.1.22; S-(hydroxymethyl)glutathione synthase
+EC 4.4.1.23; 2-hydroxypropyl-CoM lyase
+EC 4.4.1.24; (2R)-sulfolactate sulfo-lyase
+EC 4.4.1.25; L-cysteate sulfo-lyase
+EC 4.4.1.26; olivetolic acid cyclase
+EC 4.5.1.1; DDT-dehydrochlorinase
+EC 4.5.1.2; 3-chloro-D-alanine dehydrochlorinase
+EC 4.5.1.3; dichloromethane dehalogenase
+EC 4.5.1.4; L-2-amino-4-chloropent-4-enoate dehydrochlorinase
+EC 4.5.1.5; S-carboxymethylcysteine synthase
+EC 4.6.1.1; adenylate cyclase
+EC 4.6.1.2; guanylate cyclase
+EC 4.6.1.3; now EC 4.2.3.4
+EC 4.6.1.4; now EC 4.2.3.5
+EC 4.6.1.5; now EC 4.2.3.7
+EC 4.6.1.6; cytidylate cyclase
+EC 4.6.1.7; now EC 4.2.3.8
+EC 4.6.1.8; now EC 4.2.3.10
+EC 4.6.1.9; now EC 4.2.3.11
+EC 4.6.1.10; now EC 4.2.3.12
+EC 4.6.1.11; now EC 4.2.3.13
+EC 4.6.1.12; 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+EC 4.6.1.13; phosphatidylinositol diacylglycerol-lyase
+EC 4.6.1.14; glycosylphosphatidylinositol diacylglycerol-lyase
+EC 4.6.1.15; FAD-AMP lyase (cyclizing)
+EC 4.6.1.16; TRNA-intron endonuclease
+EC 4.99.1.1; ferrochelatase
+EC 4.99.1.2; alkylmercury lyase
+EC 4.99.1.3; sirohydrochlorin cobaltochelatase
+EC 4.99.1.4; sirohydrochlorin ferrochelatase
+EC 4.99.1.5; aliphatic aldoxime dehydratase
+EC 4.99.1.6; indoleacetaldoxime dehydratase
+EC 4.99.1.7; phenylacetaldoxime dehydratase
+EC 4.99.1.8; heme ligase

@@ -1,0 +1,7 @@
+EC 4.1:; Carbon-Carbon Lyases
+EC 4.2:; Carbon-Oxygen Lyases
+EC 4.3:; Carbon-Nitrogen Lyases
+EC 4.4:; Carbon-Sulfur Lyases
+EC 4.5:; Carbon-Halide Lyases
+EC 4.6:; Phosphorus-Oxygen Lyases
+EC 4.99:; Other Lyases

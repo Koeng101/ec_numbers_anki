@@ -1,0 +1,6 @@
+EC 1; Oxidoreductases
+EC 2; Transferases
+EC 3; Hydrolases
+EC 4; Lyases
+EC 5; Isomerases
+EC 6; Ligases

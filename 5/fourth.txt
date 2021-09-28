@@ -1,0 +1,245 @@
+EC 5.1.1.1; alanine racemase
+EC 5.1.1.2; methionine racemase
+EC 5.1.1.3; glutamate racemase
+EC 5.1.1.4; proline racemase
+EC 5.1.1.5; lysine racemase
+EC 5.1.1.6; threonine racemase
+EC 5.1.1.7; diaminopimelate epimerase
+EC 5.1.1.8; 4-hydroxyproline epimerase
+EC 5.1.1.9; arginine racemase
+EC 5.1.1.10; amino-acid racemase
+EC 5.1.1.11; phenylalanine racemase (ATP-hydrolysing)
+EC 5.1.1.12; ornithine racemase
+EC 5.1.1.13; aspartate racemase
+EC 5.1.1.14; nocardicin-A epimerase
+EC 5.1.1.15; 2-aminohexano-6-lactam racemase
+EC 5.1.1.16; protein-serine epimerase
+EC 5.1.1.17; isopenicillin-N epimerase
+EC 5.1.1.18; serine racemase
+EC 5.1.2.1; lactate racemase
+EC 5.1.2.2; mandelate racemase
+EC 5.1.2.3; 3-hydroxybutyryl-CoA epimerase
+EC 5.1.2.4; acetoin racemase
+EC 5.1.2.5; tartrate epimerase
+EC 5.1.2.6; isocitrate epimerase
+EC 5.1.3.1; ribulose-phosphate 3-epimerase
+EC 5.1.3.2; UDP-glucose 4-epimerase
+EC 5.1.3.3; aldose 1-epimerase
+EC 5.1.3.4; L-ribulose-5-phosphate 4-epimerase
+EC 5.1.3.5; UDP-arabinose 4-epimerase
+EC 5.1.3.6; UDP-glucuronate 4-epimerase
+EC 5.1.3.7; UDP-N-acetylglucosamine 4-epimerase
+EC 5.1.3.8; N-acylglucosamine 2-epimerase
+EC 5.1.3.9; N-acylglucosamine-6-phosphate 2-epimerase
+EC 5.1.3.10; CDP-paratose 2-epimerase
+EC 5.1.3.11; cellobiose epimerase
+EC 5.1.3.12; UDP-glucuronate 5'-epimerase
+EC 5.1.3.13; dTDP-4-dehydrorhamnose 3,5-epimerase
+EC 5.1.3.14; UDP-N-acetylglucosamine 2-epimerase
+EC 5.1.3.15; glucose-6-phosphate 1-epimerase
+EC 5.1.3.16; UDP-glucosamine 4-epimerase
+EC 5.1.3.17; heparosan-N-sulfate-glucuronate 5-epimerase
+EC 5.1.3.18; GDP-mannose 3,5-epimerase
+EC 5.1.3.19; chondroitin-glucuronate 5-epimerase
+EC 5.1.3.20; ADP-glyceromanno-heptose 6-epimerase
+EC 5.1.3.21; maltose epimerase
+EC 5.1.3.22; L-ribulose-5-phosphate 3-epimerase
+EC 5.1.3.23; UDP-2,3-diacetamido-2,3-dideoxyglucuronic acid 2-epimerase
+EC 5.1.3.24; N-acetylneuraminate epimerase
+EC 5.1.3.25; dTDP-L-rhamnose 4-epimerase
+EC 5.1.99.1; methylmalonyl-CoA epimerase
+EC 5.1.99.2; 16-hydroxysteroid epimerase
+EC 5.1.99.3; allantoin racemase
+EC 5.1.99.4; a-methylacyl-CoA racemase
+EC 5.1.99.5; hydantoin racemase
+EC 5.1.99.6; NAD(P)H-hydrate epimerase
+EC 5.2.1.1; maleate isomerase
+EC 5.2.1.2; maleylacetoacetate isomerase
+EC 5.2.1.3; retinal isomerase
+EC 5.2.1.4; maleylpyruvate isomerase
+EC 5.2.1.5; linoleate isomerase
+EC 5.2.1.6; furylfuramide isomerase
+EC 5.2.1.7; Deleted, transferred to EC 3.1.1.64
+EC 5.2.1.8; peptidylprolyl isomerase
+EC 5.2.1.9; farnesol 2-isomerase
+EC 5.2.1.10; 2-chloro-4-carboxymethylenebut-2-en-1,4-olide isomerase
+EC 5.2.1.11; deleted entry
+EC 5.2.1.12; zeta-carotene isomerase
+EC 5.2.1.13; prolycopene isomerase
+EC 5.2.1.14; beta-carotene isomerase
+EC 5.3.1.1; triose-phosphate isomerase
+EC 5.3.1.2; deleted
+EC 5.3.1.3; arabinose isomerase
+EC 5.3.1.4; L-arabinose isomerase
+EC 5.3.1.5; xylose isomerase
+EC 5.3.1.6; ribose-5-phosphate isomerase
+EC 5.3.1.7; mannose isomerase
+EC 5.3.1.8; mannose-6-phosphate isomerase
+EC 5.3.1.9; glucose-6-phosphate isomerase
+EC 5.3.1.10; now EC 3.5.99.6
+EC 5.3.1.11; deleted
+EC 5.3.1.12; glucuronate isomerase
+EC 5.3.1.13; arabinose-5-phosphate isomerase
+EC 5.3.1.14; L-rhamnose isomerase
+EC 5.3.1.15; D-lyxose ketol-isomerase
+EC 5.3.1.16; 1-(5-phosphoribosyl)-5-((5-phosphoribosylamino)methylideneamino)imidazole-4-carboxamide isomerase
+EC 5.3.1.17; 4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase
+EC 5.3.1.18; deleted
+EC 5.3.1.19; now EC 2.6.1.16
+EC 5.3.1.20; ribose isomerase
+EC 5.3.1.21; corticosteroid side-chain-isomerase
+EC 5.3.1.22; hydroxypyruvate isomerase
+EC 5.3.1.23; 5-methylthioribose-1-phosphate isomerase
+EC 5.3.1.24; phosphoribosylanthranilate isomerase
+EC 5.3.1.25; L-fucose isomerase
+EC 5.3.1.26; galactose-6-phosphate isomerase
+EC 5.3.1.27; 6-phospho-3-hexuloisomerase
+EC 5.3.1.28; D-sedoheptulose 7-phosphate isomerase
+EC 5.3.2.1; phenylpyruvate tautomerase
+EC 5.3.2.2; oxaloacetate tautomerase
+EC 5.3.2.3; TDP-4-oxo-6-deoxy-alpha-D-glucose-3,4-oxoisomerase (dTDP-3-dehydro-6-deoxy-alpha-D-galactopyranose-forming)
+EC 5.3.2.4; TDP-4-oxo-6-deoxy-alpha-D-glucose-3,4-oxoisomerase (dTDP-3-dehydro-6-deoxy-alpha-D-glucopyranose-forming)
+EC 5.3.2.5; 2,3-diketo-5-methylthiopentyl-1-phosphate enolase
+EC 5.3.2.6; 2-hydroxymuconate tautomerase
+EC 5.3.2.7; Ascopyrone tautomerase
+EC 5.3.2.8; 4-oxalomesaconate tautomerase
+EC 5.3.3.1; steroid D-isomerase
+EC 5.3.3.2; isopentenyl-diphosphate D-isomerase
+EC 5.3.3.3; vinylacetyl-CoA D-isomerase
+EC 5.3.3.4; muconolactone D-isomerase
+EC 5.3.3.5; cholestenol D-isomerase
+EC 5.3.3.6; methylitaconate D-isomerase
+EC 5.3.3.7; aconitate D-isomerase
+EC 5.3.3.8; dodecenoyl-CoA D-isomerase
+EC 5.3.3.9; prostaglandin-A1 D-isomerase
+EC 5.3.3.10; 5-carboxymethyl-2-hydroxymuconate D-isomerase
+EC 5.3.3.11; isopiperitenone D-isomerase
+EC 5.3.3.12; L-dopachrome isomerase
+EC 5.3.3.13; polyenoic fatty acid isomerase
+EC 5.3.3.14; trans-2-decenoyl-(acyl-carrier protein) isomerase
+EC 5.3.3.15; ascopyrone tautomerase, now EC 5.3.2.7
+EC 5.3.3.16; 4-oxalomesaconate tautomerase, now EC 5.3.2.8
+EC 5.3.3.17; trans-2,3-dihydro-3-hydroxyanthranilate isomerase
+EC 5.3.3.18; 2-(1,2-epoxy-1,2-dihydrophenyl)acetyl-CoA isomerase
+EC 5.3.4.1; protein disulfide-isomerase
+EC 5.3.99.1; deleted
+EC 5.3.99.2; prostaglandin-D synthase
+EC 5.3.99.3; prostaglandin-E synthase
+EC 5.3.99.4; prostaglandin-I synthase
+EC 5.3.99.5; thromboxane-A synthase
+EC 5.3.99.6; allene-oxide cyclase
+EC 5.3.99.7; styrene-oxide isomerase
+EC 5.3.99.8; capsanthin/capsorubin synthase
+EC 5.3.99.9; neoxanthin synthase
+EC 5.3.99.10; thiazole tautomerase
+EC 5.4.1.1; lysolecithin acylmutase
+EC 5.4.1.2; precorrin-8X methylmutase
+EC 5.4.2.1; phosphoglycerate mutase: Transferred to EC 5.4.2.11 and EC 5.4.2.12
+EC 5.4.2.2; phosphoglucomutase
+EC 5.4.2.3; phosphoacetylglucosamine mutase
+EC 5.4.2.4; bisphosphoglycerate mutase
+EC 5.4.2.5; phosphoglucomutase (glucose-cofactor)
+EC 5.4.2.6; b-phosphoglucomutase
+EC 5.4.2.7; phosphopentomutase
+EC 5.4.2.8; phosphomannomutase
+EC 5.4.2.9; phosphoenolpyruvate mutase
+EC 5.4.2.10; phosphoglucosamine mutase
+EC 5.4.2.11; phosphoglycerate mutase
+EC 5.4.2.12; phosphoglycerate mutase
+EC 5.4.3.1; deleted
+EC 5.4.3.2; lysine 2,3-aminomutase
+EC 5.4.3.3; b-lysine 5,6-aminomutase
+EC 5.4.3.4; D-lysine 5,6-aminomutase
+EC 5.4.3.5; D-ornithine 4,5-aminomutase
+EC 5.4.3.6; tyrosine 2,3-aminomutase
+EC 5.4.3.7; leucine 2,3-aminomutase
+EC 5.4.3.8; glutamate-1-semialdehyde 2,1-aminomutase
+EC 5.4.3.9; glutamate 2,3-aminomutase
+EC 5.4.4.1; (hydroxyamino)benzene mutase
+EC 5.4.4.2; isochorismate synthase
+EC 5.4.4.3; 3-(hydroxyamino)phenol mutase
+EC 5.4.4.4; geraniol isomerase
+EC 5.4.4.5; 9,12-octadecadienoate 8-hydroperoxide 8R-isomerase
+EC 5.4.4.6; 9,12-octadecadienoate 8-hydroperoxide 8S-isomerase
+EC 5.4.99.1; methylaspartate mutase
+EC 5.4.99.2; methylmalonyl-CoA mutase
+EC 5.4.99.3; 2-acetolactate mutase
+EC 5.4.99.4; 2-methyleneglutarate mutase
+EC 5.4.99.5; chorismate mutase
+EC 5.4.99.6; now EC 5.4.4.2
+EC 5.4.99.7; lanosterol synthase
+EC 5.4.99.8; cycloartenol synthase
+EC 5.4.99.9; UDP-galactopyranose mutase
+EC 5.4.99.10; deleted, included in EC 5.4.99.11
+EC 5.4.99.11; isomaltulose synthase
+EC 5.4.99.12; tRNA-pseudouridine synthase I
+EC 5.4.99.13; isobutyryl-CoA mutase
+EC 5.4.99.14; 4-carboxymethyl-4-methylbutenolide mutase
+EC 5.4.99.15; (1→4)-a-D-glucan 1-a-D-glucosylmutase
+EC 5.4.99.16; maltose a-D-glucosyltransferase
+EC 5.4.99.17; squalene—hopene cyclase
+EC 5.4.99.18; 5-(carboxyamino)imidazole ribonucleotide mutase
+EC 5.4.99.19; 16S rRNA pseudouridine516 synthase
+EC 5.4.99.20; 23S rRNA pseudouridine2457 synthase
+EC 5.4.99.21; 23S rRNA pseudouridine2604 synthase
+EC 5.4.99.22; 23S rRNA pseudouridine2605 synthase
+EC 5.4.99.23; 23S rRNA pseudouridine1911/1915/1917 synthase
+EC 5.4.99.24; 23S rRNA pseudouridine955/2504/2580 synthase
+EC 5.4.99.25; tRNA pseudouridine55 synthase
+EC 5.4.99.26; tRNA pseudouridine65 synthase
+EC 5.4.99.27; tRNA pseudouridine13 synthase
+EC 5.4.99.28; tRNA pseudouridine32 synthase
+EC 5.4.99.29; 23S rRNA pseudouridine746 synthase
+EC 5.4.99.30; UDP-arabinopyranose mutase
+EC 5.4.99.31; thalianol synthase
+EC 5.4.99.32; protostadienol synthase
+EC 5.4.99.33; cucurbitadienol synthase
+EC 5.4.99.34; germanicol synthase
+EC 5.4.99.35; taraxerol synthase
+EC 5.4.99.36; isomultiflorenol synthase
+EC 5.4.99.37; dammaradiene synthase
+EC 5.4.99.38; camelliol C synthase
+EC 5.4.99.39; beta-amyrin synthase
+EC 5.4.99.40; alpha-amyrin synthase
+EC 5.4.99.41; lupeol synthase
+EC 5.4.99.42; tRNA pseudouridine31 synthase
+EC 5.4.99.43; 21S rRNA pseudouridine2819 synthase
+EC 5.4.99.44; mitochondrial tRNA pseudouridine27/28 synthase
+EC 5.4.99.45; tRNA pseudouridine38/39 synthase
+EC 5.4.99.46; shionone synthase
+EC 5.4.99.47; parkeol synthase
+EC 5.4.99.48; achilleol B synthase
+EC 5.4.99.49; glutinol synthase
+EC 5.4.99.50; friedelin synthase
+EC 5.4.99.51; baccharis oxide synthase
+EC 5.4.99.52; alpha-seco-amyrin synthase
+EC 5.4.99.53; marneral synthase
+EC 5.4.99.54; beta-seco-amyrin synthase
+EC 5.4.99.55; delta-amyrin synthase
+EC 5.4.99.56; tirucalladienol synthase
+EC 5.4.99.57; baruol synthase
+EC 5.4.99.58; methylornithine synthase
+EC 5.5.1.1; muconate cycloisomerase
+EC 5.5.1.2; 3-carboxy-cis,cis-muconate cycloisomerase
+EC 5.5.1.3; tetrahydroxypteridine cycloisomerase
+EC 5.5.1.4; inositol-3-phosphate synthase
+EC 5.5.1.5; carboxy-cis,cis-muconate cyclase
+EC 5.5.1.6; chalcone isomerase
+EC 5.5.1.7; chloromuconate cycloisomerase
+EC 5.5.1.8; bornyl diphosphate synthase
+EC 5.5.1.9; cycloeucalenol cycloisomerase
+EC 5.5.1.10; a-pinene-oxide decyclase
+EC 5.5.1.11; dichloromuconate cycloisomerase
+EC 5.5.1.12; copalyl diphosphate synthase
+EC 5.5.1.13; ent-copalyl diphosphate synthase
+EC 5.5.1.14; syn-copalyl-diphosphate synthase
+EC 5.5.1.15; terpentedienyl-diphosphate synthase
+EC 5.5.1.16; halimadienyl-diphosphate synthase
+EC 5.5.1.17; (S)-beta-macrocarpene synthase
+EC 5.5.1.18; lycopene epsilon-cyclase
+EC 5.5.1.19; lycopene beta-cyclase
+EC 5.5.1.20; prosolanapyrone-III cycloisomerase
+EC 5.99.1.1; thiocyanate isomerase
+EC 5.99.1.2; DNA topoisomerase
+EC 5.99.1.3; DNA topoisomerase (ATP-hydrolysing)
+EC 5.99.1.4; 2-hydroxychromene-2-carboxylate isomerase

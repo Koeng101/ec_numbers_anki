@@ -1,130 +1,130 @@
-EC 1.1.1; With NAD or NADP as acceptor
-EC 1.1.2; With a cytochrome as acceptor
-EC 1.1.3; With oxygen as acceptor
-EC 1.1.4; With a disulfide as acceptor
-EC 1.1.5; With a quinone or similar compound as acceptor
-EC 1.1.9; With a copper protein as acceptor
-EC 1.1.98; With other, known, acceptors
-EC 1.1.99; With other acceptors
-EC 1.2.1; With NAD or NADP as acceptor
-EC 1.2.2; With a cytochrome as acceptor
-EC 1.2.3; With oxygen as acceptor
-EC 1.2.4; With a disulfide as acceptor
-EC 1.2.5; With FAD as acceptor
-EC 1.2.7; With an iron-sulfur protein as acceptor
-EC 1.2.99; With other acceptors
-EC 1.3.1; With NAD or NADP as acceptor
-EC 1.3.2; With a cytochrome as acceptor
-EC 1.3.3; With oxygen as acceptor
-EC 1.3.5; With a quinone or related compound as acceptor
-EC 1.3.7; With an iron-sulfur protein as acceptor
-EC 1.3.8; With an FAD as prosthetic group
-EC 1.3.98; With FMN acceptor
-EC 1.3.99; With other acceptors
-EC 1.4.1; With NAD or NADP as acceptor
-EC 1.4.2; With a cytochrome as acceptor
-EC 1.4.3; With oxygen as acceptor
-EC 1.4.4; With a disulfide as acceptor
-EC 1.4.5; With an iron-sulfur flavoprotein as acceptor
-EC 1.4.7; With an iron-sulfur protein as acceptor
-EC 1.4.9; With TTQ acceptors
-EC 1.4.98; With tryptophan tryptophylquinone acceptors
-EC 1.4.99; With other acceptors
-EC 1.5.1; With NAD or NADP as acceptor
-EC 1.5.3; With oxygen as acceptor
-EC 1.5.4; With a disulfide as acceptor
-EC 1.5.5; With a quinone or similar compound as acceptor
-EC 1.5.7; With an iron-sulfur protein as acceptor
-EC 1.5.8; With a flavin as acceptor
-EC 1.5.99; With other acceptors
-EC 1.6.1; With NAD or NADP as acceptor
-EC 1.6.2; With a heme protein as acceptor
-EC 1.6.3; With oxygen as acceptor
-EC 1.6.4; With a disulfide as acceptor
-EC 1.6.5; With a quinone or similar compound as acceptor
-EC 1.6.6; With a nitrogenous group as acceptor
-EC 1.6.7; With an iron-sulfur protein as acceptor
-EC 1.6.8; With a flavin as acceptor
-EC 1.6.99; With other acceptors
-EC 1.7.1; With NAD+ or NADP+ as acceptor
-EC 1.7.2; With a cytochrome as acceptor
-EC 1.7.3; With oxygen as acceptor
-EC 1.7.5; With miscellaneous acceptors
-EC 1.7.6; With hydrogen as acceptor
-EC 1.7.7; With an iron-sulfur protein as acceptor
-EC 1.7.99; With other acceptors
-EC 1.8.1; With NAD or NADP as acceptor
-EC 1.8.2; With a cytochrome as acceptor
-EC 1.8.3; With oxygen as acceptor
-EC 1.8.4; With a disulfide as acceptor
-EC 1.8.5; With a quinone or similar compound as acceptor
-EC 1.8.6; With a nitrogenous group as acceptor
-EC 1.8.7; With an iron-sulfur protein as acceptor
-EC 1.8.98; With other, known, acceptors
-EC 1.8.99; With other acceptors
-EC 1.9.3; With oxygen as acceptor
-EC 1.9.6; With a nitrogenous group as acceptor
-EC 1.9.99; With other acceptors
-EC 1.10.1; With NAD or NADP as acceptor
-EC 1.10.2; With a cytochrome as acceptor
-EC 1.10.3; With oxygen as acceptor
-EC 1.10.99; With other acceptors
-EC 1.11.1; Peroxidases
-EC 1.11.2; Peroxygenase
-EC 1.12.1; With NAD or NADP as acceptor
-EC 1.12.2; With a cytochrome as acceptor
-EC 1.12.5; With a quinone or similar compound as acceptor
-EC 1.12.7; With an iron-sulfur protein as acceptor
-EC 1.12.98; With other known acceptors
-EC 1.12.99; With other acceptors
-EC 1.13.1; (transferred to EC 1.13.11)
-EC 1.13.11; With incorporation of two atoms of oxygen
-EC 1.13.12; With incorporation of one atom of oxygen (internal monooxygenases or internal mixed function oxidases)
-EC 1.13.99; Miscellaneous
-EC 1.14.1; With NADH or NADPH as one donor (deleted sub-subclass)
-EC 1.14.2; With ascorbate as one donor (deleted sub-subclass)
-EC 1.14.3; With reduced pteridine as one donor (deleted sub-subclass)
-EC 1.14.11; With 2-oxoglutarate as one donor, and incorporation of one atom each of oxygen into both donors
-EC 1.14.12; With NADH or NADPH as one donor, and incorporation of two atoms of oxygen into one donor
-EC 1.14.13; With NADH or NADPH as one donor, and incorporation of one atom of oxygen
-EC 1.14.14; With reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen
-EC 1.14.15; With reduced iron-sulfur protein as one donor, and incorporation of one atom of oxygen
-EC 1.14.16; With reduced pteridine as one donor, and incorporation of one atom of oxygen
-EC 1.14.17; With reduced ascorbate as one donor, and incorporation of one atom of oxygen
-EC 1.14.18; With another compound as one donor, and incorporation of one atom of oxygen
-EC 1.14.19; With oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
-EC 1.14.20; With 2-oxoglutarate as one donor, and the other dehydrogenated
-EC 1.14.21; With NADH or NADPH as one donor, and the other dehydrogenated
-EC 1.14.99; Miscellaneous
-EC 1.16.1; With NAD or NADP as acceptor
-EC 1.16.3; With oxygen as acceptor
-EC 1.16.5; With ascorbate as acceptor
-EC 1.16.8; With flavin as acceptor
-EC 1.16.9; With rusticyanin as acceptor
-EC 1.16.98; With rusticyanin as acceptor
-EC 1.17.1; With NAD or NADP as acceptor
-EC 1.17.2; With MCD as acceptor
-EC 1.17.3; With oxygen as acceptor
-EC 1.17.4; With a disulfide as acceptor
-EC 1.17.5; With a quinone or similar compound as acceptor
-EC 1.17.7; With an iron-sulfur protein as acceptor
-EC 1.17.99; With other acceptors
-EC 1.18.1; With NAD+ or NADP+ as acceptor
-EC 1.18.2; With dinitrogen as acceptor (transferred to EC 1.18.6)
-EC 1.18.3; With H+ as acceptor
-EC 1.18.6; With dinitrogen as acceptor
-EC 1.18.96; With other, known, acceptors
-EC 1.18.99; With H+ as acceptor
-EC 1.19.6; With dinitrogen as acceptor
-EC 1.20.1; Acting on phosphorus or arsenic in donors, with NAD+ as acceptor
-EC 1.20.2; Acting on phosphorus or arsenic in donors, with NAD(P)+ as acceptor
-EC 1.20.4; Acting on phosphorus or arsenic in donors, with disulfide as acceptor
-EC 1.20.9; Acting on phosphorus or arsenic in donors, with azurin acceptors
-EC 1.20.98; Acting on phosphorus or arsenic in donors, with other, known acceptors
-EC 1.20.99; Acting on phosphorus or arsenic in donors, with other acceptors
-EC 1.21.3; With oxygen as acceptor
-EC 1.21.4; With a disulfide as acceptor
-EC 1.21.99; With other acceptors
-EC 1.22.1; With NAD+ or NADP+ as acceptor
-EC 1.99.1; Hydroxylases (now covered by EC 1.14)
-EC 1.99.2; Oxygenases (now covered by EC 1.13)
+EC 1.1.1	 With NAD or NADP as acceptor
+EC 1.1.2	 With a cytochrome as acceptor
+EC 1.1.3	 With oxygen as acceptor
+EC 1.1.4	 With a disulfide as acceptor
+EC 1.1.5	 With a quinone or similar compound as acceptor
+EC 1.1.9	 With a copper protein as acceptor
+EC 1.1.98	 With other, known, acceptors
+EC 1.1.99	 With other acceptors
+EC 1.2.1	 With NAD or NADP as acceptor
+EC 1.2.2	 With a cytochrome as acceptor
+EC 1.2.3	 With oxygen as acceptor
+EC 1.2.4	 With a disulfide as acceptor
+EC 1.2.5	 With FAD as acceptor
+EC 1.2.7	 With an iron-sulfur protein as acceptor
+EC 1.2.99	 With other acceptors
+EC 1.3.1	 With NAD or NADP as acceptor
+EC 1.3.2	 With a cytochrome as acceptor
+EC 1.3.3	 With oxygen as acceptor
+EC 1.3.5	 With a quinone or related compound as acceptor
+EC 1.3.7	 With an iron-sulfur protein as acceptor
+EC 1.3.8	 With an FAD as prosthetic group
+EC 1.3.98	 With FMN acceptor
+EC 1.3.99	 With other acceptors
+EC 1.4.1	 With NAD or NADP as acceptor
+EC 1.4.2	 With a cytochrome as acceptor
+EC 1.4.3	 With oxygen as acceptor
+EC 1.4.4	 With a disulfide as acceptor
+EC 1.4.5	 With an iron-sulfur flavoprotein as acceptor
+EC 1.4.7	 With an iron-sulfur protein as acceptor
+EC 1.4.9	 With TTQ acceptors
+EC 1.4.98	 With tryptophan tryptophylquinone acceptors
+EC 1.4.99	 With other acceptors
+EC 1.5.1	 With NAD or NADP as acceptor
+EC 1.5.3	 With oxygen as acceptor
+EC 1.5.4	 With a disulfide as acceptor
+EC 1.5.5	 With a quinone or similar compound as acceptor
+EC 1.5.7	 With an iron-sulfur protein as acceptor
+EC 1.5.8	 With a flavin as acceptor
+EC 1.5.99	 With other acceptors
+EC 1.6.1	 With NAD or NADP as acceptor
+EC 1.6.2	 With a heme protein as acceptor
+EC 1.6.3	 With oxygen as acceptor
+EC 1.6.4	 With a disulfide as acceptor
+EC 1.6.5	 With a quinone or similar compound as acceptor
+EC 1.6.6	 With a nitrogenous group as acceptor
+EC 1.6.7	 With an iron-sulfur protein as acceptor
+EC 1.6.8	 With a flavin as acceptor
+EC 1.6.99	 With other acceptors
+EC 1.7.1	 With NAD+ or NADP+ as acceptor
+EC 1.7.2	 With a cytochrome as acceptor
+EC 1.7.3	 With oxygen as acceptor
+EC 1.7.5	 With miscellaneous acceptors
+EC 1.7.6	 With hydrogen as acceptor
+EC 1.7.7	 With an iron-sulfur protein as acceptor
+EC 1.7.99	 With other acceptors
+EC 1.8.1	 With NAD or NADP as acceptor
+EC 1.8.2	 With a cytochrome as acceptor
+EC 1.8.3	 With oxygen as acceptor
+EC 1.8.4	 With a disulfide as acceptor
+EC 1.8.5	 With a quinone or similar compound as acceptor
+EC 1.8.6	 With a nitrogenous group as acceptor
+EC 1.8.7	 With an iron-sulfur protein as acceptor
+EC 1.8.98	 With other, known, acceptors
+EC 1.8.99	 With other acceptors
+EC 1.9.3	 With oxygen as acceptor
+EC 1.9.6	 With a nitrogenous group as acceptor
+EC 1.9.99	 With other acceptors
+EC 1.10.1	 With NAD or NADP as acceptor
+EC 1.10.2	 With a cytochrome as acceptor
+EC 1.10.3	 With oxygen as acceptor
+EC 1.10.99	 With other acceptors
+EC 1.11.1	 Peroxidases
+EC 1.11.2	 Peroxygenase
+EC 1.12.1	 With NAD or NADP as acceptor
+EC 1.12.2	 With a cytochrome as acceptor
+EC 1.12.5	 With a quinone or similar compound as acceptor
+EC 1.12.7	 With an iron-sulfur protein as acceptor
+EC 1.12.98	 With other known acceptors
+EC 1.12.99	 With other acceptors
+EC 1.13.1	 (transferred to EC 1.13.11)
+EC 1.13.11	 With incorporation of two atoms of oxygen
+EC 1.13.12	 With incorporation of one atom of oxygen (internal monooxygenases or internal mixed function oxidases)
+EC 1.13.99	 Miscellaneous
+EC 1.14.1	 With NADH or NADPH as one donor (deleted sub-subclass)
+EC 1.14.2	 With ascorbate as one donor (deleted sub-subclass)
+EC 1.14.3	 With reduced pteridine as one donor (deleted sub-subclass)
+EC 1.14.11	 With 2-oxoglutarate as one donor, and incorporation of one atom each of oxygen into both donors
+EC 1.14.12	 With NADH or NADPH as one donor, and incorporation of two atoms of oxygen into one donor
+EC 1.14.13	 With NADH or NADPH as one donor, and incorporation of one atom of oxygen
+EC 1.14.14	 With reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen
+EC 1.14.15	 With reduced iron-sulfur protein as one donor, and incorporation of one atom of oxygen
+EC 1.14.16	 With reduced pteridine as one donor, and incorporation of one atom of oxygen
+EC 1.14.17	 With reduced ascorbate as one donor, and incorporation of one atom of oxygen
+EC 1.14.18	 With another compound as one donor, and incorporation of one atom of oxygen
+EC 1.14.19	 With oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+EC 1.14.20	 With 2-oxoglutarate as one donor, and the other dehydrogenated
+EC 1.14.21	 With NADH or NADPH as one donor, and the other dehydrogenated
+EC 1.14.99	 Miscellaneous
+EC 1.16.1	 With NAD or NADP as acceptor
+EC 1.16.3	 With oxygen as acceptor
+EC 1.16.5	 With ascorbate as acceptor
+EC 1.16.8	 With flavin as acceptor
+EC 1.16.9	 With rusticyanin as acceptor
+EC 1.16.98	 With rusticyanin as acceptor
+EC 1.17.1	 With NAD or NADP as acceptor
+EC 1.17.2	 With MCD as acceptor
+EC 1.17.3	 With oxygen as acceptor
+EC 1.17.4	 With a disulfide as acceptor
+EC 1.17.5	 With a quinone or similar compound as acceptor
+EC 1.17.7	 With an iron-sulfur protein as acceptor
+EC 1.17.99	 With other acceptors
+EC 1.18.1	 With NAD+ or NADP+ as acceptor
+EC 1.18.2	 With dinitrogen as acceptor (transferred to EC 1.18.6)
+EC 1.18.3	 With H+ as acceptor
+EC 1.18.6	 With dinitrogen as acceptor
+EC 1.18.96	 With other, known, acceptors
+EC 1.18.99	 With H+ as acceptor
+EC 1.19.6	 With dinitrogen as acceptor
+EC 1.20.1	 Acting on phosphorus or arsenic in donors, with NAD+ as acceptor
+EC 1.20.2	 Acting on phosphorus or arsenic in donors, with NAD(P)+ as acceptor
+EC 1.20.4	 Acting on phosphorus or arsenic in donors, with disulfide as acceptor
+EC 1.20.9	 Acting on phosphorus or arsenic in donors, with azurin acceptors
+EC 1.20.98	 Acting on phosphorus or arsenic in donors, with other, known acceptors
+EC 1.20.99	 Acting on phosphorus or arsenic in donors, with other acceptors
+EC 1.21.3	 With oxygen as acceptor
+EC 1.21.4	 With a disulfide as acceptor
+EC 1.21.99	 With other acceptors
+EC 1.22.1	 With NAD+ or NADP+ as acceptor
+EC 1.99.1	 Hydroxylases (now covered by EC 1.14)
+EC 1.99.2	 Oxygenases (now covered by EC 1.13)

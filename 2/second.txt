@@ -1,10 +1,10 @@
-EC 2.1:; Transferring One-Carbon Groups
-EC 2.2:; Transferring Aldehyde or Ketonic Groups
-EC 2.3:; Acyltransferases
-EC 2.4:; Glycosyltransferases
-EC 2.5:; Transferring Alkyl or Aryl Groups, Other than Methyl Groups
-EC 2.6:; Transferring Nitrogenous Groups
-EC 2.7:; Transferring Phosphorus-Containing Groups
-EC 2.8:; Transferring Sulfur-Containing Groups
-EC 2.9:; Transferring Selenium-Containing Groups
-EC 2.10:; Transferring molybdenum- or tungsten-containing groups
+EC 2.1:	 Transferring One-Carbon Groups
+EC 2.2:	 Transferring Aldehyde or Ketonic Groups
+EC 2.3:	 Acyltransferases
+EC 2.4:	 Glycosyltransferases
+EC 2.5:	 Transferring Alkyl or Aryl Groups, Other than Methyl Groups
+EC 2.6:	 Transferring Nitrogenous Groups
+EC 2.7:	 Transferring Phosphorus-Containing Groups
+EC 2.8:	 Transferring Sulfur-Containing Groups
+EC 2.9:	 Transferring Selenium-Containing Groups
+EC 2.10:	 Transferring molybdenum- or tungsten-containing groups

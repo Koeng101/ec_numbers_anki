@@ -1,1672 +1,1672 @@
-EC 1.1.1.1; alcohol dehydrogenase
-EC 1.1.1.2; alcohol dehydrogenase (NADP+)
-EC 1.1.1.3; homoserine dehydrogenase
-EC 1.1.1.4; (R,R)-butanediol dehydrogenase
-EC 1.1.1.5; Transferred to *EC 1.1.1.303 and *EC 1.1.1.304
-EC 1.1.1.6; glycerol dehydrogenase
-EC 1.1.1.7; propanediol-phosphate dehydrogenase
-EC 1.1.1.8; glycerol-3-phosphate dehydrogenase (NAD+)
-EC 1.1.1.9; D-xylulose reductase
-EC 1.1.1.10; L-xylulose reductase
-EC 1.1.1.11; D-arabinitol 4-dehydrogenase
-EC 1.1.1.12; L-arabinitol 4-dehydrogenase
-EC 1.1.1.13; L-arabinitol 2-dehydrogenase
-EC 1.1.1.14; L-iditol 2-dehydrogenase
-EC 1.1.1.15; D-iditol 2-dehydrogenase
-EC 1.1.1.16; galactitol 2-dehydrogenase
-EC 1.1.1.17; mannitol-1-phosphate 5-dehydrogenase
-EC 1.1.1.18; inositol 2-dehydrogenase
-EC 1.1.1.19; L-glucuronate reductase
-EC 1.1.1.20; glucuronolactone reductase
-EC 1.1.1.21; aldehyde reductase
-EC 1.1.1.22; UDP-glucose 6-dehydrogenase
-EC 1.1.1.23; histidinol dehydrogenase
-EC 1.1.1.24; quinate dehydrogenase
-EC 1.1.1.25; shikimate dehydrogenase
-EC 1.1.1.26; glyoxylate reductase
-EC 1.1.1.27; L-lactate dehydrogenase
-EC 1.1.1.28; D-lactate dehydrogenase
-EC 1.1.1.29; glycerate dehydrogenase
-EC 1.1.1.30; 3-hydroxybutyrate dehydrogenase
-EC 1.1.1.31; 3-hydroxyisobutyrate dehydrogenase
-EC 1.1.1.32; mevaldate reductase
-EC 1.1.1.33; mevaldate reductase (NADPH)
-EC 1.1.1.34; hydroxymethylglutaryl-CoA reductase (NADPH)
-EC 1.1.1.35; 3-hydroxyacyl-CoA dehydrogenase
-EC 1.1.1.36; acetoacetyl-CoA reductase
-EC 1.1.1.37; malate dehydrogenase
-EC 1.1.1.38; malate dehydrogenase (oxaloacetate-decarboxylating)
-EC 1.1.1.39; malate dehydrogenase (decarboxylating)
-EC 1.1.1.40; malate dehydrogenase (oxaloacetate-decarboxylating) (NADP+)
-EC 1.1.1.41; isocitrate dehydrogenase (NAD+)
-EC 1.1.1.42; isocitrate dehydrogenase (NADP+)
-EC 1.1.1.43; phosphogluconate 2-dehydrogenase
-EC 1.1.1.44; phosphogluconate dehydrogenase (decarboxylating)
-EC 1.1.1.45; L-gulonate 3-dehydrogenase
-EC 1.1.1.46; L-arabinose 1-dehydrogenase
-EC 1.1.1.47; glucose 1-dehydrogenase
-EC 1.1.1.48; galactose 1-dehydrogenase
-EC 1.1.1.49; glucose-6-phosphate dehydrogenase
-EC 1.1.1.50; 3a-hydroxysteroid dehydrogenase (B-specific)
-EC 1.1.1.51; 3(or 17)b-hydroxysteroid dehydrogenase
-EC 1.1.1.52; 3a-hydroxycholanate dehydrogenase
-EC 1.1.1.53; 3a(or 20b)-hydroxysteroid dehydrogenase
-EC 1.1.1.54; allyl-alcohol dehydrogenase
-EC 1.1.1.55; lactaldehyde reductase (NADPH)
-EC 1.1.1.56; ribitol 2-dehydrogenase
-EC 1.1.1.57; fructuronate reductase
-EC 1.1.1.58; tagaturonate reductase
-EC 1.1.1.59; 3-hydroxypropionate dehydrogenase
-EC 1.1.1.60; 2-hydroxy-3-oxopropionate reductase
-EC 1.1.1.61; 4-hydroxybutyrate dehydrogenase
-EC 1.1.1.62; estradiol 17b-dehydrogenase
-EC 1.1.1.63; testosterone 17b-dehydrogenase
-EC 1.1.1.64; testosterone 17b-dehydrogenase (NADP+)
-EC 1.1.1.65; pyridoxine 4-dehydrogenase
-EC 1.1.1.66; w-hydroxydecanoate dehydrogenase
-EC 1.1.1.67; mannitol 2-dehydrogenase
-EC 1.1.1.68; now *EC 1.7.99.5
-EC 1.1.1.69; gluconate 5-dehydrogenase
-EC 1.1.1.70; deleted, included in *EC 1.2.1.3
-EC 1.1.1.71; alcohol dehydrogenase (NAD(P)+)
-EC 1.1.1.72; glycerol dehydrogenase (NADP+)
-EC 1.1.1.73; octanol dehydrogenase
-EC 1.1.1.74; deleted
-EC 1.1.1.75; (R)-aminopropanol dehydrogenase
-EC 1.1.1.76; (S,S)-butanediol dehydrogenase
-EC 1.1.1.77; lactaldehyde reductase
-EC 1.1.1.78; methylglyoxal reductase (NADH-dependent)
-EC 1.1.1.79; glyoxylate reductase (NADP+)
-EC 1.1.1.80; isopropanol dehydrogenase (NADP+)
-EC 1.1.1.81; hydroxypyruvate reductase
-EC 1.1.1.82; malate dehydrogenase (NADP+)
-EC 1.1.1.83; D-malate dehydrogenase (decarboxylating)
-EC 1.1.1.84; dimethylmalate dehydrogenase
-EC 1.1.1.85; 3-isopropylmalate dehydrogenase
-EC 1.1.1.86; ketol-acid reductoisomerase
-EC 1.1.1.87; homoisocitrate dehydrogenase
-EC 1.1.1.88; hydroxymethylglutaryl-CoA reductase
-EC 1.1.1.89; deleted, included in *EC 1.1.1.86
-EC 1.1.1.90; aryl-alcohol dehydrogenase
-EC 1.1.1.91; aryl-alcohol dehydrogenase (NADP+)
-EC 1.1.1.92; oxaloglycolate reductase (decarboxylating)
-EC 1.1.1.93; tartrate dehydrogenase
-EC 1.1.1.94; glycerol-3-phosphate dehydrogenase (NAD(P)+)
-EC 1.1.1.95; phosphoglycerate dehydrogenase
-EC 1.1.1.96; diiodophenylpyruvate reductase
-EC 1.1.1.97; 3-hydroxybenzyl-alcohol dehydrogenase
-EC 1.1.1.98; (R)-2-hydroxy-fatty-acid dehydrogenase
-EC 1.1.1.99; (S)-2-hydroxy-fatty-acid dehydrogenase
-EC 1.1.1.100; 3-oxoacyl-(acyl-carrier-protein) reductase
-EC 1.1.1.101; acylglycerone-phosphate reductase
-EC 1.1.1.102; 3-dehydrosphinganine reductase
-EC 1.1.1.103; L-threonine 3-dehydrogenase
-EC 1.1.1.104; 4-oxoproline reductase
-EC 1.1.1.105; retinol dehydrogenase
-EC 1.1.1.106; pantoate 4-dehydrogenase
-EC 1.1.1.107; pyridoxal 4-dehydrogenase
-EC 1.1.1.108; carnitine 3-dehydrogenase
-EC 1.1.1.109; now *EC 1.3.1.28
-EC 1.1.1.110; indolelactate dehydrogenase
-EC 1.1.1.111; 3-(imidazol-5-yl)lactate dehydrogenase
-EC 1.1.1.112; indanol dehydrogenase
-EC 1.1.1.113; L-xylose 1-dehydrogenase
-EC 1.1.1.114; apiose 1-reductase
-EC 1.1.1.115; ribose 1-dehydrogenase (NADP+)
-EC 1.1.1.116; D-arabinose 1-dehydrogenase
-EC 1.1.1.117; D-arabinose 1-dehydrogenase (NAD(P)+)
-EC 1.1.1.118; glucose 1-dehydrogenase (NAD+)
-EC 1.1.1.119; glucose 1-dehydrogenase (NADP+)
-EC 1.1.1.120; galactose 1-dehydrogenase (NADP+)
-EC 1.1.1.121; aldose 1-dehydrogenase
-EC 1.1.1.122; D-threo-aldose 1-dehydrogenase
-EC 1.1.1.123; sorbose 5-dehydrogenase (NADP+)
-EC 1.1.1.124; fructose 5-dehydrogenase (NADP+)
-EC 1.1.1.125; 2-deoxy-D-gluconate 3-dehydrogenase
-EC 1.1.1.126; 2-dehydro-3-deoxy-D-gluconate 6-dehydrogenase
-EC 1.1.1.127; 2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase
-EC 1.1.1.128; L-idonate 2-dehydrogenase
-EC 1.1.1.129; L-threonate 3-dehydrogenase
-EC 1.1.1.130; 3-dehydro-L-gulonate 2-dehydrogenase
-EC 1.1.1.131; mannuronate reductase
-EC 1.1.1.132; GDP-mannose 6-dehydrogenase
-EC 1.1.1.133; dTDP-4-dehydrorhamnose reductase
-EC 1.1.1.134; dTDP-6-deoxy-L-talose 4-dehydrogenase
-EC 1.1.1.135; GDP-6-deoxy-D-talose 4-dehydrogenase
-EC 1.1.1.136; UDP-N-acetylglucosamine 6-dehydrogenase
-EC 1.1.1.137; ribitol-5-phosphate 2-dehydrogenase
-EC 1.1.1.138; mannitol 2-dehydrogenase (NADP+)
-EC 1.1.1.139; deleted, included in *EC 1.1.1.21
-EC 1.1.1.140; sorbitol-6-phosphate 2-dehydrogenase
-EC 1.1.1.141; 15-hydroxyprostaglandin dehydrogenase (NAD+)
-EC 1.1.1.142; D-pinitol dehydrogenase
-EC 1.1.1.143; sequoyitol dehydrogenase
-EC 1.1.1.144; perillyl-alcohol dehydrogenase
-EC 1.1.1.145; 3b-hydroxy-D5-steroid dehydrogenase
-EC 1.1.1.146; 11b-hydroxysteroid dehydrogenase
-EC 1.1.1.147; 16a-hydroxysteroid dehydrogenase
-EC 1.1.1.148; estradiol 17a-dehydrogenase
-EC 1.1.1.149; 20a-hydroxysteroid dehydrogenase
-EC 1.1.1.150; 21-hydroxysteroid dehydrogenase (NAD+)
-EC 1.1.1.151; 21-hydroxysteroid dehydrogenase (NADP+)
-EC 1.1.1.152; 3a-hydroxy-5b-androstane-17-one 3a-dehydrogenase
-EC 1.1.1.153; sepiapterin reductase
-EC 1.1.1.154; ureidoglycolate dehydrogenase
-EC 1.1.1.155; identical to *EC 1.1.1.87
-EC 1.1.1.156; glycerol 2-dehydrogenase (NADP+)
-EC 1.1.1.157; 3-hydroxybutyryl-CoA dehydrogenase
-EC 1.1.1.158; now EC 1.3.1.98
-EC 1.1.1.159; 7a-hydroxysteroid dehydrogenase
-EC 1.1.1.160; dihydrobunolol dehydrogenase
-EC 1.1.1.161; cholestanetetraol 26-dehydrogenase
-EC 1.1.1.162; erythrulose reductase
-EC 1.1.1.163; cyclopentanol dehydrogenase
-EC 1.1.1.164; hexadecanol dehydrogenase
-EC 1.1.1.165; 2-alkyn-1-ol dehydrogenase
-EC 1.1.1.166; hydroxycyclohexanecarboxylate dehydrogenase
-EC 1.1.1.167; hydroxymalonate dehydrogenase
-EC 1.1.1.168; 2-dehydropantolactone reductase (A-specific)
-EC 1.1.1.169; 2-dehydropantoate 2-reductase
-EC 1.1.1.170; 3b-hydroxy-4a-methylcholestenecarboxylate 3-dehydrogenase (decarboxylating)
-EC 1.1.1.171; now *EC 1.5.1.20
-EC 1.1.1.172; 2-oxoadipate reductase
-EC 1.1.1.173; L-rhamnose 1-dehydrogenase
-EC 1.1.1.174; cyclohexane-1,2-diol dehydrogenase
-EC 1.1.1.175; D-xylose 1-dehydrogenase
-EC 1.1.1.176; 12a-hydroxysteroid dehydrogenase
-EC 1.1.1.177; glycerol-3-phosphate 1-dehydrogenase (NADP+)
-EC 1.1.1.178; 3-hydroxy-2-methylbutyryl-CoA dehydrogenase
-EC 1.1.1.179; D-xylose 1-dehydrogenase (NADP+)
-EC 1.1.1.180; deleted, included in *EC 1.1.1.131
-EC 1.1.1.181; cholest-5-ene-3b,7a-diol 3b-dehydrogenase
-EC 1.1.1.182; deleted, included in *EC 1.1.1.198, *EC 1.1.1.227 and *EC 1.1.1.228
-EC 1.1.1.183; geraniol dehydrogenase
-EC 1.1.1.184; carbonyl reductase (NADPH)
-EC 1.1.1.185; L-glycol dehydrogenase
-EC 1.1.1.186; dTDP-galactose 6-dehydrogenase
-EC 1.1.1.187; GDP-4-dehydro-D-rhamnose reductase
-EC 1.1.1.188; prostaglandin-F synthase
-EC 1.1.1.189; prostaglandin-E2 9-reductase
-EC 1.1.1.190; indole-3-acetaldehyde reductase (NADH)
-EC 1.1.1.191; indole-3-acetaldehyde reductase (NADPH)
-EC 1.1.1.192; long-chain-alcohol dehydrogenase
-EC 1.1.1.193; 5-amino-6-(5-phosphoribosylamino)uracil reductase
-EC 1.1.1.194; coniferyl-alcohol dehydrogenase
-EC 1.1.1.195; cinnamyl-alcohol dehydrogenase
-EC 1.1.1.196; 15-hydroxyprostaglandin-D dehydrogenase (NADP+)
-EC 1.1.1.197; 15-hydroxyprostaglandin dehydrogenase (NADP+)
-EC 1.1.1.198; (+)-borneol dehydrogenase
-EC 1.1.1.199; (S)-usnate reductase
-EC 1.1.1.200; aldose-6-phosphate reductase (NADPH)
-EC 1.1.1.201; 7b-hydroxysteroid dehydrogenase (NADP+)
-EC 1.1.1.202; 1,3-propanediol dehydrogenase
-EC 1.1.1.203; uronate dehydrogenase
-EC 1.1.1.204; now *EC 1.17.1.4
-EC 1.1.1.205; IMP dehydrogenase
-EC 1.1.1.206; tropinone reductase I
-EC 1.1.1.207; (-)-menthol dehydrogenase
-EC 1.1.1.208; (+)-neomenthol dehydrogenase
-EC 1.1.1.209; 3(or 17)a-hydroxysteroid dehydrogenase
-EC 1.1.1.210; 3b(or 20a)-hydroxysteroid dehydrogenase
-EC 1.1.1.211; long-chain-3-hydroxyacyl-CoA dehydrogenase
-EC 1.1.1.212; 3-oxoacyl-(acyl-carrier-protein) reductase (NADH)
-EC 1.1.1.213; 3a-hydroxysteroid dehydrogenase (A-specific)
-EC 1.1.1.214; 2-dehydropantolactone reductase (B-specific)
-EC 1.1.1.215; gluconate 2-dehydrogenase
-EC 1.1.1.216; farnesol dehydrogenase
-EC 1.1.1.217; benzyl-2-methyl-hydroxybutyrate dehydrogenase
-EC 1.1.1.218; morphine 6-dehydrogenase
-EC 1.1.1.219; dihydrokaempferol 4-reductase
-EC 1.1.1.220; 6-pyruvoyltetrahydropterin 2'-reductase
-EC 1.1.1.221; vomifoliol 4'-dehydrogenase
-EC 1.1.1.222; (R)-4-hydroxyphenyllactate dehydrogenase
-EC 1.1.1.223; isopiperitenol dehydrogenase
-EC 1.1.1.224; mannose-6-phosphate 6-reductase
-EC 1.1.1.225; chlordecone reductase
-EC 1.1.1.226; 4-Hydroxycyclohexanecarboxylate dehydrogenase
-EC 1.1.1.227; (-)-borneol dehydrogenase
-EC 1.1.1.228; (+)-sabinol dehydrogenase
-EC 1.1.1.229; diethyl 2-methyl-3-oxosuccinate reductase
-EC 1.1.1.230; 3a-hydroxyglycyrrhetinate dehydrogenase
-EC 1.1.1.231; 15-hydroxyprostaglandin-I dehydrogenase (NADP+)
-EC 1.1.1.232; 15-hydroxyicosatetraenoate dehydrogenase
-EC 1.1.1.233; N-acylmannosamine 1-dehydrogenase
-EC 1.1.1.234; flavanone 4-reductase
-EC 1.1.1.235; 8-oxocoformycin reductase
-EC 1.1.1.236; tropinone reductase II
-EC 1.1.1.237; hydroxyphenylpyruvate reductase
-EC 1.1.1.238; 12b-hydroxysteroid dehydrogenase
-EC 1.1.1.239; 3a(17b)-hydroxysteroid dehydrogenase (NAD+)
-EC 1.1.1.240; N-acetylhexosamine 1-dehydrogenase
-EC 1.1.1.241; 6-endo-hydroxycineole dehydrogenase
-EC 1.1.1.242; zeatin reductase — now *EC 1.3.1.69
-EC 1.1.1.243; carveol dehydrogenase
-EC 1.1.1.244; methanol dehydrogenase
-EC 1.1.1.245; cyclohexanol dehydrogenase
-EC 1.1.1.246; pterocarpin synthase
-EC 1.1.1.247; codeinone reductase (NADPH)
-EC 1.1.1.248; salutaridine reductase (NADPH)
-EC 1.1.1.249; reinstated as *EC 2.5.1.46
-EC 1.1.1.250; D-arabinitol 2-dehydrogenase
-EC 1.1.1.251; galactitol-1-phosphate 5-dehydrogenase
-EC 1.1.1.252; tetrahydroxynaphthalene reductase
-EC 1.1.1.253; now *EC 1.5.1.33
-EC 1.1.1.254; (S)-carnitine 3-dehydrogenase
-EC 1.1.1.255; mannitol dehydrogenase
-EC 1.1.1.256; fluoren-9-ol dehydrogenase
-EC 1.1.1.257; 4-(hydroxymethyl)benzenesulfonate dehydrogenase
-EC 1.1.1.258; 6-hydroxyhexanoate dehydrogenase
-EC 1.1.1.259; 3-hydroxypimeloyl-CoA dehydrogenase
-EC 1.1.1.260; sulcatone reductase
-EC 1.1.1.261; sn-glycerol-1-phosphate dehydrogenase
-EC 1.1.1.262; 4-hydroxythreonine-4-phosphate dehydrogenase
-EC 1.1.1.263; 1,5-anhydro-D-fructose reductase
-EC 1.1.1.264; L-idonate 5-dehydrogenase
-EC 1.1.1.265; 3-methylbutanal reductase
-EC 1.1.1.266; dTDP-4-dehydro-6-deoxyglucose reductase
-EC 1.1.1.267; 1-deoxy-D-xylulose-5-phosphate reductoisomerase
-EC 1.1.1.268; 2-(R)-hydroxypropyl-CoM dehydrogenase
-EC 1.1.1.269; 2-(S)-hydroxypropyl-CoM dehydrogenase
-EC 1.1.1.270; 3-keto-steroid reductase
-EC 1.1.1.271; GDP-L-fucose synthase
-EC 1.1.1.272; (R)-2-hydroxyacid dehydrogenase
-EC 1.1.1.273; vellosimine dehydrogenase
-EC 1.1.1.274; 2,5-didehydrogluconate reductase
-EC 1.1.1.275; (+)-trans-carveol dehydrogenase
-EC 1.1.1.276; serine 3-dehydrogenase
-EC 1.1.1.277; 3b-hydroxy-5b-steroid dehydrogenase
-EC 1.1.1.278; 3b-hydroxy-5a-steroid dehydrogenase
-EC 1.1.1.279; (R)-3-hydroxyacid ester dehydrogenase
-EC 1.1.1.280; (S)-3-hydroxyacid ester dehydrogenase
-EC 1.1.1.281; GDP-4-dehydro-6-deoxy-D-mannose reductase
-EC 1.1.1.282; quinate/shikimate dehydrogenase
-EC 1.1.1.283; methylglyoxal reductase (NADPH-dependent)
-EC 1.1.1.284; S-(hydroxymethyl)glutathione dehydrogenase
-EC 1.1.1.285; 3"-deamino-3"-oxonicotianamine reductase
-EC 1.1.1.286; isocitrate—homoisocitrate dehydrogenase
-EC 1.1.1.287; D-arabinitol dehydrogenase (NADP+)
-EC 1.1.1.288; xanthoxin dehydrogenase
-EC 1.1.1.289; sorbose reductase
-EC 1.1.1.290; 4-phosphoerythronate dehydrogenase
-EC 1.1.1.291; 2-hydroxymethylglutarate dehydrogenase
-EC 1.1.1.292; 1,5-anhydro-D-fructose reductase (1,5-anhydro-D-mannitol-forming)
-EC 1.1.1.293; deleted
-EC 1.1.1.294; chlorophyll(ide) b reductase
-EC 1.1.1.295; momilactone-A synthase
-EC 1.1.1.296; dihydrocarveol dehydrogenase
-EC 1.1.1.297; limonene-1,2-diol dehydrogenase
-EC 1.1.1.298; 3-hydroxypropionate dehydrogenase (NADP+)
-EC 1.1.1.299; malate dehydrogenase (NAD(P)+)
-EC 1.1.1.300; NADP-retinol dehydrogenase
-EC 1.1.1.301; D-arabitol-phosphate dehydrogenase
-EC 1.1.1.302; 2,5-diamino-6-(ribosylamino)-4(3H)-pyrimidinone 5'-phosphate reductase
-EC 1.1.1.303; acetoin dehydrogenase
-EC 1.1.1.304; (S)-acetoin dehydrogenase
-EC 1.1.1.305; UDP-glucuronic acid dehydrogenase
-EC 1.1.1.306; S-(hydroxymethyl)mycothiol dehydrogenase
-EC 1.1.1.307; D-xylose reductase
-EC 1.1.1.308; sulfopropanediol 3-dehydrogenase
-EC 1.1.1.309; phosphonoacetaldehyde reductase (NADH)
-EC 1.1.1.310; (S)-sulfolactate dehydrogenase
-EC 1.1.1.311; (S)-1-phenylethanol dehydrogenase
-EC 1.1.1.312; 2-hydroxy-4-carboxymuconate semialdehyde hemiacetal dehydrogenase
-EC 1.1.1.313; sulfoacetaldehyde reductase
-EC 1.1.1.314; germacrene A alcohol dehydrogenase
-EC 1.1.1.315; 11-cis-retinol dehydrogenase
-EC 1.1.1.316; L-galactose 1-dehydrogenase
-EC 1.1.1.317; perakine reductase
-EC 1.1.1.318; eugenol synthase
-EC 1.1.1.319; isoeugenol synthase
-EC 1.1.1.320; benzil reductase ((S)-benzoin forming)
-EC 1.1.1.321; benzil reductase ((R)-benzoin forming)
-EC 1.1.1.322; (-)-Endo-fenchol dehydrogenase
-EC 1.1.1.323; (+)-Thujan-3-ol dehydrogenase
-EC 1.1.1.324; 8-Hydroxygeraniol dehydrogenase
-EC 1.1.1.325; sepiapterin reductase (L-threo-7,8-dihydrobiopterin forming)
-EC 1.1.1.326; zerumbone synthase
-EC 1.1.1.327; 5-Exo-hydroxycamphor dehydrogenase
-EC 1.1.1.328; nicotine blue oxidoreductase
-EC 1.1.1.329; 2-Deoxy-scyllo-inosamine dehydrogenase
-EC 1.1.1.330; very-long-chain 3-oxoacyl-CoA reductase
-EC 1.1.1.331; secoisolariciresinol dehydrogenase
-EC 1.1.1.332; chanoclavine-I dehydrogenase
-EC 1.1.1.333; decaprenylphospho-beta-D-erythro-pentofuranosid-2-ulose 2-reductase
-EC 1.1.1.334; methylecgonone reductase
-EC 1.1.1.335; UDP-N-acetyl-2-amino-2-deoxyglucuronate dehydrogenase
-EC 1.1.1.336; UDP-N-acetyl-D-mannosamine dehydrogenase
-EC 1.1.1.337; L-2-hydroxycarboxylate dehydrogenase (NAD+)
-EC 1.1.1.338; (2R)-3-sulfolactate dehydrogenase (NADP+)
-EC 1.1.1.339; dTDP-6-deoxy-L-talose 4-dehydrogenase (NAD+)
-EC 1.1.1.340; 1-Deoxy-11beta-hydroxypentalenate dehydrogenase
-EC 1.1.1.341; CDP-abequose synthase
-EC 1.1.1.342; CDP-paratose synthase
-EC 1.1.2.1; now *EC 1.1.99.5
-EC 1.1.2.2; mannitol dehydrogenase (cytochrome)
-EC 1.1.2.3; L-lactate dehydrogenase (cytochrome)
-EC 1.1.2.4; D-lactate dehydrogenase (cytochrome)
-EC 1.1.2.5; D-lactate dehydrogenase (cytochrome c-553)
-EC 1.1.2.6; polyvinyl alcohol dehydrogenase (cytochrome)
-EC 1.1.2.7; methanol dehydrogenase (cytochrome c)
-EC 1.1.2.8; alcohol dehydrogenase (cytochrome c)
-EC 1.1.3.1; deleted, included in *EC 1.1.3.15
-EC 1.1.3.2; now *EC 1.13.12.4
-EC 1.1.3.3; malate oxidase
-EC 1.1.3.4; glucose oxidase
-EC 1.1.3.5; hexose oxidase
-EC 1.1.3.6; cholesterol oxidase
-EC 1.1.3.7; aryl-alcohol oxidase
-EC 1.1.3.8; L-gulonolactone oxidase
-EC 1.1.3.9; galactose oxidase
-EC 1.1.3.10; pyranose oxidase
-EC 1.1.3.11; L-sorbose oxidase
-EC 1.1.3.12; pyridoxine 4-oxidase
-EC 1.1.3.13; alcohol oxidase
-EC 1.1.3.14; catechol oxidase (dimerizing)
-EC 1.1.3.15; (S)-2-hydroxy-acid oxidase
-EC 1.1.3.16; ecdysone oxidase
-EC 1.1.3.17; choline oxidase
-EC 1.1.3.18; Secondary-alcohol oxidase
-EC 1.1.3.19; 4-hydroxymandelate oxidase
-EC 1.1.3.20; long-chain-alcohol oxidase
-EC 1.1.3.21; glycerol-3-phosphate oxidase
-EC 1.1.3.22; now *EC 1.17.3.2
-EC 1.1.3.23; Thiamine oxidase
-EC 1.1.3.24; L-galactonolactone oxidase
-EC 1.1.3.25; now included with *EC 1.1.99.18
-EC 1.1.3.26; now *EC 1.21.3.2
-EC 1.1.3.27; hydroxyphytanate oxidase
-EC 1.1.3.28; nucleoside oxidase
-EC 1.1.3.29; N-acylhexosamine oxidase
-EC 1.1.3.30; polyvinyl-alcohol oxidase
-EC 1.1.3.31; deleted
-EC 1.1.3.32; now *EC 1.14.21.1
-EC 1.1.3.33; now *EC 1.14.21.2
-EC 1.1.3.34; now *EC 1.14.21.3
-EC 1.1.3.35; now *EC 1.14.21.4
-EC 1.1.3.36; now *EC 1.14.21.5
-EC 1.1.3.37; D-arabinono-1,4-lactone oxidase
-EC 1.1.3.38; vanillyl-alcohol oxidase
-EC 1.1.3.39; nucleoside oxidase (H2O2-forming)
-EC 1.1.3.40; D-mannitol oxidase
-EC 1.1.3.41; xylitol oxidase
-EC 1.1.3.42; prosolanapyrone-II oxidase
-EC 1.1.3.43; paromamine 6'-oxidase
-EC 1.1.3.44; 6-Hydroxyneomycin C oxidase
-EC 1.1.4.1; Now 1.17.4.4
-EC 1.1.4.2; Now 1.17.4.5
-EC 1.1.5.1; deleted, see EC 1.1.99.18 cellobiose dehydrogenase (acceptor)
-EC 1.1.5.2; quinoprotein glucose dehydrogenase
-EC 1.1.5.3; glycerol-3-phosphate dehydrogenase (quinone)
-EC 1.1.5.4; malate dehydrogenase (quinone)
-EC 1.1.5.5; alcohol dehydrogenase (quinone)
-EC 1.1.5.6; formate dehydrogenase-N
-EC 1.1.5.7; cyclic alcohol dehydrogenase (quinone)
-EC 1.1.5.8; quinate dehydrogenase (quinone)
-EC 1.1.9.1; alcohol dehydrogenase (azurin)
-EC 1.1.98.2; glucose-6-phosphate dehydrogenase (coenzyme-F420)
-EC 1.1.98.3; decaprenylphospho-beta-D-ribofuranose 2-oxidase
-EC 1.1.99.1; choline dehydrogenase
-EC 1.1.99.2; L-2-hydroxyglutarate dehydrogenase
-EC 1.1.99.3; gluconate 2-dehydrogenase (acceptor)
-EC 1.1.99.4; dehydrogluconate dehydrogenase
-EC 1.1.99.5; now *EC 1.1.5.3
-EC 1.1.99.6; D-2-hydroxy-acid dehydrogenase
-EC 1.1.99.7; lactate—malate transhydrogenase
-EC 1.1.99.8; alcohol dehydrogenase (acceptor)
-EC 1.1.99.9; pyridoxine 5-dehydrogenase
-EC 1.1.99.10; glucose dehydrogenase (acceptor)
-EC 1.1.99.11; fructose 5-dehydrogenase
-EC 1.1.99.12; sorbose dehydrogenase
-EC 1.1.99.13; glucoside 3-dehydrogenase
-EC 1.1.99.14; glycolate dehydrogenase
-EC 1.1.99.15; now *EC 1.7.99.5
-EC 1.1.99.16; malate dehydrogenase (acceptor)
-EC 1.1.99.17; now *EC 1.1.5.2
-EC 1.1.99.18; cellobiose dehydrogenase (acceptor)
-EC 1.1.99.19; uracil dehydrogenase
-EC 1.1.99.20; alkan-1-ol dehydrogenase (acceptor)
-EC 1.1.99.21; D-sorbitol dehydrogenase (acceptor)
-EC 1.1.99.22; glycerol dehydrogenase (acceptor)
-EC 1.1.99.23; polyvinyl-alcohol dehydrogenase (acceptor)
-EC 1.1.99.24; hydroxyacid-oxoacid transhydrogenase
-EC 1.1.99.25; quinate dehydrogenase (pyrroloquinoline-quinone)
-EC 1.1.99.26; 3-hydroxycyclohexanone dehydrogenase
-EC 1.1.99.27; (R)-pantolactone dehydrogenase (flavin)
-EC 1.1.99.28; glucose-fructose oxidoreductase
-EC 1.1.99.29; pyranose dehydrogenase (acceptor)
-EC 1.1.99.30; 2-oxoacid reductase
-EC 1.1.99.31; (S)-mandelate dehydrogenase
-EC 1.1.99.32; L-sorbose 1-dehydrogenase
-EC 1.1.99.33; formate dehydrogenase (acceptor)
-EC 1.1.99.34; now EC 1.1.98.2
-EC 1.1.99.35; soluble quinoprotein glucose dehydrogenase
-EC 1.1.99.36; alcohol dehydrogenase (nicotinoprotein)
-EC 1.1.99.37; methanol dehydrogenase (nicotinoprotein)
-EC 1.1.99.38; 2-Deoxy-scyllo-inosamine dehydrogenase (SAM-dependent)
-EC 1.1.99.39; D-2-hydroxyglutarate dehydrogenase
-EC 1.2.1.1; deleted, replaced by *EC 1.1.1.284 and *EC 4.4.1.22
-EC 1.2.1.2; formate dehydrogenase
-EC 1.2.1.3; aldehyde dehydrogenase (NAD+)
-EC 1.2.1.4; aldehyde dehydrogenase (NADP+)
-EC 1.2.1.5; aldehyde dehydrogenase (NAD(P)+)
-EC 1.2.1.6; deleted
-EC 1.2.1.7; benzaldehyde dehydrogenase (NADP+)
-EC 1.2.1.8; betaine-aldehyde dehydrogenase
-EC 1.2.1.9; glyceraldehyde-3-phosphate dehydrogenase (NADP+)
-EC 1.2.1.10; acetaldehyde dehydrogenase (acetylating)
-EC 1.2.1.11; aspartate-semialdehyde dehydrogenase
-EC 1.2.1.12; glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
-EC 1.2.1.13; glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
-EC 1.2.1.14; now *EC 1.1.1.205
-EC 1.2.1.15; malonate-semialdehyde dehydrogenase
-EC 1.2.1.16; glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
-EC 1.2.1.17; glyoxylate dehydrogenase (acylating)
-EC 1.2.1.18; malonate-semialdehyde dehydrogenase (acetylating)
-EC 1.2.1.19; aminobutyraldehyde dehydrogenase
-EC 1.2.1.20; glutarate-semialdehyde dehydrogenase
-EC 1.2.1.21; glycolaldehyde dehydrogenase
-EC 1.2.1.22; lactaldehyde dehydrogenase
-EC 1.2.1.23; 2-oxoaldehyde dehydrogenase (NAD+)
-EC 1.2.1.24; succinate-semialdehyde dehydrogenase
-EC 1.2.1.25; 2-oxoisovalerate dehydrogenase (acylating)
-EC 1.2.1.26; 2,5-dioxovalerate dehydrogenase
-EC 1.2.1.27; methylmalonate-semialdehyde dehydrogenase (acylating)
-EC 1.2.1.28; benzaldehyde dehydrogenase (NAD+)
-EC 1.2.1.29; aryl-aldehyde dehydrogenase
-EC 1.2.1.30; aryl-aldehyde dehydrogenase (NADP+)
-EC 1.2.1.31; L-aminoadipate-semialdehyde dehydrogenase
-EC 1.2.1.32; aminomuconate-semialdehyde dehydrogenase
-EC 1.2.1.33; (R)-dehydropantoate dehydrogenase
-EC 1.2.1.34; deleted, included in *EC 1.1.1.131
-EC 1.2.1.35; now *EC 1.1.1.203
-EC 1.2.1.36; retinal dehydrogenase
-EC 1.2.1.37; now *EC 1.1.1.204
-EC 1.2.1.38; N-acetyl-g-glutamyl-phosphate reductase
-EC 1.2.1.39; phenylacetaldehyde dehydrogenase
-EC 1.2.1.40; 3a,7a,12a-trihydroxycholestan-26-al 26-oxidoreductase
-EC 1.2.1.41; glutamate-5-semialdehyde dehydrogenase
-EC 1.2.1.42; hexadecanal dehydrogenase (acylating)
-EC 1.2.1.43; formate dehydrogenase (NADP+)
-EC 1.2.1.44; cinnamoyl-CoA reductase
-EC 1.2.1.45; 4-carboxy-2-hydroxymuconate-6-semialdehyde dehydrogenase
-EC 1.2.1.46; formaldehyde dehydrogenase
-EC 1.2.1.47; 4-trimethylammoniobutyraldehyde dehydrogenase
-EC 1.2.1.48; long-chain-aldehyde dehydrogenase
-EC 1.2.1.49; 2-oxoaldehyde dehydrogenase (NADP+)
-EC 1.2.1.50; long-chain-fatty-acyl-CoA reductase
-EC 1.2.1.51; pyruvate dehydrogenase (NADP+)
-EC 1.2.1.52; oxoglutarate dehydrogenase (NADP+)
-EC 1.2.1.53; 4-hydroxyphenylacetaldehyde dehydrogenase
-EC 1.2.1.54; g-guanidinobutyraldehyde dehydrogenase
-EC 1.2.1.55; now *EC 1.1.1.279
-EC 1.2.1.56; now *EC 1.1.1.280
-EC 1.2.1.57; butanal dehydrogenase
-EC 1.2.1.58; phenylglyoxylate dehydrogenase (acylating)
-EC 1.2.1.59; glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+)
-EC 1.2.1.60; 5-carboxymethyl-2-hydroxymuconic-semialdehyde dehydrogenase
-EC 1.2.1.61; 4-hydroxymuconic-semialdehyde dehydrogenase
-EC 1.2.1.62; 4-formylbenzenesulfonate dehydrogenase
-EC 1.2.1.63; 6-oxohexanoate dehydrogenase
-EC 1.2.1.64; 4-hydroxybenzaldehyde dehydrogenase
-EC 1.2.1.65; salicylaldehyde dehydrogenase
-EC 1.2.1.66; mycothiol-dependent formaldehyde dehydrogenase
-EC 1.2.1.67; vanillin dehydrogenase
-EC 1.2.1.68; coniferyl-aldehyde dehydrogenase
-EC 1.2.1.69; fluoroacetaldehyde dehydrogenase
-EC 1.2.1.70; glutamyl-tRNA reductase
-EC 1.2.1.71; succinylglutamate-semialdehyde dehydrogenase
-EC 1.2.1.72; erythrose-4-phosphate dehydrogenase
-EC 1.2.1.73; sulfoacetaldehyde dehydrogenase
-EC 1.2.1.74; abieta-7,13-dien-18-al dehydrogenase
-EC 1.2.1.75; malonyl CoA reductase (malonate semialdehyde-forming)
-EC 1.2.1.76; succinate-semialdehyde dehydrogenase (acylating)
-EC 1.2.1.77; 3,4-dehydroadipyl-CoA semialdehyde dehydrogenase (NADP+)
-EC 1.2.1.78; 2-formylbenzoate dehydrogenase
-EC 1.2.1.79; succinate-semialdehyde dehydrogenase (NADP+)
-EC 1.2.1.80; long-chain acyl-(acyl-carrier-protein) reductase
-EC 1.2.1.81; sulfoacetaldehyde dehydrogenase (acylating)
-EC 1.2.1.82; beta-apo-4'-carotenal oxygenase
-EC 1.2.1.83; 3-succinoylsemialdehyde-pyridine dehydrogenase
-EC 1.2.1.84; alcohol-forming fatty acyl-CoA reductase
-EC 1.2.1.85; 2-hydroxymuconate-6-semialdehyde dehydrogenase
-EC 1.2.1.86; geranial dehydrogenase
-EC 1.2.2.1; formate dehydrogenase (cytochrome)
-EC 1.2.2.2; pyruvate dehydrogenase (cytochrome)
-EC 1.2.2.3; formate dehydrogenase (cytochrome-c-553)
-EC 1.2.2.4; carbon-monoxide dehydrogenase (cytochrome b-561)
-EC 1.2.3.1; aldehyde oxidase
-EC 1.2.3.2; now *EC 1.1.3.22
-EC 1.2.3.3; pyruvate oxidase
-EC 1.2.3.4; oxalate oxidase
-EC 1.2.3.5; glyoxylate oxidase
-EC 1.2.3.6; pyruvate oxidase (CoA-acetylating)
-EC 1.2.3.7; indole-3-acetaldehyde oxidase
-EC 1.2.3.8; pyridoxal oxidase
-EC 1.2.3.9; aryl-aldehyde oxidase
-EC 1.2.3.10; deleted
-EC 1.2.3.11; retinal oxidase
-EC 1.2.3.12; now *EC 1.14.13.82
-EC 1.2.3.13; 4-hydroxyphenylpyruvate oxidase
-EC 1.2.3.14; Abscisic-aldehyde oxidase
-EC 1.2.4.1; pyruvate dehydrogenase (acetyl-transferring)
-EC 1.2.4.2; oxoglutarate dehydrogenase (succinyl-transferring)
-EC 1.2.4.3; deleted, included in EC 1.2.4.4
-EC 1.2.4.4; 3-methyl-2-oxobutanoate dehydrogenase
-EC 1.2.5.1; pyruvate dehydrogenase (quinone)
-EC 1.2.7.1; pyruvate synthase
-EC 1.2.7.2; deleted
-EC 1.2.7.3; 2-oxoglutarate synthase
-EC 1.2.7.4; carbon-monoxide dehydrogenase (ferredoxin)
-EC 1.2.7.5; aldehyde ferredoxin oxidoreductase
-EC 1.2.7.6; glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)
-EC 1.2.7.7; 3-methyl-2-oxobutanoate dehydrogenase (ferredoxin)
-EC 1.2.7.8; indolepyruvate ferredoxin oxidoreductase
-EC 1.2.7.9; deleted, identical to *EC 1.2.7.3
-EC 1.2.7.10; oxalate oxidoreductase
-EC 1.2.99.1; now *EC 1.1.99.19
-EC 1.2.99.2; carbon-monoxide dehydrogenase (acceptor)
-EC 1.2.99.3; aldehyde dehydrogenase (pyrroloquinoline-quinone)
-EC 1.2.99.4; formaldehyde dismutase
-EC 1.2.99.5; formylmethanofuran dehydrogenase
-EC 1.2.99.6; carboxylate reductase
-EC 1.2.99.7; aldehyde dehydrogenase (FAD-independent)
-EC 1.3.1.1; dihydrouracil dehydrogenase (NAD+)
-EC 1.3.1.2; dihydropyrimidine dehydrogenase (NADP+)
-EC 1.3.1.3; cortisone b-reductase
-EC 1.3.1.4; cortisone a-reductase
-EC 1.3.1.5; cucurbitacin D23-reductase
-EC 1.3.1.6; fumarate reductase (NADH)
-EC 1.3.1.7; meso-tartrate dehydrogenase
-EC 1.3.1.8; acyl-CoA dehydrogenase (NADP+)
-EC 1.3.1.9; enoyl-(acyl-carrier-protein) reductase (NADH)
-EC 1.3.1.10; enoyl-(acyl-carrier-protein) reductase (NADPH, B-specific)
-EC 1.3.1.11; 2-coumarate reductase
-EC 1.3.1.12; prephenate dehydrogenase
-EC 1.3.1.13; prephenate dehydrogenase (NADP+)
-EC 1.3.1.14; orotate reductase (NADH)
-EC 1.3.1.15; orotate reductase (NADPH)
-EC 1.3.1.16; b-nitroacrylate reductase
-EC 1.3.1.17; 3-methyleneoxindole reductase
-EC 1.3.1.18; kynurenate-7,8-dihydrodiol dehydrogenase
-EC 1.3.1.19; cis-1,2-dihydrobenzene-1,2-diol dehydrogenase
-EC 1.3.1.20; trans-1,2-dihydrobenzene-1,2-diol dehydrogenase
-EC 1.3.1.21; 7-dehydrocholesterol reductase
-EC 1.3.1.22; cholestenone 5a-reductase
-EC 1.3.1.23; cholestenone 5b-reductase is identical to EC 1.3.1.3, Δ4-3-oxosteroid 5β-reductase
-EC 1.3.1.24; biliverdin reductase
-EC 1.3.1.25; 1,6-dihydroxycyclohexa-2,4-diene-1-carboxylate dehydrogenase
-EC 1.3.1.26; now EC 1.17.1.8
-EC 1.3.1.27; 2-hexadecenal reductase
-EC 1.3.1.28; 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase
-EC 1.3.1.29; cis-1,2-dihydro-1,2-dihydroxynaphthalene dehydrogenase
-EC 1.3.1.30; progesterone 5a-reductase
-EC 1.3.1.31; 2-enoate reductase
-EC 1.3.1.32; maleylacetate reductase
-EC 1.3.1.33; protochlorophyllide reductase
-EC 1.3.1.34; 2,4-dienoyl-CoA reductase (NADPH)
-EC 1.3.1.35; phosphatidylcholine desaturase
-EC 1.3.1.36; geissoschizine dehydrogenase
-EC 1.3.1.37; cis-2-enoyl-CoA reductase (NADPH)
-EC 1.3.1.38; trans-2-enoyl-CoA reductase (NADPH)
-EC 1.3.1.39; enoyl-(acyl-carrier-protein) reductase (NADPH, A-specific)
-EC 1.3.1.40; 2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate reductase
-EC 1.3.1.41; xanthommatin reductase
-EC 1.3.1.42; 12-oxophytodienoate reductase
-EC 1.3.1.43; arogenate dehydrogenase
-EC 1.3.1.44; trans-2-enoyl-CoA reductase (NAD+)
-EC 1.3.1.45; 2'-hydroxyisoflavone reductase
-EC 1.3.1.46; biochanin-A reductase
-EC 1.3.1.47; a-santonin 1,2-reductase
-EC 1.3.1.48; 15-oxoprostaglandin 13-oxidase
-EC 1.3.1.49; cis-3,4-dihydrophenanthrene-3,4-diol dehydrogenase
-EC 1.3.1.50; now *EC 1.1.1.252
-EC 1.3.1.51; 2'-hydroxydaidzein reductase
-EC 1.3.1.52; 2-methyl-branched-chain-enoyl-CoA reductase
-EC 1.3.1.53; (3S,4R)-3,4-dihydroxycyclohexa-1,5-diene-1,4-dicarboxylate dehydrogenase
-EC 1.3.1.54; precorrin-6A reductase
-EC 1.3.1.55; now *EC 1.3.1.25
-EC 1.3.1.56; cis-2,3-dihydrobiphenyl-2,3-diol dehydrogenase
-EC 1.3.1.57; phloroglucinol reductase
-EC 1.3.1.58; 2,3-dihydroxy-2,3-dihydro-p-cumate dehydrogenase
-EC 1.3.1.59; 1,2-dihydroxy-3-methyl-1,2-dihydrobenzoate dehydrogenase. There is no evidence that the enzyme exists.
-EC 1.3.1.60; dibenzothiophene dihydrodiol dehydrogenase
-EC 1.3.1.61; terephthalate 1,2-cis-dihydrodiol dehydrogenase
-EC 1.3.1.62; pimeloyl-CoA dehydrogenase
-EC 1.3.1.63; 2,4-dichlorobenzoyl-CoA reductase
-EC 1.3.1.64; phthalate 4,5-cis-dihydrodiol dehydrogenase
-EC 1.3.1.65; 5,6-dihydroxy-3-methyl-2-oxo-1,2,5,6-tetrahydroquinoline dehydrogenase
-EC 1.3.1.66; cis-dihydroethylcatechol dehydrogenase
-EC 1.3.1.67; cis-1,2-dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate dehydrogenase
-EC 1.3.1.68; 1,2-dihydroxy-6-methylcyclohexa-3,5-dienecarboxylate dehydrogenase
-EC 1.3.1.69; zeatin reductase
-EC 1.3.1.70; D14-sterol reductase
-EC 1.3.1.71; D24(241)-sterol reductase
-EC 1.3.1.72; D24-sterol reductase
-EC 1.3.1.73; 1,2-dihydrovomilenine reductase
-EC 1.3.1.74; 2-alkenal reductase
-EC 1.3.1.75; divinyl chlorophyllide a 8-vinyl-reductase
-EC 1.3.1.76; precorrin-2 dehydrogenase
-EC 1.3.1.77; anthocyanidin reductase
-EC 1.3.1.78; arogenate dehydrogenase (NADP+)
-EC 1.3.1.79; arogenate dehydrogenase (NADP+)
-EC 1.3.1.80; red chlorophyll catabolite reductase
-EC 1.3.1.81; (+)-pulegone reductase
-EC 1.3.1.82; (-)-isopiperitenone reductase
-EC 1.3.1.83; geranylgeranyl diphosphate reductase
-EC 1.3.1.84; acrylyl-CoA reductase (NADPH)
-EC 1.3.1.85; crotonyl-CoA carboxylase/reductase
-EC 1.3.1.86; crotonyl-CoA reductase
-EC 1.3.1.87; 3-(cis-5,6-dihydroxycyclohexa-1,3-dien-1-yl)propanoate dehydrogenase
-EC 1.3.1.88; tRNA-dihydrouridine16/17 synthase (NAD(P)+)
-EC 1.3.1.89; tRNA-dihydrouridine47 synthase (NAD(P)+)
-EC 1.3.1.90; tRNA-dihydrouridine20a/20b synthase (NAD(P)+)
-EC 1.3.1.91; tRNA-dihydrouridine20 synthase (NAD(P)+)
-EC 1.3.1.92; artemisinic aldehyde Delta11(13)-reductase
-EC 1.3.1.93; very-long-chain enoyl-CoA reductase
-EC 1.3.1.94; polyprenol reductase
-EC 1.3.1.95; acrylyl-CoA reductase (NADH)
-EC 1.3.1.96; Botryococcus squalene synthase
-EC 1.3.1.97; botryococcene synthase
-EC 1.3.2.1; now EC 1.3.99.2
-EC 1.3.2.2; now EC 1.3.99.3
-EC 1.3.2.3; galactonolactone dehydrogenase
-EC 1.3.3.1; dihydroorotate oxidase
-EC 1.3.3.2; lathosterol oxidase
-EC 1.3.3.3; coproporphyrinogen oxidase
-EC 1.3.3.4; protoporphyrinogen oxidase
-EC 1.3.3.5; bilirubin oxidase
-EC 1.3.3.6; acyl-CoA oxidase
-EC 1.3.3.7; dihydrouracil oxidase
-EC 1.3.3.8; tetrahydroberberine oxidase
-EC 1.3.3.9; secologanin synthase
-EC 1.3.3.10; tryptophan a,b-oxidase
-EC 1.3.3.11; pyrroloquinoline-quinone synthase
-EC 1.3.3.12; L-galactonolactone oxidase
-EC 1.3.5.1; succinate dehydrogenase (quinone)
-EC 1.3.5.2; dihydroorotate dehydrogenase (quinone)
-EC 1.3.5.3; protoporphyrinogen IX dehydrogenase (menaquinone)
-EC 1.3.5.4; fumarate reductase (quinol)
-EC 1.3.5.5; 15-cis-phytoene desaturase
-EC 1.3.5.6; 9,9'-dicis-zeta-carotene desaturase
-EC 1.3.7.1; 6-hydroxynicotinate reductase
-EC 1.3.7.2; 15,16-dihydrobiliverdin:ferredoxin oxidoreductase
-EC 1.3.7.3; phycoerythrobilin:ferredoxin oxidoreductase
-EC 1.3.7.4; phytochromobilin:ferredoxin oxidoreductase
-EC 1.3.7.5; phycocyanobilin:ferredoxin oxidoreductase
-EC 1.3.7.6; phycoerythrobilin synthase
-EC 1.3.7.7; ferredoxin:protochlorophyllide reductase (ATP-dependent)
-EC 1.3.7.8; benzoyl-CoA reductase
-EC 1.3.7.9; 4-hydroxybenzoyl-CoA reductase
-EC 1.3.7.10; pentalenolactone synthase
-EC 1.3.7.15; chlorophyllide a reductase
-EC 1.3.8.1; short-chain acyl-CoA dehydrogenase
-EC 1.3.8.2; 4,4'-diapophytoene desaturase
-EC 1.3.8.3; (R)-benzylsuccinyl-CoA dehydrogenase
-EC 1.3.8.4; isovaleryl-CoA dehydrogenase
-EC 1.3.8.5; 2-methyl-branched-chain-enoyl-CoA reductase
-EC 1.3.8.6; glutaryl-CoA dehydrogenase
-EC 1.3.8.7; medium-chain acyl-CoA dehydrogenase
-EC 1.3.8.8; long-chain acyl-CoA dehydrogenase
-EC 1.3.8.9; very-long-chain acyl-CoA dehydrogenase
-EC 1.3.98.1; dihydroorotate dehydrogenase (fumarate)
-EC 1.3.99.1; deleted
-EC 1.3.99.2; now EC 1.3.8.1
-EC 1.3.99.3; now EC 1.3.8.7, EC 1.3.8.8 and EC 1.3.8.9
-EC 1.3.99.4; 3-oxosteroid 1-dehydrogenase
-EC 1.3.99.5; 3-oxo-5a-steroid 4-dehydrogenase
-EC 1.3.99.6; 3-oxo-5b-steroid 4-dehydrogenase
-EC 1.3.99.7; now EC 1.3.8.6
-EC 1.3.99.8; 2-furoyl-CoA dehydrogenase
-EC 1.3.99.9; now *EC 1.21.99.1
-EC 1.3.99.10; now EC 1.3.8.4
-EC 1.3.99.11; dihydroorotate dehydrogenase
-EC 1.3.99.12; 2-methylacyl-CoA dehydrogenase
-EC 1.3.99.13; now *EC 1.3.8.8
-EC 1.3.99.14; cyclohexanone dehydrogenase
-EC 1.3.99.15; benzoyl-CoA reductase
-EC 1.3.99.16; isoquinoline 1-oxidoreductase
-EC 1.3.99.17; quinoline 2-oxidoreductase
-EC 1.3.99.18; quinaldate 4-oxidoreductase
-EC 1.3.99.19; quinoline-4-carboxylate 2-oxidoreductase
-EC 1.3.99.20; 4-hydroxybenzoyl-CoA reductase
-EC 1.3.99.21; (R)-benzylsuccinyl-CoA dehydrogenase
-EC 1.3.99.22; coproporphyrinogen dehydrogenase
-EC 1.3.99.23; all-trans-retinol 13,14-reductase
-EC 1.3.99.24; 2-amino-4-deoxychorismate dehydrogenase
-EC 1.3.99.25; carvone reductase
-EC 1.3.99.26; all-trans-zeta-carotene desaturase
-EC 1.3.99.27; 1-hydroxycarotenoid 3,4-desaturase
-EC 1.3.99.28; phytoene desaturase (neurosporene-forming)
-EC 1.3.99.29; phytoene desaturase (zeta-carotene-forming)
-EC 1.3.99.30; phytoene desaturase (3,4-didehydrolycopene-forming)
-EC 1.3.99.31; phytoene desaturase (lycopene-forming)
-EC 1.3.99.32; glutaryl-CoA dehydrogenase (non-decarboxylating)
-EC 1.4.1.1; alanine dehydrogenase
-EC 1.4.1.2; glutamate dehydrogenase
-EC 1.4.1.3; glutamate dehydrogenase (NAD(P)+)
-EC 1.4.1.4; glutamate dehydrogenase (NADP+)
-EC 1.4.1.5; L-amino-acid dehydrogenase
-EC 1.4.1.6; deleted, included in *EC 1.4.4.1
-EC 1.4.1.7; serine 2-dehydrogenase
-EC 1.4.1.8; valine dehydrogenase (NADP+)
-EC 1.4.1.9; leucine dehydrogenase
-EC 1.4.1.10; glycine dehydrogenase
-EC 1.4.1.11; L-erythro-3,5-diaminohexanoate dehydrogenase
-EC 1.4.1.12; 2,4-diaminopentanoate dehydrogenase
-EC 1.4.1.13; glutamate synthase (NADPH)
-EC 1.4.1.14; glutamate synthase (NADH)
-EC 1.4.1.15; lysine dehydrogenase
-EC 1.4.1.16; diaminopimelate dehydrogenase
-EC 1.4.1.17; N-methylalanine dehydrogenase
-EC 1.4.1.18; lysine 6-dehydrogenase
-EC 1.4.1.19; tryptophan dehydrogenase
-EC 1.4.1.20; phenylalanine dehydrogenase
-EC 1.4.1.21; aspartate dehydrogenase
-EC 1.4.1.22; ornithine cyclodeaminase
-EC 1.4.1.23; valine dehydrogenase (NAD+)
-EC 1.4.1.24; 3-dehydroquinate synthase II
-EC 1.4.2.1; glycine dehydrogenase (cytochrome)
-EC 1.4.3.1; D-aspartate oxidase
-EC 1.4.3.2; L-amino-acid oxidase
-EC 1.4.3.3; D-amino-acid oxidase
-EC 1.4.3.4; amine oxidase (flavin-containing)
-EC 1.4.3.5; pyridoxamine-phosphate oxidase
-EC 1.4.3.6; amine oxidase (copper-containing)
-EC 1.4.3.7; D-glutamate oxidase
-EC 1.4.3.8; ethanolamine oxidase
-EC 1.4.3.9; deleted, included in *EC 1.4.3.4
-EC 1.4.3.10; putrescine oxidase
-EC 1.4.3.11; L-glutamate oxidase
-EC 1.4.3.12; cyclohexylamine oxidase
-EC 1.4.3.13; protein-lysine 6-oxidase
-EC 1.4.3.14; L-lysine oxidase
-EC 1.4.3.15; D-glutamate(D-aspartate) oxidase
-EC 1.4.3.16; L-aspartate oxidase
-EC 1.4.3.17; now *EC 1.3.3.10
-EC 1.4.3.18; deleted, not approved
-EC 1.4.3.19; glycine oxidase
-EC 1.4.3.20; L-lysine 6-oxidase
-EC 1.4.3.21; primary-amine oxidase
-EC 1.4.3.22; diamine oxidase
-EC 1.4.3.23; 7-chloro-L-tryptophan oxidase
-EC 1.4.3.24; pseudooxynicotine oxidase
-EC 1.4.4.1; now EC 1.21.4.1
-EC 1.4.4.2; glycine dehydrogenase (decarboxylating)
-EC 1.4.5.1; D-amino acid dehydrogenase (quinone)
-EC 1.4.7.1; glutamate synthase (ferredoxin)
-EC 1.4.9.1; methylamine dehydrogenase (amicyanin)
-EC 1.4.9.2; aralkylamine dehydrogenase (azurin)
-EC 1.4.98.1; methylamine dehydrogenase (amicyanin)
-EC 1.4.99.1; D-amino acid dehydrogenase
-EC 1.4.99.2; taurine dehydrogenase
-EC 1.4.99.3; amine dehydrogenase
-EC 1.4.99.4; aralkylamine dehydrogenase
-EC 1.4.99.5; glycine dehydrogenase (cyanide-forming)
-EC 1.5.1.1; pyrroline-2-carboxylate reductase
-EC 1.5.1.2; pyrroline-5-carboxylate reductase
-EC 1.5.1.3; dihydrofolate reductase
-EC 1.5.1.4; deleted, included in *EC 1.5.1.3
-EC 1.5.1.5; methylenetetrahydrofolate dehydrogenase (NADP+)
-EC 1.5.1.6; formyltetrahydrofolate dehydrogenase
-EC 1.5.1.7; saccharopine dehydrogenase (NAD+, L-lysine-forming)
-EC 1.5.1.8; saccharopine dehydrogenase (NADP+, L-lysine-forming)
-EC 1.5.1.9; saccharopine dehydrogenase (NAD+, L-glutamate-forming)
-EC 1.5.1.10; saccharopine dehydrogenase (NADP+, L-glutamate-forming)
-EC 1.5.1.11; D-octopine dehydrogenase
-EC 1.5.1.12; now EC 1.2.1.88
-EC 1.5.1.13; now *EC 1.17.1.5
-EC 1.5.1.14; deleted, included in *EC 1.5.1.21
-EC 1.5.1.15; methylenetetrahydrofolate dehydrogenase (NAD+)
-EC 1.5.1.16; D-lysopine dehydrogenase
-EC 1.5.1.17; alanopine dehydrogenase
-EC 1.5.1.18; ephedrine dehydrogenase
-EC 1.5.1.19; D-nopaline dehydrogenase
-EC 1.5.1.20; methylenetetrahydrofolate reductase (NAD(P)H)
-EC 1.5.1.21; D1-piperideine-2-carboxylate reductase
-EC 1.5.1.22; strombine dehydrogenase
-EC 1.5.1.23; tauropine dehydrogenase
-EC 1.5.1.24; N5-(carboxyethyl)ornithine synthase
-EC 1.5.1.25; thiomorpholine-carboxylate dehydrogenase
-EC 1.5.1.26; b-alanopine dehydrogenase
-EC 1.5.1.27; 1,2-dehydroreticulinium reductase (NADPH)
-EC 1.5.1.28; opine dehydrogenase
-EC 1.5.1.29; FMN reductase
-EC 1.5.1.30; flavin reductase
-EC 1.5.1.31; berberine reductase
-EC 1.5.1.32; vomilenine reductase
-EC 1.5.1.33; pteridine reductase
-EC 1.5.1.34; 6,7-dihydropteridine reductase
-EC 1.5.1.35; 1-pyrroline dehydrogenase
-EC 1.5.1.36; flavin reductase (NADH)
-EC 1.5.1.37; FAD reductase (NADH)
-EC 1.5.1.38; FMN reductase (NADPH)
-EC 1.5.1.39; FMN reductase (NAD(P)H)
-EC 1.5.1.40; 8-hydroxy-5-deazaflavin:NADPH oxidoreductase
-EC 1.5.1.41; riboflavin reductase (NAD(P)H)
-EC 1.5.1.42; FMN reductase (NADH)
-EC 1.5.1.43; carboxynorspermidine synthase
-EC 1.5.1.44; festuclavine dehydrogenase
-EC 1.5.1.45; FAD reductase (NAD(P)H)
-EC 1.5.3.1; sarcosine oxidase
-EC 1.5.3.2; N-methyl-L-amino-acid oxidase
-EC 1.5.3.3; deleted
-EC 1.5.3.4; N6-methyl-lysine oxidase
-EC 1.5.3.5; (S)-6-hydroxynicotine oxidase
-EC 1.5.3.6; (R)-6-hydroxynicotine oxidase
-EC 1.5.3.7; L-pipecolate oxidase
-EC 1.5.3.8; deleted, included in *EC 1.3.3.8
-EC 1.5.3.9; now *EC 1.21.3.3
-EC 1.5.3.10; dimethylglycine oxidase
-EC 1.5.3.11; polyamine oxidase
-EC 1.5.3.12; dihydrobenzophenanthridine oxidase
-EC 1.5.3.13; N1-acetylpolyamine oxidase
-EC 1.5.3.14; polyamine oxidase (propane-1,3-diamine-forming)
-EC 1.5.3.15; N8-acetylspermidine oxidase (propane-1,3-diamine-forming)
-EC 1.5.3.16; spermine oxidase
-EC 1.5.3.17; non-specific polyamine oxidase
-EC 1.5.3.18; L-saccharopine oxidase
-EC 1.5.3.19; 4-methylaminobutanoate oxidase (formaldehyde-forming)
-EC 1.5.3.20; N-alkylglycine oxidase
-EC 1.5.3.21; 4-methylaminobutanoate oxidase (methylamine-forming)
-EC 1.5.4.1; pyrimidodiazepine synthase
-EC 1.5.5.1; electron-transferring-flavoprotein dehydrogenase
-EC 1.5.7.1; methylenetetrahydrofolate reductase (ferredoxin)
-EC 1.5.8.1; dimethylamine dehydrogenase
-EC 1.5.8.2; trimethylamine dehydrogenase
-EC 1.5.8.3; sarcosine dehydrogenase
-EC 1.5.8.4; dimethylglycine dehydrogenase
-EC 1.5.99.1; now EC 1.5.8.3
-EC 1.5.99.2; now EC 1.5.8.4
-EC 1.5.99.3; L-pipecolate dehydrogenase
-EC 1.5.99.4; nicotine dehydrogenase
-EC 1.5.99.5; methylglutamate dehydrogenase
-EC 1.5.99.6; spermidine dehydrogenase
-EC 1.5.99.7; now *EC 1.5.8.2
-EC 1.5.99.8; proline dehydrogenase
-EC 1.5.99.9; methylenetetrahydromethanopterin dehydrogenase
-EC 1.5.99.10; now *EC 1.5.8.1
-EC 1.5.99.11; 5,10-methylenetetrahydromethanopterin reductase
-EC 1.5.99.12; cytokinin dehydrogenase
-EC 1.5.99.13; D-proline dehydrogenase
-EC 1.5.99.14; 6-hydroxypseudooxynicotine dehydrogenase
-EC 1.6.1.1; NAD(P)+ transhydrogenase (Si-specific)
-EC 1.6.1.2; NAD(P)+ transhydrogenase (Re/Si-specific)
-EC 1.6.2.1; now EC 1.6.99.3
-EC 1.6.2.2; cytochrome-b5 reductase
-EC 1.6.2.3; deleted
-EC 1.6.2.4; NADPH—hemoprotein reductase
-EC 1.6.2.5; NADPH—cytochrome-c2 reductase
-EC 1.6.2.6; leghemoglobin reductase
-EC 1.6.3.1; NAD(P)H oxidase
-EC 1.6.4.1; now EC 1.8.1.6
-EC 1.6.4.2; now EC 1.8.1.7
-EC 1.6.4.3; now EC 1.8.1.4
-EC 1.6.4.4; now EC 1.8.1.8
-EC 1.6.4.5; now EC 1.8.1.9
-EC 1.6.4.6; now EC 1.8.1.10
-EC 1.6.4.7; now EC 1.8.1.11
-EC 1.6.4.8; now EC 1.8.1.12
-EC 1.6.4.9; now EC 1.8.1.13
-EC 1.6.4.10; now EC 1.8.1.14
-EC 1.6.5.1; deleted
-EC 1.6.5.2; NAD(P)H dehydrogenase (quinone)
-EC 1.6.5.3; now EC 7.1.1.2
-EC 1.6.5.4; monodehydroascorbate reductase (NADH)
-EC 1.6.5.5; NADPH:quinone reductase
-EC 1.6.5.6; p-benzoquinone reductase (NADPH)
-EC 1.6.5.7; 2-hydroxy-1,4-benzoquinone reductase
-EC 1.6.5.8; NADH:ubiquinone reductase (Na+-transporting)
-EC 1.6.5.9; NADH:ubiquinone reductase (non-electrogenic)
-EC 1.6.5.10; NADPH dehydrogenase (quinone)
-EC 1.6.6.1; now *EC 1.7.1.1
-EC 1.6.6.2; now *EC 1.7.1.2
-EC 1.6.6.3; now *EC 1.7.1.3
-EC 1.6.6.4; now *EC 1.7.1.4
-EC 1.6.6.5; now *EC 1.7.99.3
-EC 1.6.6.6; now *EC 1.7.1.5
-EC 1.6.6.7; now *EC 1.7.1.6
-EC 1.6.6.8; now *EC 1.7.1.7
-EC 1.6.6.9; trimethylamine-N-oxide reductase
-EC 1.6.6.10; now *EC 1.7.1.9
-EC 1.6.6.11; now *EC 1.7.1.10
-EC 1.6.6.12; now *EC 1.7.1.11
-EC 1.6.6.13; now *EC 1.7.1.12
-EC 1.6.7.1; now EC 1.18.1.2
-EC 1.6.7.2; now EC 1.18.1.1
-EC 1.6.8.1; now EC 1.5.1.29
-EC 1.6.8.2; now EC 1.5.1.30
-EC 1.6.99.1; NADPH dehydrogenase
-EC 1.6.99.2; now *EC 1.6.5.2
-EC 1.6.99.3; NADH dehydrogenase
-EC 1.6.99.4; now *EC 1.18.1.2
-EC 1.6.99.5; NADH dehydrogenase (quinone)
-EC 1.6.99.6; NADPH dehydrogenase (quinone)
-EC 1.6.99.7; now *EC 1.5.1.34
-EC 1.6.99.8; now *EC 1.16.1.3
-EC 1.6.99.9; now *EC 1.16.1.4
-EC 1.6.99.10; deleted, included in *EC 1.6.99.7
-EC 1.6.99.11; now *EC 1.16.1.5
-EC 1.6.99.12; now *EC 1.16.1.6
-EC 1.6.99.13; now *EC 1.16.1.7
-EC 1.7.1.1; nitrate reductase (NADH)
-EC 1.7.1.2; nitrate reductase (NAD(P)H)
-EC 1.7.1.3; nitrate reductase (NADPH)
-EC 1.7.1.4; nitrite reductase (NAD(P)H)
-EC 1.7.1.5; hyponitrite reductase
-EC 1.7.1.6; azobenzene reductase
-EC 1.7.1.7; GMP reductase
-EC 1.7.1.8; deleted entry
-EC 1.7.1.9; nitroquinoline-N-oxide reductase
-EC 1.7.1.10; hydroxylamine reductase (NADH)
-EC 1.7.1.11; 4-(dimethylamino)phenylazoxybenzene reductase
-EC 1.7.1.12; N-hydroxy-2-acetamidofluorene reductase
-EC 1.7.1.13; preQ1 synthase
-EC 1.7.1.14; nitric oxide reductase (NAD(P), nitrous oxide-forming)
-EC 1.7.2.1; nitrite reductase (NO-forming)
-EC 1.7.2.2; nitrite reductase (cytochrome; ammonia-forming)
-EC 1.7.2.3; trimethylamine-N-oxide reductase (cytochrome c)
-EC 1.7.2.4; nitrous-oxide reductase
-EC 1.7.2.5; nitric oxide reductase (cytochrome c)
-EC 1.7.2.6; hydroxylamine dehydrogenase
-EC 1.7.3.1; nitroalkane oxidase
-EC 1.7.3.2; acetylindoxyl oxidase
-EC 1.7.3.3; urate oxidase
-EC 1.7.3.4; hydroxylamine oxidase
-EC 1.7.3.5; 3-aci-nitropropanoate oxidase
-EC 1.7.5.1; nitrate reductase (quinone)
-EC 1.7.5.2; nitric oxide reductase (menaquinol)
-EC 1.7.6.1; nitrite dismutase
-EC 1.7.7.1; ferredoxin—nitrite reductase
-EC 1.7.7.2; ferredoxin—nitrate reductase
-EC 1.7.99.1; hydroxylamine reductase
-EC 1.7.99.2; deleted
-EC 1.7.99.3; included with *EC 1.7.2.1
-EC 1.7.99.4; nitrate reductase
-EC 1.7.99.5; deleted, now included with *EC 1.5.1.20
-EC 1.7.99.6; nitrous-oxide reductase
-EC 1.7.99.7; nitric-oxide reductase
-EC 1.7.99.8; hydroxylamine oxidoreductase
-EC 1.8.1.1; deleted
-EC 1.8.1.2; sulfite reductase (NADPH)
-EC 1.8.1.3; hypotaurine dehydrogenase
-EC 1.8.1.4; dihydrolipoyl dehydrogenase
-EC 1.8.1.5; 2-oxopropyl-CoM reductase (carboxylating)
-EC 1.8.1.6; cystine reductase
-EC 1.8.1.7; glutathione-disulfide reductase
-EC 1.8.1.8; protein-disulfide reductase
-EC 1.8.1.9; thioredoxin-disulfide reductase
-EC 1.8.1.10; CoA-glutathione reductase
-EC 1.8.1.11; asparagusate reductase
-EC 1.8.1.12; trypanothione-disulfide reductase
-EC 1.8.1.13; bis-g-glutamylcystine reductase
-EC 1.8.1.14; CoA-disulfide reductase
-EC 1.8.1.15; mycothione reductase
-EC 1.8.1.16; glutathione amide reductase
-EC 1.8.1.17; dimethylsulfone reductase
-EC 1.8.2.1; sulfite dehydrogenase
-EC 1.8.2.2; thiosulfate dehydrogenase
-EC 1.8.2.3; sulfide-cytochrome-c reductase (flavocytochrome c)
-EC 1.8.2.4; dimethyl sulfide:cytochrome c2 reductase
-EC 1.8.3.1; sulfite oxidase
-EC 1.8.3.2; thiol oxidase
-EC 1.8.3.3; glutathione oxidase
-EC 1.8.3.4; methanethiol oxidase
-EC 1.8.3.5; prenylcysteine oxidase
-EC 1.8.3.6; farnesylcysteine lyase
-EC 1.8.4.1; glutathione—homocystine transhydrogenase
-EC 1.8.4.2; protein-disulfide reductase (glutathione)
-EC 1.8.4.3; glutathione—CoA-glutathione transhydrogenase
-EC 1.8.4.4; glutathione—cystine transhydrogenase
-EC 1.8.4.5; methionine-S-oxide reductase
-EC 1.8.4.6; protein-methionine-S-oxide reductase
-EC 1.8.4.7; enzyme-thiol transhydrogenase (glutathione-disulfide)
-EC 1.8.4.8; phosphoadenylyl-sulfate reductase (thioredoxin)
-EC 1.8.4.9; adenylyl-sulfate reductase (glutathione)
-EC 1.8.4.10; adenylyl-sulfate reductase (thioredoxin)
-EC 1.8.4.11; peptide-methionine (S)-S-oxide reductase
-EC 1.8.4.12; peptide-methionine (R)-S-oxide reductase
-EC 1.8.4.13; L-methionine (S)-S-oxide reductase
-EC 1.8.4.14; L-methionine (R)-S-oxide reductase
-EC 1.8.5.1; glutathione dehydrogenase (ascorbate)
-EC 1.8.5.2; thiosulfate dehydrogenase (quinone)
-EC 1.8.5.3; dimethylsulfoxide reductase
-EC 1.8.5.4; sulfide:quinone reductase
-EC 1.8.6.1; deleted, included in EC 2.5.1.18
-EC 1.8.7.1; sulfite reductase (ferredoxin)
-EC 1.8.7.2; ferredoxin:thioredoxin reductase
-EC 1.8.98.1; CoB—CoM heterodisulfide reductase
-EC 1.8.98.2; sulfiredoxin.
-EC 1.8.99.1; sulfite reductase
-EC 1.8.99.2; adenylyl-sulfate reductase
-EC 1.8.99.3; hydrogensulfite reductase
-EC 1.8.99.4; now EC 1.8.4.8
-EC 1.9.3.1; cytochrome-c oxidase
-EC 1.9.3.2; included with EC 1.7.2.1
-EC 1.9.6.1; nitrate reductase (cytochrome)
-EC 1.9.99.1; iron—cytochrome-c reductase
-EC 1.10.1.1; trans-acenaphthene-1,2-diol dehydrogenase
-EC 1.10.2.1; L-ascorbate—cytochrome-b5 reductase
-EC 1.10.2.2; ubiquinol—cytochrome-c reductase
-EC 1.10.3.1; catechol oxidase
-EC 1.10.3.2; laccase
-EC 1.10.3.3; L-ascorbate oxidase
-EC 1.10.3.4; o-aminophenol oxidase
-EC 1.10.3.5; 3-hydroxyanthranilate oxidase
-EC 1.10.3.6; rifamycin-B oxidase
-EC 1.10.3.7; now EC 1.21.3.4
-EC 1.10.3.8; now EC 1.21.3.5
-EC 1.10.3.9; photosystem II
-EC 1.10.3.10; ubiquinol oxidase (H+-transporting)
-EC 1.10.3.11; ubiquinol oxidase
-EC 1.10.3.12; menaquinol oxidase (H+-transporting)
-EC 1.10.9.1; plastoquinol---plastocyanin reductase
-EC 1.10.99.1; now EC 1.10.9.1
-EC 1.10.99.2; ribosyldihydronicotinamide dehydrogenase (quinone)
-EC 1.10.99.3; violaxanthin de-epoxidase
-EC 1.11.1.1; NADH peroxidase
-EC 1.11.1.2; NADPH peroxidase
-EC 1.11.1.3; fatty-acid peroxidase
-EC 1.11.1.4; now *EC 1.13.11.11
-EC 1.11.1.5; cytochrome-c peroxidase
-EC 1.11.1.6; catalase
-EC 1.11.1.7; peroxidase
-EC 1.11.1.8; iodide peroxidase
-EC 1.11.1.9; glutathione peroxidase
-EC 1.11.1.10; chloride peroxidase
-EC 1.11.1.11; L-ascorbate peroxidase
-EC 1.11.1.12; phospholipid-hydroperoxide glutathione peroxidase
-EC 1.11.1.13; manganese peroxidase
-EC 1.11.1.14; diarylpropane peroxidase
-EC 1.11.1.15; peroxiredoxin
-EC 1.11.1.16; versatile peroxidase
-EC 1.11.1.17; glutathione amide-dependent peroxidase
-EC 1.11.1.18; bromide peroxidase
-EC 1.11.1.19; dye decolorizing peroxidase
-EC 1.11.1.20; prostamide/prostaglandin F2alpha synthase
-EC 1.11.1.21; catalase-peroxidase
-EC 1.11.2.1; unspecific peroxygenase
-EC 1.11.2.2; myeloperoxidase
-EC 1.11.2.3; plant seed peroxygenase
-EC 1.11.2.4; fatty-acid peroxygenase
-EC 1.12.1.1; now EC 1.18.99.1
-EC 1.12.1.2; hydrogen dehydrogenase
-EC 1.12.1.3; hydrogen dehydrogenase (NADP+)
-EC 1.12.1.4; hydrogenase (NAD+, ferredoxin)
-EC 1.12.2.1; cytochrome-c3 hydrogenase
-EC 1.12.5.1; hydrogen:quinone oxidoreductase
-EC 1.12.7.1; now EC 1.18.99.1
-EC 1.12.7.2; ferredoxin hydrogenase
-EC 1.12.98.1; coenzyme F420 hydrogenase
-EC 1.12.98.2; 5,10-methenyltetrahydromethanopterin hydrogenase
-EC 1.12.98.3; Methanosarcina-phenazine hydrogenase
-EC 1.12.98.4; Sulfhydrogenase
-EC 1.12.99.1; now *EC 1.12.98.1
-EC 1.12.99.2; deleted, composed of *EC 1.12.98.3 and *EC 1.8.98.1
-EC 1.12.99.3; now *EC 1.12.5.1
-EC 1.12.99.4; now *EC 1.12.98.2
-EC 1.12.99.5; identical to *EC 1.13.11.47
-EC 1.12.99.6; hydrogenase (acceptor)
-EC 1.13.1.1; now *EC 1.13.11.1
-EC 1.13.1.2; now *EC 1.13.11.2
-EC 1.13.1.3; now *EC 1.13.11.3
-EC 1.13.1.4; now *EC 1.13.11.4
-EC 1.13.1.5; now *EC 1.13.11.5
-EC 1.13.1.6; now *EC 1.13.11.6
-EC 1.13.1.7; now deleted
-EC 1.13.1.8; now *EC 1.13.11.8
-EC 1.13.1.9; now *EC 1.13.11.9
-EC 1.13.1.10; now *EC 1.13.11.10
-EC 1.13.1.11; now *EC 1.13.99.1
-EC 1.13.1.12; now *EC 1.13.11.11
-EC 1.13.1.13; now *EC 1.13.11.12
-EC 1.13.11.1; catechol 1,2-dioxygenase
-EC 1.13.11.2; catechol 2,3-dioxygenase
-EC 1.13.11.3; protocatechuate 3,4-dioxygenase
-EC 1.13.11.4; gentisate 1,2-dioxygenase
-EC 1.13.11.5; homogentisate 1,2-dioxygenase
-EC 1.13.11.6; 3-hydroxyanthranilate 3,4-dioxygenase
-EC 1.13.11.7; deleted
-EC 1.13.11.8; protocatechuate 4,5-dioxygenase
-EC 1.13.11.9; 2,5-dihydroxypyridine 5,6-dioxygenase
-EC 1.13.11.10; 7,8-dihydroxykynurenate 8,8a-dioxygenase
-EC 1.13.11.11; tryptophan 2,3-dioxygenase
-EC 1.13.11.12; lipoxygenase
-EC 1.13.11.13; ascorbate 2,3-dioxygenase
-EC 1.13.11.14; 2,3-dihydroxybenzoate 3,4-dioxygenase
-EC 1.13.11.15; 3,4-dihydroxyphenylacetate 2,3-dioxygenase
-EC 1.13.11.16; 3-carboxyethylcatechol 2,3-dioxygenase
-EC 1.13.11.17; indole 2,3-dioxygenase
-EC 1.13.11.18; sulfur dioxygenase
-EC 1.13.11.19; cysteamine dioxygenase
-EC 1.13.11.20; cysteine dioxygenase
-EC 1.13.11.21; now *EC 1.14.99.36
-EC 1.13.11.22; caffeate 3,4-dioxygenase
-EC 1.13.11.23; 2,3-dihydroxyindole 2,3-dioxygenase
-EC 1.13.11.24; quercetin 2,3-dioxygenase
-EC 1.13.11.25; 3,4-dihydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione 4,5-dioxygenase
-EC 1.13.11.26; peptide-tryptophan 2,3-dioxygenase
-EC 1.13.11.27; 4-hydroxyphenylpyruvate dioxygenase
-EC 1.13.11.28; 2,3-dihydroxybenzoate 2,3-dioxygenase
-EC 1.13.11.29; stizolobate synthase
-EC 1.13.11.30; stizolobinate synthase
-EC 1.13.11.31; arachidonate 12-lipoxygenase
-EC 1.13.11.32; 2-nitropropane dioxygenase
-EC 1.13.11.33; arachidonate 15-lipoxygenase
-EC 1.13.11.34; arachidonate 5-lipoxygenase
-EC 1.13.11.35; pyrogallol 1,2-oxygenase
-EC 1.13.11.36; chloridazon-catechol dioxygenase
-EC 1.13.11.37; hydroxyquinol 1,2-dioxygenase
-EC 1.13.11.38; 1-hydroxy-2-naphthoate 1,2-dioxygenase
-EC 1.13.11.39; biphenyl-2,3-diol 1,2-dioxygenase
-EC 1.13.11.40; arachidonate 8-lipoxygenase
-EC 1.13.11.41; 2,4'-dihydroxyacetophenone dioxygenase
-EC 1.13.11.42; deleted
-EC 1.13.11.43; lignostilbene ab-dioxygenase
-EC 1.13.11.44; linoleate diol synthase
-EC 1.13.11.45; linoleate 11-lipoxygenase
-EC 1.13.11.46; 4-hydroxymandelate synthase
-EC 1.13.11.47; 3-hydroxy-4-oxoquinoline 2,4-dioxygenase
-EC 1.13.11.48; 3-hydroxy-2-methyl-quinolin-4-one 2,4-dioxygenase
-EC 1.13.11.49; chlorite O2-lyase
-EC 1.13.11.50; acetylacetone-cleaving enzyme
-EC 1.13.11.51; 9-cis-epoxycarotenoid dioxygenase
-EC 1.13.11.52; indoleamine 2,3-dioxygenase
-EC 1.13.11.53; Acireductone dioxygenase (Ni2+-requiring)
-EC 1.13.11.54; acireductone dioxygenase (Fe(2+)-requiring)
-EC 1.13.11.55; sulfur oxygenase/reductase
-EC 1.13.11.56; 1,2-dihydroxynaphthalene dioxygenase
-EC 1.13.11.57; gallate dioxygenase
-EC 1.13.11.58; linoleate 9S-lipoxygenase
-EC 1.13.11.59; torulene dioxygenase
-EC 1.13.11.60; linoleate 8R-lipoxygenase
-EC 1.13.11.61; linolenate 9R-lipoxygenase
-EC 1.13.11.62; linoleate 10R-lipoxygenase
-EC 1.13.11.63; beta-carotene 15,15'-dioxygenase
-EC 1.13.11.64; 5-nitrosalicylate dioxygenase
-EC 1.13.11.65; carotenoid isomerooxygenase
-EC 1.13.11.66; hydroquinone 1,2-dioxygenase
-EC 1.13.11.67; 8'-apo-beta-carotenoid 14',13'-cleaving dioxygenase
-EC 1.13.11.68; 9-cis-beta-carotene 9',10'-cleaving dioxygenase
-EC 1.13.11.69; carlactone synthase
-EC 1.13.11.70; all-trans-10'-apo-beta-carotenal 13,14-cleaving dioxygenase
-EC 1.13.11.71; carotenoid-9',10'-cleaving dioxygenase
-EC 1.13.11.72; 2-hydroxyethylphosphonate dioxygenase
-EC 1.13.11.73; methylphosphonate synthase
-EC 1.13.11.80; (3,5-dihydroxyphenyl)acetyl-CoA 1,2-dioxygenase
-EC 1.13.12.1; arginine 2-monooxygenase
-EC 1.13.12.2; lysine 2-monooxygenase
-EC 1.13.12.3; tryptophan 2-monooxygenase
-EC 1.13.12.4; lactate 2-monooxygenase
-EC 1.13.12.5; Renilla-luciferin 2-monooxygenase
-EC 1.13.12.6; Cypridina-luciferin 2-monooxygenase
-EC 1.13.12.7; Photinus-luciferin 4-monooxygenase (ATP-hydrolysing)
-EC 1.13.12.8; Watasenia-luciferin 2-monooxygenase
-EC 1.13.12.9; phenylalanine 2-monooxygenase
-EC 1.13.12.10; covered by *EC 1.14.13.59
-EC 1.13.12.11; methylphenyltetrahydropyridine N-monooxygenase
-EC 1.13.12.12; apo-b-carotenoid-14',13'-dioxygenase
-EC 1.13.12.13; Oplophorus-luciferin 2-monooxygenase
-EC 1.13.12.14; chlorophyllide-a oxygenase
-EC 1.13.12.15; 3,4-dihydroxyphenylalanine oxidative deaminase
-EC 1.13.12.16; nitronate monooxygenase
-EC 1.13.12.17; dichloroarcyriaflavin A synthase
-EC 1.13.12.18; dinoflagellate luciferase
-EC 1.13.12.19; 2-oxoglutarate dioxygenase (ethylene-forming)
-EC 1.13.99.1; inositol oxygenase
-EC 1.13.99.2; now EC 1.14.12.10
-EC 1.13.99.3; tryptophan 2'-dioxygenase
-EC 1.13.99.4; now EC 1.14.12.9
-EC 1.13.99.5; now EC 1.13.11.47
-EC 1.14.1.1; now EC 1.14.14.1
-EC 1.14.1.2; now EC 1.14.13.9
-EC 1.14.1.3; deleted, covered by EC 1.14.99.7, EC 5.4.99.7
-EC 1.14.1.4; now EC 1.14.99.2
-EC 1.14.1.5; now EC 1.14.13.5
-EC 1.14.1.6; now EC 1.14.15.4
-EC 1.14.1.7; now EC 1.14.99.9
-EC 1.14.1.8; now EC 1.14.99.10
-EC 1.14.1.9; deleted
-EC 1.14.1.10; now EC 1.14.99.11
-EC 1.14.1.11; deleted
-EC 1.14.2.1; now EC 1.14.17.1
-EC 1.14.2.2; now EC 1.13.11.27
-EC 1.14.3.1; now EC 1.14.16.1
-EC 1.14.11.1; g-butyrobetaine dioxygenase
-EC 1.14.11.2; procollagen-proline dioxygenase
-EC 1.14.11.3; pyrimidine-deoxynucleoside 2'-dioxygenase
-EC 1.14.11.4; procollagen-lysine 5-dioxygenase
-EC 1.14.11.5; deleted, included in EC 1.14.11.6
-EC 1.14.11.6; thymine dioxygenase
-EC 1.14.11.7; procollagen-proline 3-dioxygenase
-EC 1.14.11.8; trimethyllysine dioxygenase
-EC 1.14.11.9; flavanone 3-dioxygenase
-EC 1.14.11.10; pyrimidine-deoxynucleoside 1'-dioxygenase
-EC 1.14.11.11; hyoscyamine (6S)-dioxygenase
-EC 1.14.11.12; gibberellin-44 dioxygenase
-EC 1.14.11.13; gibberellin 2b-dioxygenase
-EC 1.14.11.14; 6b-hydroxyhyoscyamine epoxidase
-EC 1.14.11.15; gibberellin 3b-dioxygenase
-EC 1.14.11.16; peptide-aspartate b-dioxygenase
-EC 1.14.11.17; taurine dioxygenase
-EC 1.14.11.18; phytanoyl-CoA dioxygenase
-EC 1.14.11.19; leucocyanidin oxygenase
-EC 1.14.11.20; deacetoxyvindoline 4-hydroxylase
-EC 1.14.11.21; clavaminate synthase
-EC 1.14.11.22; flavone synthase
-EC 1.14.11.23; flavonol synthase
-EC 1.14.11.24; 2'-deoxymugineic-acid 2'-dioxygenase
-EC 1.14.11.25; mugineic-acid 3-dioxygenase
-EC 1.14.11.26; deacetoxycephalosporin-C hydroxylase
-EC 1.14.11.27; (histone-H3)-lysine-36 demethylase
-EC 1.14.11.28; proline 3-hydroxylase
-EC 1.14.11.29; hypoxia-inducible factor-proline dioxygenase
-EC 1.14.11.30; hypoxia-inducible factor-asparagine dioxygenase
-EC 1.14.11.31; thebaine 6-O-demethylase
-EC 1.14.11.32; codeine 3-O-demethylase
-EC 1.14.11.33; DNA oxidative demethylase
-EC 1.14.11.34; 2-oxoglutarate/L-arginine monooxygenase/decarboxylase (succinate-forming)
-EC 1.14.11.35; 1-deoxypentalenic acid 11beta-hydroxylase
-EC 1.14.11.36; pentalenolactone F synthase
-EC 1.14.11.64; glutarate 2-hydroxylase
-EC 1.14.12.1; anthranilate 1,2-dioxygenase (deaminating, decarboxylating)
-EC 1.14.12.2; now EC 1.14.13.35
-EC 1.14.12.3; benzene 1,2-dioxygenase
-EC 1.14.12.4; 3-hydroxy-2-methylpyridinecarboxylate dioxygenase
-EC 1.14.12.5; 5-pyridoxate dioxygenase
-EC 1.14.12.6; now EC 1.14.13.66
-EC 1.14.12.7; phthalate 4,5-dioxygenase
-EC 1.14.12.8; 4-sulfobenzoate 3,4-dioxygenase
-EC 1.14.12.9; 4-chlorophenylacetate 3,4-dioxygenase
-EC 1.14.12.10; benzoate 1,2-dioxygenase
-EC 1.14.12.11; toluene dioxygenase
-EC 1.14.12.12; naphthalene 1,2-dioxygenase
-EC 1.14.12.13; 2-chlorobenzoate 1,2-dioxygenase
-EC 1.14.12.14; 2-aminobenzenesulfonate 2,3-dioxygenase
-EC 1.14.12.15; terephthalate 1,2-dioxygenase
-EC 1.14.12.16; 2-hydroxyquinoline 5,6-dioxygenase
-EC 1.14.12.17; nitric oxide dioxygenase
-EC 1.14.12.18; biphenyl 2,3-dioxygenase
-EC 1.14.12.19; 3-phenylpropionate dioxygenase
-EC 1.14.12.20; pheophorbide a oxygenase
-EC 1.14.12.21; benzoyl-CoA 2,3-dioxygenase
-EC 1.14.12.22; carbazole 1,9a-dioxygenase
-EC 1.14.13.1; salicylate 1-monooxygenase
-EC 1.14.13.2; 4-hydroxybenzoate 3-monooxygenase
-EC 1.14.13.3; 4-hydroxyphenylacetate 3-monooxygenase
-EC 1.14.13.4; melilotate 3-monooxygenase
-EC 1.14.13.5; imidazoleacetate 4-monooxygenase
-EC 1.14.13.6; orcinol 2-monooxygenase
-EC 1.14.13.7; phenol 2-monooxygenase
-EC 1.14.13.8; dimethylaniline monooxygenase (N-oxide-forming)
-EC 1.14.13.9; kynurenine 3-monooxygenase
-EC 1.14.13.10; 2,6-dihydroxypyridine 3-monooxygenase
-EC 1.14.13.11; trans-cinnamate 4-monooxygenase
-EC 1.14.13.12; benzoate 4-monooxygenase
-EC 1.14.13.13; calcidiol 1-monooxygenase
-EC 1.14.13.14; trans-cinnamate 2-monooxygenase
-EC 1.14.13.15; cholestanetriol 26-monooxygenase
-EC 1.14.13.16; cyclopentanone monooxygenase
-EC 1.14.13.17; cholesterol 7a-monooxygenase
-EC 1.14.13.18; 4-hydroxyphenylacetate 1-monooxygenase
-EC 1.14.13.19; taxifolin 8-monooxygenase
-EC 1.14.13.20; 2,4-dichlorophenol 6-monooxygenase
-EC 1.14.13.21; flavonoid 3'-monooxygenase
-EC 1.14.13.22; cyclohexanone monooxygenase
-EC 1.14.13.23; 3-hydroxybenzoate 4-monooxygenase
-EC 1.14.13.24; 3-hydroxybenzoate 6-monooxygenase
-EC 1.14.13.25; methane monooxygenase
-EC 1.14.13.26; phosphatidylcholine 12-monooxygenase
-EC 1.14.13.27; 4-aminobenzoate 1-monooxygenase
-EC 1.14.13.28; 3,9-dihydroxypterocarpan 6a-monooxygenase
-EC 1.14.13.29; 4-nitrophenol 2-monooxygenase
-EC 1.14.13.30; leukotriene-B4 20-monooxygenase
-EC 1.14.13.31; 2-nitrophenol 2-monooxygenase
-EC 1.14.13.32; albendazole monooxygenase
-EC 1.14.13.33; 4-hydroxybenzoate 3-monooxygenase (NAD(P)H)
-EC 1.14.13.34; leukotriene-E4 20-monooxygenase
-EC 1.14.13.35; anthranilate 3-monooxygenase (deaminating)
-EC 1.14.13.36; 5-O-(4-coumaroyl)-D-quinate 3'-monooxygenase
-EC 1.14.13.37; methyltetrahydroprotoberberine 14-monooxygenase
-EC 1.14.13.38; anhydrotetracycline monooxygenase
-EC 1.14.13.39; nitric-oxide synthase
-EC 1.14.13.40; anthraniloyl-CoA monooxygenase
-EC 1.14.13.41; tyrosine N-monooxygenase
-EC 1.14.13.42; hydroxyphenylacetonitrile 2-monooxygenase
-EC 1.14.13.43; questin monooxygenase
-EC 1.14.13.44; 2-hydroxybiphenyl 3-monooxygenase
-EC 1.14.13.45; now EC 1.14.18.2
-EC 1.14.13.46; (-)-menthol monooxygenase
-EC 1.14.13.47; (S)-limonene 3-monooxygenase
-EC 1.14.13.48; (S)-limonene 6-monooxygenase
-EC 1.14.13.49; (S)-limonene 7-monooxygenase
-EC 1.14.13.50; pentachlorophenol monooxygenase
-EC 1.14.13.51; 6-oxocineole dehydrogenase
-EC 1.14.13.52; isoflavone 3'-hydroxylase
-EC 1.14.13.53; 4'-methoxyisoflavone 2'-hydroxylase
-EC 1.14.13.54; ketosteroid monooxygenase
-EC 1.14.13.55; protopine 6-monooxygenase
-EC 1.14.13.56; dihydrosanguinarine 10-monooxygenase
-EC 1.14.13.57; dihydrochelirubine 12-monooxygenase
-EC 1.14.13.58; benzoyl-CoA 3-monooxygenase
-EC 1.14.13.59; L-lysine 6-monooxygenase (NADPH)
-EC 1.14.13.60; 27-hydroxycholesterol 7a-monooxygenase
-EC 1.14.13.61; 2-hydroxyquinoline 8-monooxygenase
-EC 1.14.13.62; 4-hydroxyquinoline 3-monooxygenase
-EC 1.14.13.63; 3-hydroxyphenylacetate 6-hydroxylase
-EC 1.14.13.64; 4-hydroxybenzoate 1-hydroxylase
-EC 1.14.13.65; deleted
-EC 1.14.13.66; 2-hydroxycyclohexanone 2-monooxygenase
-EC 1.14.13.67; quinine 3-monooxygenase
-EC 1.14.13.68; 4-hydroxyphenylacetaldehyde oxime monooxygenase
-EC 1.14.13.69; alkene monooxygenase
-EC 1.14.13.70; sterol 14-demethylase
-EC 1.14.13.71; N-methylcoclaurine 3'-monooxygenase
-EC 1.14.13.72; methylsterol monooxygenase
-EC 1.14.13.73; tabersonine 16-hydroxylase
-EC 1.14.13.74; 7-deoxyloganin 7-hydroxylase
-EC 1.14.13.75; vinorine hydroxylase
-EC 1.14.13.76; taxane 10b-hydroxylase
-EC 1.14.13.77; taxane 13a-hydroxylase
-EC 1.14.13.78; ent-kaurene oxidase
-EC 1.14.13.79; ent-kaurenoic acid oxidase
-EC 1.14.13.80; (R)-limonene 6-monooxygenase
-EC 1.14.13.81; magnesium-protoporphyrin IX monomethyl ester (oxidative) cyclase
-EC 1.14.13.82; vanillate monooxygenase
-EC 1.14.13.83; precorrin-3B synthase
-EC 1.14.13.84; 4-hydroxyacetophenone monooxygenase
-EC 1.14.13.85; glyceollin synthase
-EC 1.14.13.86; 2-hydroxyisoflavanone synthase
-EC 1.14.13.87; licodione synthase
-EC 1.14.13.88; flavonoid 3',5'-hydroxylase
-EC 1.14.13.89; isoflavone 2'-hydroxylase
-EC 1.14.13.90; zeaxanthin epoxidase
-EC 1.14.13.91; deoxysarpagine hydroxylase
-EC 1.14.13.92; phenylacetone monooxygenase
-EC 1.14.13.93; (+)-abscisic acid 8'-hydroxylase
-EC 1.14.13.94; Lithocholate 6beta-hydroxylase
-EC 1.14.13.95; 7alpha-hydroxycholest-4-en-3-one 12alpha-hydroxylase
-EC 1.14.13.96; 5beta-cholestane-3alpha,7alpha-diol 12alpha-hydroxylase
-EC 1.14.13.97; taurochenodeoxycholate 6α-hydroxylase
-EC 1.14.13.98; cholesterol 24-hydroxylase
-EC 1.14.13.99; 24-hydroxycholesterol 7α-hydroxylase
-EC 1.14.13.100; 25-hydroxycholesterol 7α-hydroxylase
-EC 1.14.13.101; senecionine N-oxygenase
-EC 1.14.13.102; psoralen synthase
-EC 1.14.13.103; 8-dimethylallylnaringenin 2'-hydroxylase
-EC 1.14.13.104; (+)-menthofuran synthase
-EC 1.14.13.105; monocyclic monoterpene ketone monooxygenase
-EC 1.14.13.106; epi-isozizaene 5-monooxygenase
-EC 1.14.13.107; limonene 1,2-monooxygenase
-EC 1.14.13.108; abietadiene hydroxylase
-EC 1.14.13.109; abietadienol hydroxylase
-EC 1.14.13.110; geranylgeraniol 18-hydroxylase
-EC 1.14.13.111; methanesulfonate monooxygenase
-EC 1.14.13.112; 3-epi-6-deoxocathasterone 23-monooxygenase
-EC 1.14.13.113; FAD-dependent urate hydroxylase
-EC 1.14.13.114; 6-hydroxynicotinate 3-monooxygenase
-EC 1.14.13.115; angelicin synthase
-EC 1.14.13.116; geranylhydroquinone 3-hydroxylase
-EC 1.14.13.117; isoleucine N-monooxygenase
-EC 1.14.13.118; valine N-monooxygenase
-EC 1.14.13.119; 5-epiaristolochene 1,3-dihydroxylase
-EC 1.14.13.120; costunolide synthase
-EC 1.14.13.121; premnaspirodiene oxygenase
-EC 1.14.13.122; chlorophyllide-a oxygenase
-EC 1.14.13.123; germacrene A hydroxylase
-EC 1.14.13.124; phenylalanine N-monooxygenase
-EC 1.14.13.125; tryptophan N-monooxygenase
-EC 1.14.13.126; vitamin D3 24-hydroxylase
-EC 1.14.13.127; 3-(3-hydroxyphenyl)propanoate hydroxylase
-EC 1.14.13.128; 7-methylxanthine demethylase
-EC 1.14.13.129; beta-carotene 3-hydroxylase
-EC 1.14.13.130; pyrrole-2-carboxylate monooxygenase
-EC 1.14.13.131; dimethyl-sulfide monooxygenase
-EC 1.14.13.132; squalene monooxygenase
-EC 1.14.13.133; pentalenene oxygenase
-EC 1.14.13.134; beta-amyrin 11-oxidase
-EC 1.14.13.135; 1-hydroxy-2-naphthoate hydroxylase
-EC 1.14.13.136; isoflavonoid synthase
-EC 1.14.13.137; indole-2-monooxygenase
-EC 1.14.13.138; indolin-2-one monooxygenase
-EC 1.14.13.139; 3-hydroxyindolin-2-one monooxygenase
-EC 1.14.13.140; 2-hydroxy-1,4-benzoxazin-3-one monooxygenase
-EC 1.14.13.141; cholest-4-en-3-one 26-monooxygenase
-EC 1.14.13.142; 3-ketosteroid 9alpha-monooxygenase
-EC 1.14.13.143; ent-isokaurene C2-hydroxylase
-EC 1.14.13.144; 9beta-pimara-7,15-diene oxidase
-EC 1.14.13.145; ent-cassa-12,15-diene 11-hydroxylase
-EC 1.14.13.146; taxoid 14beta-hydroxylase
-EC 1.14.13.147; taxoid 7beta-hydroxylase
-EC 1.14.13.148; trimethylamine monooxygenase
-EC 1.14.13.149; phenylacetyl-CoA 1,2-epoxidase
-EC 1.14.13.150; alpha-humulene 10-hydroxylase
-EC 1.14.13.151; linalool 8-monooxygenase
-EC 1.14.13.152; geraniol 8-hydroxylase
-EC 1.14.13.153; (+)-sabinene 3-hydroxylase
-EC 1.14.13.154; erythromycin 12 hydroxylase
-EC 1.14.13.155; alpha-pinene monooxygenase
-EC 1.14.13.156; 1,8-cineole 2-endo-monooxygenase
-EC 1.14.13.157; 1,8-cineole 2-exo-monooxygenase
-EC 1.14.13.158; amorpha-4,11-diene 12-monooxygenase
-EC 1.14.13.159; vitamin D 25-hydroxylase
-EC 1.14.13.160; (2,2,3-trimethyl-5-oxocyclopent-3-enyl)acetyl-CoA 1,5-monooxygenase
-EC 1.14.13.161; (+)-camphor 6-exo-hydroxylase
-EC 1.14.13.162; 2,5-diketocamphane 1,2-monooxygenase
-EC 1.14.13.163; 6-hydroxy-3-succinoylpyridine 3-monooxygenase
-EC 1.14.13.164; now EC 1.13.11.65
-EC 1.14.13.165; nitric-oxide synthase (NAD(P)H-dependent)
-EC 1.14.13.166; 4-nitrocatechol 4-monooxygenase
-EC 1.14.13.167; 4-nitrophenol 4-monooxygenase
-EC 1.14.13.168; indole-3-pyruvate monooxygenase
-EC 1.14.13.169; sphinganine C4-monooxygenase
-EC 1.14.13.170; pentalenolactone D synthase
-EC 1.14.13.171; neopentalenolactone D synthase
-EC 1.14.13.196; L-ornithine N5 monooxygenase
-EC 1.14.14.1; unspecific monooxygenase
-EC 1.14.14.2; deleted, included in EC 1.14.14.1
-EC 1.14.14.3; alkanal monooxygenase (FMN-linked)
-EC 1.14.14.4; deleted, identical to EC 1.14.15.7
-EC 1.14.14.5; alkanesulfonate monooxygenase
-EC 1.14.14.6; Now EC 1.14.13.111
-EC 1.14.14.7; tryptophan 7-halogenase
-EC 1.14.14.8; anthranilate 3-monooxygenase (FAD)
-EC 1.14.14.9; 4-hydroxyphenylacetate 3-monooxygenase
-EC 1.14.14.10; nitrilotriacetate monooxygenase
-EC 1.14.14.11; styrene monooxygenase
-EC 1.14.14.12; 3-hydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione monooxygenase
-EC 1.14.14.13; 4-(gamma-L-glutamylamino)butanoyl-(BtrI acyl-carrier protein) monooxygenase
-EC 1.14.15.1; camphor 5-monooxygenase
-EC 1.14.15.2; camphor 1,2-monooxygenase
-EC 1.14.15.3; alkane 1-monooxygenase
-EC 1.14.15.4; steroid 11b-monooxygenase
-EC 1.14.15.5; corticosterone 18-monooxygenase
-EC 1.14.15.6; cholesterol monooxygenase (side-chain-cleaving)
-EC 1.14.15.7; choline monooxygenase
-EC 1.14.15.8; steroid 15beta-monooxygenase
-EC 1.14.15.9; spheroidene monooxygenase
-EC 1.14.15.10; (+)-camphor 6-endo-hydroxylase
-EC 1.14.15.11; pentalenic acid synthase
-EC 1.14.16.1; phenylalanine 4-monooxygenase
-EC 1.14.16.2; tyrosine 3-monooxygenase
-EC 1.14.16.3; anthranilate 3-monooxygenase
-EC 1.14.16.4; tryptophan 5-monooxygenase
-EC 1.14.16.5; glyceryl-ether monooxygenase
-EC 1.14.16.6; mandelate 4-monooxygenase
-EC 1.14.17.1; dopamine b-monooxygenase
-EC 1.14.17.2; deleted, included in EC 1.14.18.1
-EC 1.14.17.3; peptidylglycine monooxygenase
-EC 1.14.17.4; aminocyclopropanecarboxylate oxidase
-EC 1.14.18.1; monophenol monooxygenase
-EC 1.14.18.2; CMP-N-acetylneuraminate monooxygenase
-EC 1.14.18.3; methane monooxygenase (particulate)
-EC 1.14.19.1; stearoyl-CoA 9-desaturase
-EC 1.14.19.2; acyl-(acyl-carrier-protein) desaturase
-EC 1.14.19.3; linoleoyl-CoA desaturase
-EC 1.14.19.4; Delta8-fatty-acid desaturase
-EC 1.14.19.5; Delta11-fatty-acid desaturase
-EC 1.14.19.6; Delta12-fatty-acid desaturase
-EC 1.14.19.7; (S)-2-hydroxypropylphosphonic acid epoxidase
-EC 1.14.20.1; deacetoxycephalosporin-C synthase
-EC 1.14.20.2; 2,4-dihydroxy-1,4-benzoxazin-3-one-glucoside dioxygenase
-EC 1.14.21.1; (S)-stylopine synthase
-EC 1.14.21.2; (S)-cheilanthifoline synthase
-EC 1.14.21.3; berbamunine synthase
-EC 1.14.21.4; salutaridine synthase
-EC 1.14.21.5; (S)-canadine synthase
-EC 1.14.21.6; lathosterol oxidase
-EC 1.14.21.7; biflaviolin synthase
-EC 1.14.21.8; pseudobaptigenin synthase
-EC 1.14.99.1; prostaglandin-endoperoxide synthase
-EC 1.14.99.2; kynurenine 7,8-hydroxylase
-EC 1.14.99.3; heme oxygenase (decyclizing)
-EC 1.14.99.4; progesterone monooxygenase
-EC 1.14.99.5; now EC 1.14.19.1
-EC 1.14.99.6; now EC 1.14.19.2
-EC 1.14.99.7; now EC 1.14.13.132
-EC 1.14.99.8; deleted, included in EC 1.14.14.1
-EC 1.14.99.9; steroid 17a-monooxygenase
-EC 1.14.99.10; steroid 21-monooxygenase
-EC 1.14.99.11; estradiol 6b-monooxygenase
-EC 1.14.99.12; 4-androstene-3,17-dione monooxygenase
-EC 1.14.99.13; now EC 1.14.13.23
-EC 1.14.99.14; progesterone 11a-monooxygenase
-EC 1.14.99.15; 4-methoxybenzoate monooxygenase (O-demethylating)
-EC 1.14.99.16; now EC 1.14.13.72
-EC 1.14.99.17; now EC 1.14.16.5
-EC 1.14.99.18; deleted
-EC 1.14.99.19; plasmanylethanolamine desaturase
-EC 1.14.99.20; phylloquinone monooxygenase (2,3-epoxidizing)
-EC 1.14.99.21; Latia-luciferin monooxygenase (demethylating)
-EC 1.14.99.22; ecdysone 20-monooxygenase
-EC 1.14.99.23; 3-hydroxybenzoate 2-monooxygenase
-EC 1.14.99.24; steroid 9a-monooxygenase
-EC 1.14.99.25; now EC 1.14.19.3
-EC 1.14.99.26; 2-hydroxypyridine 5-monooxygenase
-EC 1.14.99.27; juglone 3-monooxygenase
-EC 1.14.99.28; linalool 8-monooxygenase
-EC 1.14.99.29; deoxyhypusine monooxygenase
-EC 1.14.99.30; carotene 7,8-desaturase
-EC 1.14.99.31; myristoyl-CoA 11-(E) desaturase
-EC 1.14.99.32; myristoyl-CoA 11-(Z) desaturase
-EC 1.14.99.33; D12-fatty acid dehydrogenase
-EC 1.14.99.34; monoprenyl isoflavone epoxidase
-EC 1.14.99.35; thiophene-2-carbonyl-CoA monooxygenase
-EC 1.14.99.36; b-carotene 15,15'-monooxygenase
-EC 1.14.99.37; taxadiene 5a-hydroxylase
-EC 1.14.99.38; cholesterol 25-hydroxylase
-EC 1.14.99.39; ammonia monooxygenase
-EC 1.14.99.40; 5,6-dimethylbenzimidazole synthase
-EC 1.14.99.41; all-trans-8'-apo-beta-carotenal 15,15'-oxygenase
-EC 1.14.99.42; zeaxanthin 7,8-dioxygenase
-EC 1.14.99.43; beta-amyrin 24-hydroxylase
-EC 1.14.99.44; diapolycopene oxygenase
-EC 1.14.99.45; carotene epsilon-monooxygenase
-EC 1.14.99.46; pyrimidine oxygenase
-EC 1.14.99.47; (+)-larreatricin hydroxylase
-EC 1.15.1.1; superoxide dismutase
-EC 1.15.1.2; superoxide reductase
-EC 1.16.1.1; mercury(II) reductase
-EC 1.16.1.2; diferric-transferrin reductase
-EC 1.16.1.3; aquacobalamin reductase
-EC 1.16.1.4; cob(II)alamin reductase
-EC 1.16.1.5; aquacobalamin reductase (NADPH)
-EC 1.16.1.6; cyanocobalamin reductase (cyanide-eliminating)
-EC 1.16.1.7; ferric-chelate reductase
-EC 1.16.1.8; (methionine synthase) reductase
-EC 1.16.1.9; ferric-chelate reductase (NADPH)
-EC 1.16.3.1; ferroxidase
-EC 1.16.5.1; ascorbate ferrireductase (transmembrane)
-EC 1.16.8.1; cob(II)yrinic acid a,c-diamide reductase
-EC 1.16.9.1; iron:rusticyanin reductase
-EC 1.16.98.1; Now EC 1.16.9.1
-EC 1.17.1.1; CDP-4-dehydro-6-deoxyglucose reductase
-EC 1.17.1.2; 4-hydroxy-3-methylbut-2-enyl diphosphate reductase
-EC 1.17.1.3; leucoanthocyanidin reductase
-EC 1.17.1.4; xanthine dehydrogenase
-EC 1.17.1.5; nicotinate dehydrogenase
-EC 1.17.1.6; bile-acid 7alpha-dehydroxylase
-EC 1.17.1.7; 3-oxo-5,6-dehydrosuberyl-CoA semialdehyde dehydrogenase
-EC 1.17.2.1; nicotinate dehydrogenase (cytochrome)
-EC 1.17.2.2; lupanine 17-hydroxylase (cytochrome c)
-EC 1.17.3.1; pteridine oxidase
-EC 1.17.3.2; xanthine oxidase
-EC 1.17.3.3; 6-hydroxynicotinate dehydrogenase
-EC 1.17.4.1; ribonucleoside-diphosphate reductase
-EC 1.17.4.2; ribonucleoside-triphosphate reductase
-EC 1.17.4.3; 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
-EC 1.17.5.1; phenylacetyl-CoA dehydrogenase
-EC 1.17.5.2; caffeine dehydrogenase
-EC 1.17.7.1; 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
-EC 1.17.7.2; 7-hydroxymethyl chlorophyll a reductase
-EC 1.17.99.1; 4-cresol dehydrogenase (hydroxylating)
-EC 1.17.99.2; ethylbenzene hydroxylase
-EC 1.17.99.3; 3alpha,7alpha,12alpha-trihydroxy-5beta-cholestanoyl-CoA 24-hydroxylase
-EC 1.17.99.4; uracil/thymine dehydrogenase
-EC 1.17.99.5; bile-acid 7alpha-dehydroxylase
-EC 1.18.1.1; rubredoxin—NAD+ reductase
-EC 1.18.1.2; ferredoxin—NADP+ reductase
-EC 1.18.1.3; ferredoxin—NAD+ reductase
-EC 1.18.1.4; rubredoxin—NAD(P)+ reductase
-EC 1.18.1.5; Putidaredoxin—NAD+ reductase
-EC 1.18.1.6; adrenodoxin-NADP+ reductase
-EC 1.18.2.1; now EC 1.18.6.1
-EC 1.18.3.1; now EC 1.18.99.1
-EC 1.18.6.1; nitrogenase
-EC 1.18.96.1; now EC 1.15.1.2
-EC 1.18.99.1; now EC 1.12.7.2
-EC 1.19.6.1; nitrogenase (flavodoxin)
-EC 1.20.1.1; phosphonate dehydrogenase
-EC 1.20.2.1; arsenate reductase (cytochrome c)
-EC 1.20.4.1; arsenate reductase (glutaredoxin)
-EC 1.20.4.2; methylarsonate reductase
-EC 1.20.4.3; mycoredoxin
-EC 1.20.9.1; arsenate reductase (azurin)
-EC 1.20.98.1; Now EC 1.20.9.1
-EC 1.20.99.1; arsenate reductase (donor)
-EC 1.21.3.1; isopenicillin-N synthase
-EC 1.21.3.2; columbamine oxidase
-EC 1.21.3.3; reticuline oxidase
-EC 1.21.3.4; sulochrin oxidase ((+)-bisdechlorogeodin-forming)
-EC 1.21.3.5; sulochrin oxidase ((-)-bisdechlorogeodin-forming)
-EC 1.21.3.6; aureusidin synthase
-EC 1.21.3.7; tetrahydrocannabinolic acid synthase
-EC 1.21.3.8; cannabidiolic acid synthase
-EC 1.21.4.1; D-proline reductase (dithiol)
-EC 1.21.4.2; glycine reductase
-EC 1.21.4.3; sarcosine reductase
-EC 1.21.4.4; betaine reductase
-EC 1.21.99.1; b-cyclopiazonate dehydrogenase
-EC 1.22.1.1; iodotyrosine deiodinase
-EC 1.97.1.1; chlorate reductase
-EC 1.97.1.2; pyrogallol hydroxytransferase
-EC 1.97.1.3; sulfur reductase
-EC 1.97.1.4; (formate-C-acetyltransferase)-activating enzyme
-EC 1.97.1.5; now *EC 1.20.4.1
-EC 1.97.1.6; now *EC 1.20.99.1
-EC 1.97.1.7; now *EC 1.20.4.2
-EC 1.97.1.8; tetrachloroethene reductive dehalogenase
-EC 1.97.1.9; selenate reductase
-EC 1.97.1.10; thyroxine 5'-deiodinase
-EC 1.97.1.11; thyroxine 5-deiodinase
-EC 1.97.1.12; photosystem I
-EC 1.98.1.1; now EC 1.18.99.1
-EC 1.99.1.1; deleted, now *EC 1.14.14.1
-EC 1.99.1.2; deleted, now *EC 1.14.16.1
-EC 1.99.1.3; deleted
-EC 1.99.1.4; deleted
-EC 1.99.1.5; deleted, now *EC 1.14.13.9
-EC 1.99.1.6; deleted
-EC 1.99.1.7; deleted, now *EC 1.14.15.4
-EC 1.99.1.8; deleted
-EC 1.99.1.9; deleted, now *EC 1.14.99.9
-EC 1.99.1.10; deleted
-EC 1.99.1.11; deleted, now *EC 1.14.99.10
-EC 1.99.1.12; deleted
-EC 1.99.1.13; deleted, covered by *EC 1.14.99.7 and *EC 5.4.99.7
-EC 1.99.1.14; deleted, now *EC 1.13.11.27
-EC 1.99.2.1; deleted, now *EC 1.13.11.12
-EC 1.99.2.2; deleted, now *EC 1.13.11.1
-EC 1.99.2.3; deleted, now *EC 1.13.11.3
-EC 1.99.2.4; deleted, now *EC 1.13.11.4
-EC 1.99.2.5; deleted, now *EC 1.13.11.5
-EC 1.99.2.6; deleted, now *EC 1.13.99.1
+EC 1.1.1.1	 alcohol dehydrogenase
+EC 1.1.1.2	 alcohol dehydrogenase (NADP+)
+EC 1.1.1.3	 homoserine dehydrogenase
+EC 1.1.1.4	 (R,R)-butanediol dehydrogenase
+EC 1.1.1.5	 Transferred to *EC 1.1.1.303 and *EC 1.1.1.304
+EC 1.1.1.6	 glycerol dehydrogenase
+EC 1.1.1.7	 propanediol-phosphate dehydrogenase
+EC 1.1.1.8	 glycerol-3-phosphate dehydrogenase (NAD+)
+EC 1.1.1.9	 D-xylulose reductase
+EC 1.1.1.10	 L-xylulose reductase
+EC 1.1.1.11	 D-arabinitol 4-dehydrogenase
+EC 1.1.1.12	 L-arabinitol 4-dehydrogenase
+EC 1.1.1.13	 L-arabinitol 2-dehydrogenase
+EC 1.1.1.14	 L-iditol 2-dehydrogenase
+EC 1.1.1.15	 D-iditol 2-dehydrogenase
+EC 1.1.1.16	 galactitol 2-dehydrogenase
+EC 1.1.1.17	 mannitol-1-phosphate 5-dehydrogenase
+EC 1.1.1.18	 inositol 2-dehydrogenase
+EC 1.1.1.19	 L-glucuronate reductase
+EC 1.1.1.20	 glucuronolactone reductase
+EC 1.1.1.21	 aldehyde reductase
+EC 1.1.1.22	 UDP-glucose 6-dehydrogenase
+EC 1.1.1.23	 histidinol dehydrogenase
+EC 1.1.1.24	 quinate dehydrogenase
+EC 1.1.1.25	 shikimate dehydrogenase
+EC 1.1.1.26	 glyoxylate reductase
+EC 1.1.1.27	 L-lactate dehydrogenase
+EC 1.1.1.28	 D-lactate dehydrogenase
+EC 1.1.1.29	 glycerate dehydrogenase
+EC 1.1.1.30	 3-hydroxybutyrate dehydrogenase
+EC 1.1.1.31	 3-hydroxyisobutyrate dehydrogenase
+EC 1.1.1.32	 mevaldate reductase
+EC 1.1.1.33	 mevaldate reductase (NADPH)
+EC 1.1.1.34	 hydroxymethylglutaryl-CoA reductase (NADPH)
+EC 1.1.1.35	 3-hydroxyacyl-CoA dehydrogenase
+EC 1.1.1.36	 acetoacetyl-CoA reductase
+EC 1.1.1.37	 malate dehydrogenase
+EC 1.1.1.38	 malate dehydrogenase (oxaloacetate-decarboxylating)
+EC 1.1.1.39	 malate dehydrogenase (decarboxylating)
+EC 1.1.1.40	 malate dehydrogenase (oxaloacetate-decarboxylating) (NADP+)
+EC 1.1.1.41	 isocitrate dehydrogenase (NAD+)
+EC 1.1.1.42	 isocitrate dehydrogenase (NADP+)
+EC 1.1.1.43	 phosphogluconate 2-dehydrogenase
+EC 1.1.1.44	 phosphogluconate dehydrogenase (decarboxylating)
+EC 1.1.1.45	 L-gulonate 3-dehydrogenase
+EC 1.1.1.46	 L-arabinose 1-dehydrogenase
+EC 1.1.1.47	 glucose 1-dehydrogenase
+EC 1.1.1.48	 galactose 1-dehydrogenase
+EC 1.1.1.49	 glucose-6-phosphate dehydrogenase
+EC 1.1.1.50	 3a-hydroxysteroid dehydrogenase (B-specific)
+EC 1.1.1.51	 3(or 17)b-hydroxysteroid dehydrogenase
+EC 1.1.1.52	 3a-hydroxycholanate dehydrogenase
+EC 1.1.1.53	 3a(or 20b)-hydroxysteroid dehydrogenase
+EC 1.1.1.54	 allyl-alcohol dehydrogenase
+EC 1.1.1.55	 lactaldehyde reductase (NADPH)
+EC 1.1.1.56	 ribitol 2-dehydrogenase
+EC 1.1.1.57	 fructuronate reductase
+EC 1.1.1.58	 tagaturonate reductase
+EC 1.1.1.59	 3-hydroxypropionate dehydrogenase
+EC 1.1.1.60	 2-hydroxy-3-oxopropionate reductase
+EC 1.1.1.61	 4-hydroxybutyrate dehydrogenase
+EC 1.1.1.62	 estradiol 17b-dehydrogenase
+EC 1.1.1.63	 testosterone 17b-dehydrogenase
+EC 1.1.1.64	 testosterone 17b-dehydrogenase (NADP+)
+EC 1.1.1.65	 pyridoxine 4-dehydrogenase
+EC 1.1.1.66	 w-hydroxydecanoate dehydrogenase
+EC 1.1.1.67	 mannitol 2-dehydrogenase
+EC 1.1.1.68	 now *EC 1.7.99.5
+EC 1.1.1.69	 gluconate 5-dehydrogenase
+EC 1.1.1.70	 deleted, included in *EC 1.2.1.3
+EC 1.1.1.71	 alcohol dehydrogenase (NAD(P)+)
+EC 1.1.1.72	 glycerol dehydrogenase (NADP+)
+EC 1.1.1.73	 octanol dehydrogenase
+EC 1.1.1.74	 deleted
+EC 1.1.1.75	 (R)-aminopropanol dehydrogenase
+EC 1.1.1.76	 (S,S)-butanediol dehydrogenase
+EC 1.1.1.77	 lactaldehyde reductase
+EC 1.1.1.78	 methylglyoxal reductase (NADH-dependent)
+EC 1.1.1.79	 glyoxylate reductase (NADP+)
+EC 1.1.1.80	 isopropanol dehydrogenase (NADP+)
+EC 1.1.1.81	 hydroxypyruvate reductase
+EC 1.1.1.82	 malate dehydrogenase (NADP+)
+EC 1.1.1.83	 D-malate dehydrogenase (decarboxylating)
+EC 1.1.1.84	 dimethylmalate dehydrogenase
+EC 1.1.1.85	 3-isopropylmalate dehydrogenase
+EC 1.1.1.86	 ketol-acid reductoisomerase
+EC 1.1.1.87	 homoisocitrate dehydrogenase
+EC 1.1.1.88	 hydroxymethylglutaryl-CoA reductase
+EC 1.1.1.89	 deleted, included in *EC 1.1.1.86
+EC 1.1.1.90	 aryl-alcohol dehydrogenase
+EC 1.1.1.91	 aryl-alcohol dehydrogenase (NADP+)
+EC 1.1.1.92	 oxaloglycolate reductase (decarboxylating)
+EC 1.1.1.93	 tartrate dehydrogenase
+EC 1.1.1.94	 glycerol-3-phosphate dehydrogenase (NAD(P)+)
+EC 1.1.1.95	 phosphoglycerate dehydrogenase
+EC 1.1.1.96	 diiodophenylpyruvate reductase
+EC 1.1.1.97	 3-hydroxybenzyl-alcohol dehydrogenase
+EC 1.1.1.98	 (R)-2-hydroxy-fatty-acid dehydrogenase
+EC 1.1.1.99	 (S)-2-hydroxy-fatty-acid dehydrogenase
+EC 1.1.1.100	 3-oxoacyl-(acyl-carrier-protein) reductase
+EC 1.1.1.101	 acylglycerone-phosphate reductase
+EC 1.1.1.102	 3-dehydrosphinganine reductase
+EC 1.1.1.103	 L-threonine 3-dehydrogenase
+EC 1.1.1.104	 4-oxoproline reductase
+EC 1.1.1.105	 retinol dehydrogenase
+EC 1.1.1.106	 pantoate 4-dehydrogenase
+EC 1.1.1.107	 pyridoxal 4-dehydrogenase
+EC 1.1.1.108	 carnitine 3-dehydrogenase
+EC 1.1.1.109	 now *EC 1.3.1.28
+EC 1.1.1.110	 indolelactate dehydrogenase
+EC 1.1.1.111	 3-(imidazol-5-yl)lactate dehydrogenase
+EC 1.1.1.112	 indanol dehydrogenase
+EC 1.1.1.113	 L-xylose 1-dehydrogenase
+EC 1.1.1.114	 apiose 1-reductase
+EC 1.1.1.115	 ribose 1-dehydrogenase (NADP+)
+EC 1.1.1.116	 D-arabinose 1-dehydrogenase
+EC 1.1.1.117	 D-arabinose 1-dehydrogenase (NAD(P)+)
+EC 1.1.1.118	 glucose 1-dehydrogenase (NAD+)
+EC 1.1.1.119	 glucose 1-dehydrogenase (NADP+)
+EC 1.1.1.120	 galactose 1-dehydrogenase (NADP+)
+EC 1.1.1.121	 aldose 1-dehydrogenase
+EC 1.1.1.122	 D-threo-aldose 1-dehydrogenase
+EC 1.1.1.123	 sorbose 5-dehydrogenase (NADP+)
+EC 1.1.1.124	 fructose 5-dehydrogenase (NADP+)
+EC 1.1.1.125	 2-deoxy-D-gluconate 3-dehydrogenase
+EC 1.1.1.126	 2-dehydro-3-deoxy-D-gluconate 6-dehydrogenase
+EC 1.1.1.127	 2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase
+EC 1.1.1.128	 L-idonate 2-dehydrogenase
+EC 1.1.1.129	 L-threonate 3-dehydrogenase
+EC 1.1.1.130	 3-dehydro-L-gulonate 2-dehydrogenase
+EC 1.1.1.131	 mannuronate reductase
+EC 1.1.1.132	 GDP-mannose 6-dehydrogenase
+EC 1.1.1.133	 dTDP-4-dehydrorhamnose reductase
+EC 1.1.1.134	 dTDP-6-deoxy-L-talose 4-dehydrogenase
+EC 1.1.1.135	 GDP-6-deoxy-D-talose 4-dehydrogenase
+EC 1.1.1.136	 UDP-N-acetylglucosamine 6-dehydrogenase
+EC 1.1.1.137	 ribitol-5-phosphate 2-dehydrogenase
+EC 1.1.1.138	 mannitol 2-dehydrogenase (NADP+)
+EC 1.1.1.139	 deleted, included in *EC 1.1.1.21
+EC 1.1.1.140	 sorbitol-6-phosphate 2-dehydrogenase
+EC 1.1.1.141	 15-hydroxyprostaglandin dehydrogenase (NAD+)
+EC 1.1.1.142	 D-pinitol dehydrogenase
+EC 1.1.1.143	 sequoyitol dehydrogenase
+EC 1.1.1.144	 perillyl-alcohol dehydrogenase
+EC 1.1.1.145	 3b-hydroxy-D5-steroid dehydrogenase
+EC 1.1.1.146	 11b-hydroxysteroid dehydrogenase
+EC 1.1.1.147	 16a-hydroxysteroid dehydrogenase
+EC 1.1.1.148	 estradiol 17a-dehydrogenase
+EC 1.1.1.149	 20a-hydroxysteroid dehydrogenase
+EC 1.1.1.150	 21-hydroxysteroid dehydrogenase (NAD+)
+EC 1.1.1.151	 21-hydroxysteroid dehydrogenase (NADP+)
+EC 1.1.1.152	 3a-hydroxy-5b-androstane-17-one 3a-dehydrogenase
+EC 1.1.1.153	 sepiapterin reductase
+EC 1.1.1.154	 ureidoglycolate dehydrogenase
+EC 1.1.1.155	 identical to *EC 1.1.1.87
+EC 1.1.1.156	 glycerol 2-dehydrogenase (NADP+)
+EC 1.1.1.157	 3-hydroxybutyryl-CoA dehydrogenase
+EC 1.1.1.158	 now EC 1.3.1.98
+EC 1.1.1.159	 7a-hydroxysteroid dehydrogenase
+EC 1.1.1.160	 dihydrobunolol dehydrogenase
+EC 1.1.1.161	 cholestanetetraol 26-dehydrogenase
+EC 1.1.1.162	 erythrulose reductase
+EC 1.1.1.163	 cyclopentanol dehydrogenase
+EC 1.1.1.164	 hexadecanol dehydrogenase
+EC 1.1.1.165	 2-alkyn-1-ol dehydrogenase
+EC 1.1.1.166	 hydroxycyclohexanecarboxylate dehydrogenase
+EC 1.1.1.167	 hydroxymalonate dehydrogenase
+EC 1.1.1.168	 2-dehydropantolactone reductase (A-specific)
+EC 1.1.1.169	 2-dehydropantoate 2-reductase
+EC 1.1.1.170	 3b-hydroxy-4a-methylcholestenecarboxylate 3-dehydrogenase (decarboxylating)
+EC 1.1.1.171	 now *EC 1.5.1.20
+EC 1.1.1.172	 2-oxoadipate reductase
+EC 1.1.1.173	 L-rhamnose 1-dehydrogenase
+EC 1.1.1.174	 cyclohexane-1,2-diol dehydrogenase
+EC 1.1.1.175	 D-xylose 1-dehydrogenase
+EC 1.1.1.176	 12a-hydroxysteroid dehydrogenase
+EC 1.1.1.177	 glycerol-3-phosphate 1-dehydrogenase (NADP+)
+EC 1.1.1.178	 3-hydroxy-2-methylbutyryl-CoA dehydrogenase
+EC 1.1.1.179	 D-xylose 1-dehydrogenase (NADP+)
+EC 1.1.1.180	 deleted, included in *EC 1.1.1.131
+EC 1.1.1.181	 cholest-5-ene-3b,7a-diol 3b-dehydrogenase
+EC 1.1.1.182	 deleted, included in *EC 1.1.1.198, *EC 1.1.1.227 and *EC 1.1.1.228
+EC 1.1.1.183	 geraniol dehydrogenase
+EC 1.1.1.184	 carbonyl reductase (NADPH)
+EC 1.1.1.185	 L-glycol dehydrogenase
+EC 1.1.1.186	 dTDP-galactose 6-dehydrogenase
+EC 1.1.1.187	 GDP-4-dehydro-D-rhamnose reductase
+EC 1.1.1.188	 prostaglandin-F synthase
+EC 1.1.1.189	 prostaglandin-E2 9-reductase
+EC 1.1.1.190	 indole-3-acetaldehyde reductase (NADH)
+EC 1.1.1.191	 indole-3-acetaldehyde reductase (NADPH)
+EC 1.1.1.192	 long-chain-alcohol dehydrogenase
+EC 1.1.1.193	 5-amino-6-(5-phosphoribosylamino)uracil reductase
+EC 1.1.1.194	 coniferyl-alcohol dehydrogenase
+EC 1.1.1.195	 cinnamyl-alcohol dehydrogenase
+EC 1.1.1.196	 15-hydroxyprostaglandin-D dehydrogenase (NADP+)
+EC 1.1.1.197	 15-hydroxyprostaglandin dehydrogenase (NADP+)
+EC 1.1.1.198	 (+)-borneol dehydrogenase
+EC 1.1.1.199	 (S)-usnate reductase
+EC 1.1.1.200	 aldose-6-phosphate reductase (NADPH)
+EC 1.1.1.201	 7b-hydroxysteroid dehydrogenase (NADP+)
+EC 1.1.1.202	 1,3-propanediol dehydrogenase
+EC 1.1.1.203	 uronate dehydrogenase
+EC 1.1.1.204	 now *EC 1.17.1.4
+EC 1.1.1.205	 IMP dehydrogenase
+EC 1.1.1.206	 tropinone reductase I
+EC 1.1.1.207	 (-)-menthol dehydrogenase
+EC 1.1.1.208	 (+)-neomenthol dehydrogenase
+EC 1.1.1.209	 3(or 17)a-hydroxysteroid dehydrogenase
+EC 1.1.1.210	 3b(or 20a)-hydroxysteroid dehydrogenase
+EC 1.1.1.211	 long-chain-3-hydroxyacyl-CoA dehydrogenase
+EC 1.1.1.212	 3-oxoacyl-(acyl-carrier-protein) reductase (NADH)
+EC 1.1.1.213	 3a-hydroxysteroid dehydrogenase (A-specific)
+EC 1.1.1.214	 2-dehydropantolactone reductase (B-specific)
+EC 1.1.1.215	 gluconate 2-dehydrogenase
+EC 1.1.1.216	 farnesol dehydrogenase
+EC 1.1.1.217	 benzyl-2-methyl-hydroxybutyrate dehydrogenase
+EC 1.1.1.218	 morphine 6-dehydrogenase
+EC 1.1.1.219	 dihydrokaempferol 4-reductase
+EC 1.1.1.220	 6-pyruvoyltetrahydropterin 2'-reductase
+EC 1.1.1.221	 vomifoliol 4'-dehydrogenase
+EC 1.1.1.222	 (R)-4-hydroxyphenyllactate dehydrogenase
+EC 1.1.1.223	 isopiperitenol dehydrogenase
+EC 1.1.1.224	 mannose-6-phosphate 6-reductase
+EC 1.1.1.225	 chlordecone reductase
+EC 1.1.1.226	 4-Hydroxycyclohexanecarboxylate dehydrogenase
+EC 1.1.1.227	 (-)-borneol dehydrogenase
+EC 1.1.1.228	 (+)-sabinol dehydrogenase
+EC 1.1.1.229	 diethyl 2-methyl-3-oxosuccinate reductase
+EC 1.1.1.230	 3a-hydroxyglycyrrhetinate dehydrogenase
+EC 1.1.1.231	 15-hydroxyprostaglandin-I dehydrogenase (NADP+)
+EC 1.1.1.232	 15-hydroxyicosatetraenoate dehydrogenase
+EC 1.1.1.233	 N-acylmannosamine 1-dehydrogenase
+EC 1.1.1.234	 flavanone 4-reductase
+EC 1.1.1.235	 8-oxocoformycin reductase
+EC 1.1.1.236	 tropinone reductase II
+EC 1.1.1.237	 hydroxyphenylpyruvate reductase
+EC 1.1.1.238	 12b-hydroxysteroid dehydrogenase
+EC 1.1.1.239	 3a(17b)-hydroxysteroid dehydrogenase (NAD+)
+EC 1.1.1.240	 N-acetylhexosamine 1-dehydrogenase
+EC 1.1.1.241	 6-endo-hydroxycineole dehydrogenase
+EC 1.1.1.242	 zeatin reductase — now *EC 1.3.1.69
+EC 1.1.1.243	 carveol dehydrogenase
+EC 1.1.1.244	 methanol dehydrogenase
+EC 1.1.1.245	 cyclohexanol dehydrogenase
+EC 1.1.1.246	 pterocarpin synthase
+EC 1.1.1.247	 codeinone reductase (NADPH)
+EC 1.1.1.248	 salutaridine reductase (NADPH)
+EC 1.1.1.249	 reinstated as *EC 2.5.1.46
+EC 1.1.1.250	 D-arabinitol 2-dehydrogenase
+EC 1.1.1.251	 galactitol-1-phosphate 5-dehydrogenase
+EC 1.1.1.252	 tetrahydroxynaphthalene reductase
+EC 1.1.1.253	 now *EC 1.5.1.33
+EC 1.1.1.254	 (S)-carnitine 3-dehydrogenase
+EC 1.1.1.255	 mannitol dehydrogenase
+EC 1.1.1.256	 fluoren-9-ol dehydrogenase
+EC 1.1.1.257	 4-(hydroxymethyl)benzenesulfonate dehydrogenase
+EC 1.1.1.258	 6-hydroxyhexanoate dehydrogenase
+EC 1.1.1.259	 3-hydroxypimeloyl-CoA dehydrogenase
+EC 1.1.1.260	 sulcatone reductase
+EC 1.1.1.261	 sn-glycerol-1-phosphate dehydrogenase
+EC 1.1.1.262	 4-hydroxythreonine-4-phosphate dehydrogenase
+EC 1.1.1.263	 1,5-anhydro-D-fructose reductase
+EC 1.1.1.264	 L-idonate 5-dehydrogenase
+EC 1.1.1.265	 3-methylbutanal reductase
+EC 1.1.1.266	 dTDP-4-dehydro-6-deoxyglucose reductase
+EC 1.1.1.267	 1-deoxy-D-xylulose-5-phosphate reductoisomerase
+EC 1.1.1.268	 2-(R)-hydroxypropyl-CoM dehydrogenase
+EC 1.1.1.269	 2-(S)-hydroxypropyl-CoM dehydrogenase
+EC 1.1.1.270	 3-keto-steroid reductase
+EC 1.1.1.271	 GDP-L-fucose synthase
+EC 1.1.1.272	 (R)-2-hydroxyacid dehydrogenase
+EC 1.1.1.273	 vellosimine dehydrogenase
+EC 1.1.1.274	 2,5-didehydrogluconate reductase
+EC 1.1.1.275	 (+)-trans-carveol dehydrogenase
+EC 1.1.1.276	 serine 3-dehydrogenase
+EC 1.1.1.277	 3b-hydroxy-5b-steroid dehydrogenase
+EC 1.1.1.278	 3b-hydroxy-5a-steroid dehydrogenase
+EC 1.1.1.279	 (R)-3-hydroxyacid ester dehydrogenase
+EC 1.1.1.280	 (S)-3-hydroxyacid ester dehydrogenase
+EC 1.1.1.281	 GDP-4-dehydro-6-deoxy-D-mannose reductase
+EC 1.1.1.282	 quinate/shikimate dehydrogenase
+EC 1.1.1.283	 methylglyoxal reductase (NADPH-dependent)
+EC 1.1.1.284	 S-(hydroxymethyl)glutathione dehydrogenase
+EC 1.1.1.285	 3"-deamino-3"-oxonicotianamine reductase
+EC 1.1.1.286	 isocitrate—homoisocitrate dehydrogenase
+EC 1.1.1.287	 D-arabinitol dehydrogenase (NADP+)
+EC 1.1.1.288	 xanthoxin dehydrogenase
+EC 1.1.1.289	 sorbose reductase
+EC 1.1.1.290	 4-phosphoerythronate dehydrogenase
+EC 1.1.1.291	 2-hydroxymethylglutarate dehydrogenase
+EC 1.1.1.292	 1,5-anhydro-D-fructose reductase (1,5-anhydro-D-mannitol-forming)
+EC 1.1.1.293	 deleted
+EC 1.1.1.294	 chlorophyll(ide) b reductase
+EC 1.1.1.295	 momilactone-A synthase
+EC 1.1.1.296	 dihydrocarveol dehydrogenase
+EC 1.1.1.297	 limonene-1,2-diol dehydrogenase
+EC 1.1.1.298	 3-hydroxypropionate dehydrogenase (NADP+)
+EC 1.1.1.299	 malate dehydrogenase (NAD(P)+)
+EC 1.1.1.300	 NADP-retinol dehydrogenase
+EC 1.1.1.301	 D-arabitol-phosphate dehydrogenase
+EC 1.1.1.302	 2,5-diamino-6-(ribosylamino)-4(3H)-pyrimidinone 5'-phosphate reductase
+EC 1.1.1.303	 acetoin dehydrogenase
+EC 1.1.1.304	 (S)-acetoin dehydrogenase
+EC 1.1.1.305	 UDP-glucuronic acid dehydrogenase
+EC 1.1.1.306	 S-(hydroxymethyl)mycothiol dehydrogenase
+EC 1.1.1.307	 D-xylose reductase
+EC 1.1.1.308	 sulfopropanediol 3-dehydrogenase
+EC 1.1.1.309	 phosphonoacetaldehyde reductase (NADH)
+EC 1.1.1.310	 (S)-sulfolactate dehydrogenase
+EC 1.1.1.311	 (S)-1-phenylethanol dehydrogenase
+EC 1.1.1.312	 2-hydroxy-4-carboxymuconate semialdehyde hemiacetal dehydrogenase
+EC 1.1.1.313	 sulfoacetaldehyde reductase
+EC 1.1.1.314	 germacrene A alcohol dehydrogenase
+EC 1.1.1.315	 11-cis-retinol dehydrogenase
+EC 1.1.1.316	 L-galactose 1-dehydrogenase
+EC 1.1.1.317	 perakine reductase
+EC 1.1.1.318	 eugenol synthase
+EC 1.1.1.319	 isoeugenol synthase
+EC 1.1.1.320	 benzil reductase ((S)-benzoin forming)
+EC 1.1.1.321	 benzil reductase ((R)-benzoin forming)
+EC 1.1.1.322	 (-)-Endo-fenchol dehydrogenase
+EC 1.1.1.323	 (+)-Thujan-3-ol dehydrogenase
+EC 1.1.1.324	 8-Hydroxygeraniol dehydrogenase
+EC 1.1.1.325	 sepiapterin reductase (L-threo-7,8-dihydrobiopterin forming)
+EC 1.1.1.326	 zerumbone synthase
+EC 1.1.1.327	 5-Exo-hydroxycamphor dehydrogenase
+EC 1.1.1.328	 nicotine blue oxidoreductase
+EC 1.1.1.329	 2-Deoxy-scyllo-inosamine dehydrogenase
+EC 1.1.1.330	 very-long-chain 3-oxoacyl-CoA reductase
+EC 1.1.1.331	 secoisolariciresinol dehydrogenase
+EC 1.1.1.332	 chanoclavine-I dehydrogenase
+EC 1.1.1.333	 decaprenylphospho-beta-D-erythro-pentofuranosid-2-ulose 2-reductase
+EC 1.1.1.334	 methylecgonone reductase
+EC 1.1.1.335	 UDP-N-acetyl-2-amino-2-deoxyglucuronate dehydrogenase
+EC 1.1.1.336	 UDP-N-acetyl-D-mannosamine dehydrogenase
+EC 1.1.1.337	 L-2-hydroxycarboxylate dehydrogenase (NAD+)
+EC 1.1.1.338	 (2R)-3-sulfolactate dehydrogenase (NADP+)
+EC 1.1.1.339	 dTDP-6-deoxy-L-talose 4-dehydrogenase (NAD+)
+EC 1.1.1.340	 1-Deoxy-11beta-hydroxypentalenate dehydrogenase
+EC 1.1.1.341	 CDP-abequose synthase
+EC 1.1.1.342	 CDP-paratose synthase
+EC 1.1.2.1	 now *EC 1.1.99.5
+EC 1.1.2.2	 mannitol dehydrogenase (cytochrome)
+EC 1.1.2.3	 L-lactate dehydrogenase (cytochrome)
+EC 1.1.2.4	 D-lactate dehydrogenase (cytochrome)
+EC 1.1.2.5	 D-lactate dehydrogenase (cytochrome c-553)
+EC 1.1.2.6	 polyvinyl alcohol dehydrogenase (cytochrome)
+EC 1.1.2.7	 methanol dehydrogenase (cytochrome c)
+EC 1.1.2.8	 alcohol dehydrogenase (cytochrome c)
+EC 1.1.3.1	 deleted, included in *EC 1.1.3.15
+EC 1.1.3.2	 now *EC 1.13.12.4
+EC 1.1.3.3	 malate oxidase
+EC 1.1.3.4	 glucose oxidase
+EC 1.1.3.5	 hexose oxidase
+EC 1.1.3.6	 cholesterol oxidase
+EC 1.1.3.7	 aryl-alcohol oxidase
+EC 1.1.3.8	 L-gulonolactone oxidase
+EC 1.1.3.9	 galactose oxidase
+EC 1.1.3.10	 pyranose oxidase
+EC 1.1.3.11	 L-sorbose oxidase
+EC 1.1.3.12	 pyridoxine 4-oxidase
+EC 1.1.3.13	 alcohol oxidase
+EC 1.1.3.14	 catechol oxidase (dimerizing)
+EC 1.1.3.15	 (S)-2-hydroxy-acid oxidase
+EC 1.1.3.16	 ecdysone oxidase
+EC 1.1.3.17	 choline oxidase
+EC 1.1.3.18	 Secondary-alcohol oxidase
+EC 1.1.3.19	 4-hydroxymandelate oxidase
+EC 1.1.3.20	 long-chain-alcohol oxidase
+EC 1.1.3.21	 glycerol-3-phosphate oxidase
+EC 1.1.3.22	 now *EC 1.17.3.2
+EC 1.1.3.23	 Thiamine oxidase
+EC 1.1.3.24	 L-galactonolactone oxidase
+EC 1.1.3.25	 now included with *EC 1.1.99.18
+EC 1.1.3.26	 now *EC 1.21.3.2
+EC 1.1.3.27	 hydroxyphytanate oxidase
+EC 1.1.3.28	 nucleoside oxidase
+EC 1.1.3.29	 N-acylhexosamine oxidase
+EC 1.1.3.30	 polyvinyl-alcohol oxidase
+EC 1.1.3.31	 deleted
+EC 1.1.3.32	 now *EC 1.14.21.1
+EC 1.1.3.33	 now *EC 1.14.21.2
+EC 1.1.3.34	 now *EC 1.14.21.3
+EC 1.1.3.35	 now *EC 1.14.21.4
+EC 1.1.3.36	 now *EC 1.14.21.5
+EC 1.1.3.37	 D-arabinono-1,4-lactone oxidase
+EC 1.1.3.38	 vanillyl-alcohol oxidase
+EC 1.1.3.39	 nucleoside oxidase (H2O2-forming)
+EC 1.1.3.40	 D-mannitol oxidase
+EC 1.1.3.41	 xylitol oxidase
+EC 1.1.3.42	 prosolanapyrone-II oxidase
+EC 1.1.3.43	 paromamine 6'-oxidase
+EC 1.1.3.44	 6-Hydroxyneomycin C oxidase
+EC 1.1.4.1	 Now 1.17.4.4
+EC 1.1.4.2	 Now 1.17.4.5
+EC 1.1.5.1	 deleted, see EC 1.1.99.18 cellobiose dehydrogenase (acceptor)
+EC 1.1.5.2	 quinoprotein glucose dehydrogenase
+EC 1.1.5.3	 glycerol-3-phosphate dehydrogenase (quinone)
+EC 1.1.5.4	 malate dehydrogenase (quinone)
+EC 1.1.5.5	 alcohol dehydrogenase (quinone)
+EC 1.1.5.6	 formate dehydrogenase-N
+EC 1.1.5.7	 cyclic alcohol dehydrogenase (quinone)
+EC 1.1.5.8	 quinate dehydrogenase (quinone)
+EC 1.1.9.1	 alcohol dehydrogenase (azurin)
+EC 1.1.98.2	 glucose-6-phosphate dehydrogenase (coenzyme-F420)
+EC 1.1.98.3	 decaprenylphospho-beta-D-ribofuranose 2-oxidase
+EC 1.1.99.1	 choline dehydrogenase
+EC 1.1.99.2	 L-2-hydroxyglutarate dehydrogenase
+EC 1.1.99.3	 gluconate 2-dehydrogenase (acceptor)
+EC 1.1.99.4	 dehydrogluconate dehydrogenase
+EC 1.1.99.5	 now *EC 1.1.5.3
+EC 1.1.99.6	 D-2-hydroxy-acid dehydrogenase
+EC 1.1.99.7	 lactate—malate transhydrogenase
+EC 1.1.99.8	 alcohol dehydrogenase (acceptor)
+EC 1.1.99.9	 pyridoxine 5-dehydrogenase
+EC 1.1.99.10	 glucose dehydrogenase (acceptor)
+EC 1.1.99.11	 fructose 5-dehydrogenase
+EC 1.1.99.12	 sorbose dehydrogenase
+EC 1.1.99.13	 glucoside 3-dehydrogenase
+EC 1.1.99.14	 glycolate dehydrogenase
+EC 1.1.99.15	 now *EC 1.7.99.5
+EC 1.1.99.16	 malate dehydrogenase (acceptor)
+EC 1.1.99.17	 now *EC 1.1.5.2
+EC 1.1.99.18	 cellobiose dehydrogenase (acceptor)
+EC 1.1.99.19	 uracil dehydrogenase
+EC 1.1.99.20	 alkan-1-ol dehydrogenase (acceptor)
+EC 1.1.99.21	 D-sorbitol dehydrogenase (acceptor)
+EC 1.1.99.22	 glycerol dehydrogenase (acceptor)
+EC 1.1.99.23	 polyvinyl-alcohol dehydrogenase (acceptor)
+EC 1.1.99.24	 hydroxyacid-oxoacid transhydrogenase
+EC 1.1.99.25	 quinate dehydrogenase (pyrroloquinoline-quinone)
+EC 1.1.99.26	 3-hydroxycyclohexanone dehydrogenase
+EC 1.1.99.27	 (R)-pantolactone dehydrogenase (flavin)
+EC 1.1.99.28	 glucose-fructose oxidoreductase
+EC 1.1.99.29	 pyranose dehydrogenase (acceptor)
+EC 1.1.99.30	 2-oxoacid reductase
+EC 1.1.99.31	 (S)-mandelate dehydrogenase
+EC 1.1.99.32	 L-sorbose 1-dehydrogenase
+EC 1.1.99.33	 formate dehydrogenase (acceptor)
+EC 1.1.99.34	 now EC 1.1.98.2
+EC 1.1.99.35	 soluble quinoprotein glucose dehydrogenase
+EC 1.1.99.36	 alcohol dehydrogenase (nicotinoprotein)
+EC 1.1.99.37	 methanol dehydrogenase (nicotinoprotein)
+EC 1.1.99.38	 2-Deoxy-scyllo-inosamine dehydrogenase (SAM-dependent)
+EC 1.1.99.39	 D-2-hydroxyglutarate dehydrogenase
+EC 1.2.1.1	 deleted, replaced by *EC 1.1.1.284 and *EC 4.4.1.22
+EC 1.2.1.2	 formate dehydrogenase
+EC 1.2.1.3	 aldehyde dehydrogenase (NAD+)
+EC 1.2.1.4	 aldehyde dehydrogenase (NADP+)
+EC 1.2.1.5	 aldehyde dehydrogenase (NAD(P)+)
+EC 1.2.1.6	 deleted
+EC 1.2.1.7	 benzaldehyde dehydrogenase (NADP+)
+EC 1.2.1.8	 betaine-aldehyde dehydrogenase
+EC 1.2.1.9	 glyceraldehyde-3-phosphate dehydrogenase (NADP+)
+EC 1.2.1.10	 acetaldehyde dehydrogenase (acetylating)
+EC 1.2.1.11	 aspartate-semialdehyde dehydrogenase
+EC 1.2.1.12	 glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
+EC 1.2.1.13	 glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
+EC 1.2.1.14	 now *EC 1.1.1.205
+EC 1.2.1.15	 malonate-semialdehyde dehydrogenase
+EC 1.2.1.16	 glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
+EC 1.2.1.17	 glyoxylate dehydrogenase (acylating)
+EC 1.2.1.18	 malonate-semialdehyde dehydrogenase (acetylating)
+EC 1.2.1.19	 aminobutyraldehyde dehydrogenase
+EC 1.2.1.20	 glutarate-semialdehyde dehydrogenase
+EC 1.2.1.21	 glycolaldehyde dehydrogenase
+EC 1.2.1.22	 lactaldehyde dehydrogenase
+EC 1.2.1.23	 2-oxoaldehyde dehydrogenase (NAD+)
+EC 1.2.1.24	 succinate-semialdehyde dehydrogenase
+EC 1.2.1.25	 2-oxoisovalerate dehydrogenase (acylating)
+EC 1.2.1.26	 2,5-dioxovalerate dehydrogenase
+EC 1.2.1.27	 methylmalonate-semialdehyde dehydrogenase (acylating)
+EC 1.2.1.28	 benzaldehyde dehydrogenase (NAD+)
+EC 1.2.1.29	 aryl-aldehyde dehydrogenase
+EC 1.2.1.30	 aryl-aldehyde dehydrogenase (NADP+)
+EC 1.2.1.31	 L-aminoadipate-semialdehyde dehydrogenase
+EC 1.2.1.32	 aminomuconate-semialdehyde dehydrogenase
+EC 1.2.1.33	 (R)-dehydropantoate dehydrogenase
+EC 1.2.1.34	 deleted, included in *EC 1.1.1.131
+EC 1.2.1.35	 now *EC 1.1.1.203
+EC 1.2.1.36	 retinal dehydrogenase
+EC 1.2.1.37	 now *EC 1.1.1.204
+EC 1.2.1.38	 N-acetyl-g-glutamyl-phosphate reductase
+EC 1.2.1.39	 phenylacetaldehyde dehydrogenase
+EC 1.2.1.40	 3a,7a,12a-trihydroxycholestan-26-al 26-oxidoreductase
+EC 1.2.1.41	 glutamate-5-semialdehyde dehydrogenase
+EC 1.2.1.42	 hexadecanal dehydrogenase (acylating)
+EC 1.2.1.43	 formate dehydrogenase (NADP+)
+EC 1.2.1.44	 cinnamoyl-CoA reductase
+EC 1.2.1.45	 4-carboxy-2-hydroxymuconate-6-semialdehyde dehydrogenase
+EC 1.2.1.46	 formaldehyde dehydrogenase
+EC 1.2.1.47	 4-trimethylammoniobutyraldehyde dehydrogenase
+EC 1.2.1.48	 long-chain-aldehyde dehydrogenase
+EC 1.2.1.49	 2-oxoaldehyde dehydrogenase (NADP+)
+EC 1.2.1.50	 long-chain-fatty-acyl-CoA reductase
+EC 1.2.1.51	 pyruvate dehydrogenase (NADP+)
+EC 1.2.1.52	 oxoglutarate dehydrogenase (NADP+)
+EC 1.2.1.53	 4-hydroxyphenylacetaldehyde dehydrogenase
+EC 1.2.1.54	 g-guanidinobutyraldehyde dehydrogenase
+EC 1.2.1.55	 now *EC 1.1.1.279
+EC 1.2.1.56	 now *EC 1.1.1.280
+EC 1.2.1.57	 butanal dehydrogenase
+EC 1.2.1.58	 phenylglyoxylate dehydrogenase (acylating)
+EC 1.2.1.59	 glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+)
+EC 1.2.1.60	 5-carboxymethyl-2-hydroxymuconic-semialdehyde dehydrogenase
+EC 1.2.1.61	 4-hydroxymuconic-semialdehyde dehydrogenase
+EC 1.2.1.62	 4-formylbenzenesulfonate dehydrogenase
+EC 1.2.1.63	 6-oxohexanoate dehydrogenase
+EC 1.2.1.64	 4-hydroxybenzaldehyde dehydrogenase
+EC 1.2.1.65	 salicylaldehyde dehydrogenase
+EC 1.2.1.66	 mycothiol-dependent formaldehyde dehydrogenase
+EC 1.2.1.67	 vanillin dehydrogenase
+EC 1.2.1.68	 coniferyl-aldehyde dehydrogenase
+EC 1.2.1.69	 fluoroacetaldehyde dehydrogenase
+EC 1.2.1.70	 glutamyl-tRNA reductase
+EC 1.2.1.71	 succinylglutamate-semialdehyde dehydrogenase
+EC 1.2.1.72	 erythrose-4-phosphate dehydrogenase
+EC 1.2.1.73	 sulfoacetaldehyde dehydrogenase
+EC 1.2.1.74	 abieta-7,13-dien-18-al dehydrogenase
+EC 1.2.1.75	 malonyl CoA reductase (malonate semialdehyde-forming)
+EC 1.2.1.76	 succinate-semialdehyde dehydrogenase (acylating)
+EC 1.2.1.77	 3,4-dehydroadipyl-CoA semialdehyde dehydrogenase (NADP+)
+EC 1.2.1.78	 2-formylbenzoate dehydrogenase
+EC 1.2.1.79	 succinate-semialdehyde dehydrogenase (NADP+)
+EC 1.2.1.80	 long-chain acyl-(acyl-carrier-protein) reductase
+EC 1.2.1.81	 sulfoacetaldehyde dehydrogenase (acylating)
+EC 1.2.1.82	 beta-apo-4'-carotenal oxygenase
+EC 1.2.1.83	 3-succinoylsemialdehyde-pyridine dehydrogenase
+EC 1.2.1.84	 alcohol-forming fatty acyl-CoA reductase
+EC 1.2.1.85	 2-hydroxymuconate-6-semialdehyde dehydrogenase
+EC 1.2.1.86	 geranial dehydrogenase
+EC 1.2.2.1	 formate dehydrogenase (cytochrome)
+EC 1.2.2.2	 pyruvate dehydrogenase (cytochrome)
+EC 1.2.2.3	 formate dehydrogenase (cytochrome-c-553)
+EC 1.2.2.4	 carbon-monoxide dehydrogenase (cytochrome b-561)
+EC 1.2.3.1	 aldehyde oxidase
+EC 1.2.3.2	 now *EC 1.1.3.22
+EC 1.2.3.3	 pyruvate oxidase
+EC 1.2.3.4	 oxalate oxidase
+EC 1.2.3.5	 glyoxylate oxidase
+EC 1.2.3.6	 pyruvate oxidase (CoA-acetylating)
+EC 1.2.3.7	 indole-3-acetaldehyde oxidase
+EC 1.2.3.8	 pyridoxal oxidase
+EC 1.2.3.9	 aryl-aldehyde oxidase
+EC 1.2.3.10	 deleted
+EC 1.2.3.11	 retinal oxidase
+EC 1.2.3.12	 now *EC 1.14.13.82
+EC 1.2.3.13	 4-hydroxyphenylpyruvate oxidase
+EC 1.2.3.14	 Abscisic-aldehyde oxidase
+EC 1.2.4.1	 pyruvate dehydrogenase (acetyl-transferring)
+EC 1.2.4.2	 oxoglutarate dehydrogenase (succinyl-transferring)
+EC 1.2.4.3	 deleted, included in EC 1.2.4.4
+EC 1.2.4.4	 3-methyl-2-oxobutanoate dehydrogenase
+EC 1.2.5.1	 pyruvate dehydrogenase (quinone)
+EC 1.2.7.1	 pyruvate synthase
+EC 1.2.7.2	 deleted
+EC 1.2.7.3	 2-oxoglutarate synthase
+EC 1.2.7.4	 carbon-monoxide dehydrogenase (ferredoxin)
+EC 1.2.7.5	 aldehyde ferredoxin oxidoreductase
+EC 1.2.7.6	 glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)
+EC 1.2.7.7	 3-methyl-2-oxobutanoate dehydrogenase (ferredoxin)
+EC 1.2.7.8	 indolepyruvate ferredoxin oxidoreductase
+EC 1.2.7.9	 deleted, identical to *EC 1.2.7.3
+EC 1.2.7.10	 oxalate oxidoreductase
+EC 1.2.99.1	 now *EC 1.1.99.19
+EC 1.2.99.2	 carbon-monoxide dehydrogenase (acceptor)
+EC 1.2.99.3	 aldehyde dehydrogenase (pyrroloquinoline-quinone)
+EC 1.2.99.4	 formaldehyde dismutase
+EC 1.2.99.5	 formylmethanofuran dehydrogenase
+EC 1.2.99.6	 carboxylate reductase
+EC 1.2.99.7	 aldehyde dehydrogenase (FAD-independent)
+EC 1.3.1.1	 dihydrouracil dehydrogenase (NAD+)
+EC 1.3.1.2	 dihydropyrimidine dehydrogenase (NADP+)
+EC 1.3.1.3	 cortisone b-reductase
+EC 1.3.1.4	 cortisone a-reductase
+EC 1.3.1.5	 cucurbitacin D23-reductase
+EC 1.3.1.6	 fumarate reductase (NADH)
+EC 1.3.1.7	 meso-tartrate dehydrogenase
+EC 1.3.1.8	 acyl-CoA dehydrogenase (NADP+)
+EC 1.3.1.9	 enoyl-(acyl-carrier-protein) reductase (NADH)
+EC 1.3.1.10	 enoyl-(acyl-carrier-protein) reductase (NADPH, B-specific)
+EC 1.3.1.11	 2-coumarate reductase
+EC 1.3.1.12	 prephenate dehydrogenase
+EC 1.3.1.13	 prephenate dehydrogenase (NADP+)
+EC 1.3.1.14	 orotate reductase (NADH)
+EC 1.3.1.15	 orotate reductase (NADPH)
+EC 1.3.1.16	 b-nitroacrylate reductase
+EC 1.3.1.17	 3-methyleneoxindole reductase
+EC 1.3.1.18	 kynurenate-7,8-dihydrodiol dehydrogenase
+EC 1.3.1.19	 cis-1,2-dihydrobenzene-1,2-diol dehydrogenase
+EC 1.3.1.20	 trans-1,2-dihydrobenzene-1,2-diol dehydrogenase
+EC 1.3.1.21	 7-dehydrocholesterol reductase
+EC 1.3.1.22	 cholestenone 5a-reductase
+EC 1.3.1.23	 cholestenone 5b-reductase is identical to EC 1.3.1.3, Δ4-3-oxosteroid 5β-reductase
+EC 1.3.1.24	 biliverdin reductase
+EC 1.3.1.25	 1,6-dihydroxycyclohexa-2,4-diene-1-carboxylate dehydrogenase
+EC 1.3.1.26	 now EC 1.17.1.8
+EC 1.3.1.27	 2-hexadecenal reductase
+EC 1.3.1.28	 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase
+EC 1.3.1.29	 cis-1,2-dihydro-1,2-dihydroxynaphthalene dehydrogenase
+EC 1.3.1.30	 progesterone 5a-reductase
+EC 1.3.1.31	 2-enoate reductase
+EC 1.3.1.32	 maleylacetate reductase
+EC 1.3.1.33	 protochlorophyllide reductase
+EC 1.3.1.34	 2,4-dienoyl-CoA reductase (NADPH)
+EC 1.3.1.35	 phosphatidylcholine desaturase
+EC 1.3.1.36	 geissoschizine dehydrogenase
+EC 1.3.1.37	 cis-2-enoyl-CoA reductase (NADPH)
+EC 1.3.1.38	 trans-2-enoyl-CoA reductase (NADPH)
+EC 1.3.1.39	 enoyl-(acyl-carrier-protein) reductase (NADPH, A-specific)
+EC 1.3.1.40	 2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate reductase
+EC 1.3.1.41	 xanthommatin reductase
+EC 1.3.1.42	 12-oxophytodienoate reductase
+EC 1.3.1.43	 arogenate dehydrogenase
+EC 1.3.1.44	 trans-2-enoyl-CoA reductase (NAD+)
+EC 1.3.1.45	 2'-hydroxyisoflavone reductase
+EC 1.3.1.46	 biochanin-A reductase
+EC 1.3.1.47	 a-santonin 1,2-reductase
+EC 1.3.1.48	 15-oxoprostaglandin 13-oxidase
+EC 1.3.1.49	 cis-3,4-dihydrophenanthrene-3,4-diol dehydrogenase
+EC 1.3.1.50	 now *EC 1.1.1.252
+EC 1.3.1.51	 2'-hydroxydaidzein reductase
+EC 1.3.1.52	 2-methyl-branched-chain-enoyl-CoA reductase
+EC 1.3.1.53	 (3S,4R)-3,4-dihydroxycyclohexa-1,5-diene-1,4-dicarboxylate dehydrogenase
+EC 1.3.1.54	 precorrin-6A reductase
+EC 1.3.1.55	 now *EC 1.3.1.25
+EC 1.3.1.56	 cis-2,3-dihydrobiphenyl-2,3-diol dehydrogenase
+EC 1.3.1.57	 phloroglucinol reductase
+EC 1.3.1.58	 2,3-dihydroxy-2,3-dihydro-p-cumate dehydrogenase
+EC 1.3.1.59	 1,2-dihydroxy-3-methyl-1,2-dihydrobenzoate dehydrogenase. There is no evidence that the enzyme exists.
+EC 1.3.1.60	 dibenzothiophene dihydrodiol dehydrogenase
+EC 1.3.1.61	 terephthalate 1,2-cis-dihydrodiol dehydrogenase
+EC 1.3.1.62	 pimeloyl-CoA dehydrogenase
+EC 1.3.1.63	 2,4-dichlorobenzoyl-CoA reductase
+EC 1.3.1.64	 phthalate 4,5-cis-dihydrodiol dehydrogenase
+EC 1.3.1.65	 5,6-dihydroxy-3-methyl-2-oxo-1,2,5,6-tetrahydroquinoline dehydrogenase
+EC 1.3.1.66	 cis-dihydroethylcatechol dehydrogenase
+EC 1.3.1.67	 cis-1,2-dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate dehydrogenase
+EC 1.3.1.68	 1,2-dihydroxy-6-methylcyclohexa-3,5-dienecarboxylate dehydrogenase
+EC 1.3.1.69	 zeatin reductase
+EC 1.3.1.70	 D14-sterol reductase
+EC 1.3.1.71	 D24(241)-sterol reductase
+EC 1.3.1.72	 D24-sterol reductase
+EC 1.3.1.73	 1,2-dihydrovomilenine reductase
+EC 1.3.1.74	 2-alkenal reductase
+EC 1.3.1.75	 divinyl chlorophyllide a 8-vinyl-reductase
+EC 1.3.1.76	 precorrin-2 dehydrogenase
+EC 1.3.1.77	 anthocyanidin reductase
+EC 1.3.1.78	 arogenate dehydrogenase (NADP+)
+EC 1.3.1.79	 arogenate dehydrogenase (NADP+)
+EC 1.3.1.80	 red chlorophyll catabolite reductase
+EC 1.3.1.81	 (+)-pulegone reductase
+EC 1.3.1.82	 (-)-isopiperitenone reductase
+EC 1.3.1.83	 geranylgeranyl diphosphate reductase
+EC 1.3.1.84	 acrylyl-CoA reductase (NADPH)
+EC 1.3.1.85	 crotonyl-CoA carboxylase/reductase
+EC 1.3.1.86	 crotonyl-CoA reductase
+EC 1.3.1.87	 3-(cis-5,6-dihydroxycyclohexa-1,3-dien-1-yl)propanoate dehydrogenase
+EC 1.3.1.88	 tRNA-dihydrouridine16/17 synthase (NAD(P)+)
+EC 1.3.1.89	 tRNA-dihydrouridine47 synthase (NAD(P)+)
+EC 1.3.1.90	 tRNA-dihydrouridine20a/20b synthase (NAD(P)+)
+EC 1.3.1.91	 tRNA-dihydrouridine20 synthase (NAD(P)+)
+EC 1.3.1.92	 artemisinic aldehyde Delta11(13)-reductase
+EC 1.3.1.93	 very-long-chain enoyl-CoA reductase
+EC 1.3.1.94	 polyprenol reductase
+EC 1.3.1.95	 acrylyl-CoA reductase (NADH)
+EC 1.3.1.96	 Botryococcus squalene synthase
+EC 1.3.1.97	 botryococcene synthase
+EC 1.3.2.1	 now EC 1.3.99.2
+EC 1.3.2.2	 now EC 1.3.99.3
+EC 1.3.2.3	 galactonolactone dehydrogenase
+EC 1.3.3.1	 dihydroorotate oxidase
+EC 1.3.3.2	 lathosterol oxidase
+EC 1.3.3.3	 coproporphyrinogen oxidase
+EC 1.3.3.4	 protoporphyrinogen oxidase
+EC 1.3.3.5	 bilirubin oxidase
+EC 1.3.3.6	 acyl-CoA oxidase
+EC 1.3.3.7	 dihydrouracil oxidase
+EC 1.3.3.8	 tetrahydroberberine oxidase
+EC 1.3.3.9	 secologanin synthase
+EC 1.3.3.10	 tryptophan a,b-oxidase
+EC 1.3.3.11	 pyrroloquinoline-quinone synthase
+EC 1.3.3.12	 L-galactonolactone oxidase
+EC 1.3.5.1	 succinate dehydrogenase (quinone)
+EC 1.3.5.2	 dihydroorotate dehydrogenase (quinone)
+EC 1.3.5.3	 protoporphyrinogen IX dehydrogenase (menaquinone)
+EC 1.3.5.4	 fumarate reductase (quinol)
+EC 1.3.5.5	 15-cis-phytoene desaturase
+EC 1.3.5.6	 9,9'-dicis-zeta-carotene desaturase
+EC 1.3.7.1	 6-hydroxynicotinate reductase
+EC 1.3.7.2	 15,16-dihydrobiliverdin:ferredoxin oxidoreductase
+EC 1.3.7.3	 phycoerythrobilin:ferredoxin oxidoreductase
+EC 1.3.7.4	 phytochromobilin:ferredoxin oxidoreductase
+EC 1.3.7.5	 phycocyanobilin:ferredoxin oxidoreductase
+EC 1.3.7.6	 phycoerythrobilin synthase
+EC 1.3.7.7	 ferredoxin:protochlorophyllide reductase (ATP-dependent)
+EC 1.3.7.8	 benzoyl-CoA reductase
+EC 1.3.7.9	 4-hydroxybenzoyl-CoA reductase
+EC 1.3.7.10	 pentalenolactone synthase
+EC 1.3.7.15	 chlorophyllide a reductase
+EC 1.3.8.1	 short-chain acyl-CoA dehydrogenase
+EC 1.3.8.2	 4,4'-diapophytoene desaturase
+EC 1.3.8.3	 (R)-benzylsuccinyl-CoA dehydrogenase
+EC 1.3.8.4	 isovaleryl-CoA dehydrogenase
+EC 1.3.8.5	 2-methyl-branched-chain-enoyl-CoA reductase
+EC 1.3.8.6	 glutaryl-CoA dehydrogenase
+EC 1.3.8.7	 medium-chain acyl-CoA dehydrogenase
+EC 1.3.8.8	 long-chain acyl-CoA dehydrogenase
+EC 1.3.8.9	 very-long-chain acyl-CoA dehydrogenase
+EC 1.3.98.1	 dihydroorotate dehydrogenase (fumarate)
+EC 1.3.99.1	 deleted
+EC 1.3.99.2	 now EC 1.3.8.1
+EC 1.3.99.3	 now EC 1.3.8.7, EC 1.3.8.8 and EC 1.3.8.9
+EC 1.3.99.4	 3-oxosteroid 1-dehydrogenase
+EC 1.3.99.5	 3-oxo-5a-steroid 4-dehydrogenase
+EC 1.3.99.6	 3-oxo-5b-steroid 4-dehydrogenase
+EC 1.3.99.7	 now EC 1.3.8.6
+EC 1.3.99.8	 2-furoyl-CoA dehydrogenase
+EC 1.3.99.9	 now *EC 1.21.99.1
+EC 1.3.99.10	 now EC 1.3.8.4
+EC 1.3.99.11	 dihydroorotate dehydrogenase
+EC 1.3.99.12	 2-methylacyl-CoA dehydrogenase
+EC 1.3.99.13	 now *EC 1.3.8.8
+EC 1.3.99.14	 cyclohexanone dehydrogenase
+EC 1.3.99.15	 benzoyl-CoA reductase
+EC 1.3.99.16	 isoquinoline 1-oxidoreductase
+EC 1.3.99.17	 quinoline 2-oxidoreductase
+EC 1.3.99.18	 quinaldate 4-oxidoreductase
+EC 1.3.99.19	 quinoline-4-carboxylate 2-oxidoreductase
+EC 1.3.99.20	 4-hydroxybenzoyl-CoA reductase
+EC 1.3.99.21	 (R)-benzylsuccinyl-CoA dehydrogenase
+EC 1.3.99.22	 coproporphyrinogen dehydrogenase
+EC 1.3.99.23	 all-trans-retinol 13,14-reductase
+EC 1.3.99.24	 2-amino-4-deoxychorismate dehydrogenase
+EC 1.3.99.25	 carvone reductase
+EC 1.3.99.26	 all-trans-zeta-carotene desaturase
+EC 1.3.99.27	 1-hydroxycarotenoid 3,4-desaturase
+EC 1.3.99.28	 phytoene desaturase (neurosporene-forming)
+EC 1.3.99.29	 phytoene desaturase (zeta-carotene-forming)
+EC 1.3.99.30	 phytoene desaturase (3,4-didehydrolycopene-forming)
+EC 1.3.99.31	 phytoene desaturase (lycopene-forming)
+EC 1.3.99.32	 glutaryl-CoA dehydrogenase (non-decarboxylating)
+EC 1.4.1.1	 alanine dehydrogenase
+EC 1.4.1.2	 glutamate dehydrogenase
+EC 1.4.1.3	 glutamate dehydrogenase (NAD(P)+)
+EC 1.4.1.4	 glutamate dehydrogenase (NADP+)
+EC 1.4.1.5	 L-amino-acid dehydrogenase
+EC 1.4.1.6	 deleted, included in *EC 1.4.4.1
+EC 1.4.1.7	 serine 2-dehydrogenase
+EC 1.4.1.8	 valine dehydrogenase (NADP+)
+EC 1.4.1.9	 leucine dehydrogenase
+EC 1.4.1.10	 glycine dehydrogenase
+EC 1.4.1.11	 L-erythro-3,5-diaminohexanoate dehydrogenase
+EC 1.4.1.12	 2,4-diaminopentanoate dehydrogenase
+EC 1.4.1.13	 glutamate synthase (NADPH)
+EC 1.4.1.14	 glutamate synthase (NADH)
+EC 1.4.1.15	 lysine dehydrogenase
+EC 1.4.1.16	 diaminopimelate dehydrogenase
+EC 1.4.1.17	 N-methylalanine dehydrogenase
+EC 1.4.1.18	 lysine 6-dehydrogenase
+EC 1.4.1.19	 tryptophan dehydrogenase
+EC 1.4.1.20	 phenylalanine dehydrogenase
+EC 1.4.1.21	 aspartate dehydrogenase
+EC 1.4.1.22	 ornithine cyclodeaminase
+EC 1.4.1.23	 valine dehydrogenase (NAD+)
+EC 1.4.1.24	 3-dehydroquinate synthase II
+EC 1.4.2.1	 glycine dehydrogenase (cytochrome)
+EC 1.4.3.1	 D-aspartate oxidase
+EC 1.4.3.2	 L-amino-acid oxidase
+EC 1.4.3.3	 D-amino-acid oxidase
+EC 1.4.3.4	 amine oxidase (flavin-containing)
+EC 1.4.3.5	 pyridoxamine-phosphate oxidase
+EC 1.4.3.6	 amine oxidase (copper-containing)
+EC 1.4.3.7	 D-glutamate oxidase
+EC 1.4.3.8	 ethanolamine oxidase
+EC 1.4.3.9	 deleted, included in *EC 1.4.3.4
+EC 1.4.3.10	 putrescine oxidase
+EC 1.4.3.11	 L-glutamate oxidase
+EC 1.4.3.12	 cyclohexylamine oxidase
+EC 1.4.3.13	 protein-lysine 6-oxidase
+EC 1.4.3.14	 L-lysine oxidase
+EC 1.4.3.15	 D-glutamate(D-aspartate) oxidase
+EC 1.4.3.16	 L-aspartate oxidase
+EC 1.4.3.17	 now *EC 1.3.3.10
+EC 1.4.3.18	 deleted, not approved
+EC 1.4.3.19	 glycine oxidase
+EC 1.4.3.20	 L-lysine 6-oxidase
+EC 1.4.3.21	 primary-amine oxidase
+EC 1.4.3.22	 diamine oxidase
+EC 1.4.3.23	 7-chloro-L-tryptophan oxidase
+EC 1.4.3.24	 pseudooxynicotine oxidase
+EC 1.4.4.1	 now EC 1.21.4.1
+EC 1.4.4.2	 glycine dehydrogenase (decarboxylating)
+EC 1.4.5.1	 D-amino acid dehydrogenase (quinone)
+EC 1.4.7.1	 glutamate synthase (ferredoxin)
+EC 1.4.9.1	 methylamine dehydrogenase (amicyanin)
+EC 1.4.9.2	 aralkylamine dehydrogenase (azurin)
+EC 1.4.98.1	 methylamine dehydrogenase (amicyanin)
+EC 1.4.99.1	 D-amino acid dehydrogenase
+EC 1.4.99.2	 taurine dehydrogenase
+EC 1.4.99.3	 amine dehydrogenase
+EC 1.4.99.4	 aralkylamine dehydrogenase
+EC 1.4.99.5	 glycine dehydrogenase (cyanide-forming)
+EC 1.5.1.1	 pyrroline-2-carboxylate reductase
+EC 1.5.1.2	 pyrroline-5-carboxylate reductase
+EC 1.5.1.3	 dihydrofolate reductase
+EC 1.5.1.4	 deleted, included in *EC 1.5.1.3
+EC 1.5.1.5	 methylenetetrahydrofolate dehydrogenase (NADP+)
+EC 1.5.1.6	 formyltetrahydrofolate dehydrogenase
+EC 1.5.1.7	 saccharopine dehydrogenase (NAD+, L-lysine-forming)
+EC 1.5.1.8	 saccharopine dehydrogenase (NADP+, L-lysine-forming)
+EC 1.5.1.9	 saccharopine dehydrogenase (NAD+, L-glutamate-forming)
+EC 1.5.1.10	 saccharopine dehydrogenase (NADP+, L-glutamate-forming)
+EC 1.5.1.11	 D-octopine dehydrogenase
+EC 1.5.1.12	 now EC 1.2.1.88
+EC 1.5.1.13	 now *EC 1.17.1.5
+EC 1.5.1.14	 deleted, included in *EC 1.5.1.21
+EC 1.5.1.15	 methylenetetrahydrofolate dehydrogenase (NAD+)
+EC 1.5.1.16	 D-lysopine dehydrogenase
+EC 1.5.1.17	 alanopine dehydrogenase
+EC 1.5.1.18	 ephedrine dehydrogenase
+EC 1.5.1.19	 D-nopaline dehydrogenase
+EC 1.5.1.20	 methylenetetrahydrofolate reductase (NAD(P)H)
+EC 1.5.1.21	 D1-piperideine-2-carboxylate reductase
+EC 1.5.1.22	 strombine dehydrogenase
+EC 1.5.1.23	 tauropine dehydrogenase
+EC 1.5.1.24	 N5-(carboxyethyl)ornithine synthase
+EC 1.5.1.25	 thiomorpholine-carboxylate dehydrogenase
+EC 1.5.1.26	 b-alanopine dehydrogenase
+EC 1.5.1.27	 1,2-dehydroreticulinium reductase (NADPH)
+EC 1.5.1.28	 opine dehydrogenase
+EC 1.5.1.29	 FMN reductase
+EC 1.5.1.30	 flavin reductase
+EC 1.5.1.31	 berberine reductase
+EC 1.5.1.32	 vomilenine reductase
+EC 1.5.1.33	 pteridine reductase
+EC 1.5.1.34	 6,7-dihydropteridine reductase
+EC 1.5.1.35	 1-pyrroline dehydrogenase
+EC 1.5.1.36	 flavin reductase (NADH)
+EC 1.5.1.37	 FAD reductase (NADH)
+EC 1.5.1.38	 FMN reductase (NADPH)
+EC 1.5.1.39	 FMN reductase (NAD(P)H)
+EC 1.5.1.40	 8-hydroxy-5-deazaflavin:NADPH oxidoreductase
+EC 1.5.1.41	 riboflavin reductase (NAD(P)H)
+EC 1.5.1.42	 FMN reductase (NADH)
+EC 1.5.1.43	 carboxynorspermidine synthase
+EC 1.5.1.44	 festuclavine dehydrogenase
+EC 1.5.1.45	 FAD reductase (NAD(P)H)
+EC 1.5.3.1	 sarcosine oxidase
+EC 1.5.3.2	 N-methyl-L-amino-acid oxidase
+EC 1.5.3.3	 deleted
+EC 1.5.3.4	 N6-methyl-lysine oxidase
+EC 1.5.3.5	 (S)-6-hydroxynicotine oxidase
+EC 1.5.3.6	 (R)-6-hydroxynicotine oxidase
+EC 1.5.3.7	 L-pipecolate oxidase
+EC 1.5.3.8	 deleted, included in *EC 1.3.3.8
+EC 1.5.3.9	 now *EC 1.21.3.3
+EC 1.5.3.10	 dimethylglycine oxidase
+EC 1.5.3.11	 polyamine oxidase
+EC 1.5.3.12	 dihydrobenzophenanthridine oxidase
+EC 1.5.3.13	 N1-acetylpolyamine oxidase
+EC 1.5.3.14	 polyamine oxidase (propane-1,3-diamine-forming)
+EC 1.5.3.15	 N8-acetylspermidine oxidase (propane-1,3-diamine-forming)
+EC 1.5.3.16	 spermine oxidase
+EC 1.5.3.17	 non-specific polyamine oxidase
+EC 1.5.3.18	 L-saccharopine oxidase
+EC 1.5.3.19	 4-methylaminobutanoate oxidase (formaldehyde-forming)
+EC 1.5.3.20	 N-alkylglycine oxidase
+EC 1.5.3.21	 4-methylaminobutanoate oxidase (methylamine-forming)
+EC 1.5.4.1	 pyrimidodiazepine synthase
+EC 1.5.5.1	 electron-transferring-flavoprotein dehydrogenase
+EC 1.5.7.1	 methylenetetrahydrofolate reductase (ferredoxin)
+EC 1.5.8.1	 dimethylamine dehydrogenase
+EC 1.5.8.2	 trimethylamine dehydrogenase
+EC 1.5.8.3	 sarcosine dehydrogenase
+EC 1.5.8.4	 dimethylglycine dehydrogenase
+EC 1.5.99.1	 now EC 1.5.8.3
+EC 1.5.99.2	 now EC 1.5.8.4
+EC 1.5.99.3	 L-pipecolate dehydrogenase
+EC 1.5.99.4	 nicotine dehydrogenase
+EC 1.5.99.5	 methylglutamate dehydrogenase
+EC 1.5.99.6	 spermidine dehydrogenase
+EC 1.5.99.7	 now *EC 1.5.8.2
+EC 1.5.99.8	 proline dehydrogenase
+EC 1.5.99.9	 methylenetetrahydromethanopterin dehydrogenase
+EC 1.5.99.10	 now *EC 1.5.8.1
+EC 1.5.99.11	 5,10-methylenetetrahydromethanopterin reductase
+EC 1.5.99.12	 cytokinin dehydrogenase
+EC 1.5.99.13	 D-proline dehydrogenase
+EC 1.5.99.14	 6-hydroxypseudooxynicotine dehydrogenase
+EC 1.6.1.1	 NAD(P)+ transhydrogenase (Si-specific)
+EC 1.6.1.2	 NAD(P)+ transhydrogenase (Re/Si-specific)
+EC 1.6.2.1	 now EC 1.6.99.3
+EC 1.6.2.2	 cytochrome-b5 reductase
+EC 1.6.2.3	 deleted
+EC 1.6.2.4	 NADPH—hemoprotein reductase
+EC 1.6.2.5	 NADPH—cytochrome-c2 reductase
+EC 1.6.2.6	 leghemoglobin reductase
+EC 1.6.3.1	 NAD(P)H oxidase
+EC 1.6.4.1	 now EC 1.8.1.6
+EC 1.6.4.2	 now EC 1.8.1.7
+EC 1.6.4.3	 now EC 1.8.1.4
+EC 1.6.4.4	 now EC 1.8.1.8
+EC 1.6.4.5	 now EC 1.8.1.9
+EC 1.6.4.6	 now EC 1.8.1.10
+EC 1.6.4.7	 now EC 1.8.1.11
+EC 1.6.4.8	 now EC 1.8.1.12
+EC 1.6.4.9	 now EC 1.8.1.13
+EC 1.6.4.10	 now EC 1.8.1.14
+EC 1.6.5.1	 deleted
+EC 1.6.5.2	 NAD(P)H dehydrogenase (quinone)
+EC 1.6.5.3	 now EC 7.1.1.2
+EC 1.6.5.4	 monodehydroascorbate reductase (NADH)
+EC 1.6.5.5	 NADPH:quinone reductase
+EC 1.6.5.6	 p-benzoquinone reductase (NADPH)
+EC 1.6.5.7	 2-hydroxy-1,4-benzoquinone reductase
+EC 1.6.5.8	 NADH:ubiquinone reductase (Na+-transporting)
+EC 1.6.5.9	 NADH:ubiquinone reductase (non-electrogenic)
+EC 1.6.5.10	 NADPH dehydrogenase (quinone)
+EC 1.6.6.1	 now *EC 1.7.1.1
+EC 1.6.6.2	 now *EC 1.7.1.2
+EC 1.6.6.3	 now *EC 1.7.1.3
+EC 1.6.6.4	 now *EC 1.7.1.4
+EC 1.6.6.5	 now *EC 1.7.99.3
+EC 1.6.6.6	 now *EC 1.7.1.5
+EC 1.6.6.7	 now *EC 1.7.1.6
+EC 1.6.6.8	 now *EC 1.7.1.7
+EC 1.6.6.9	 trimethylamine-N-oxide reductase
+EC 1.6.6.10	 now *EC 1.7.1.9
+EC 1.6.6.11	 now *EC 1.7.1.10
+EC 1.6.6.12	 now *EC 1.7.1.11
+EC 1.6.6.13	 now *EC 1.7.1.12
+EC 1.6.7.1	 now EC 1.18.1.2
+EC 1.6.7.2	 now EC 1.18.1.1
+EC 1.6.8.1	 now EC 1.5.1.29
+EC 1.6.8.2	 now EC 1.5.1.30
+EC 1.6.99.1	 NADPH dehydrogenase
+EC 1.6.99.2	 now *EC 1.6.5.2
+EC 1.6.99.3	 NADH dehydrogenase
+EC 1.6.99.4	 now *EC 1.18.1.2
+EC 1.6.99.5	 NADH dehydrogenase (quinone)
+EC 1.6.99.6	 NADPH dehydrogenase (quinone)
+EC 1.6.99.7	 now *EC 1.5.1.34
+EC 1.6.99.8	 now *EC 1.16.1.3
+EC 1.6.99.9	 now *EC 1.16.1.4
+EC 1.6.99.10	 deleted, included in *EC 1.6.99.7
+EC 1.6.99.11	 now *EC 1.16.1.5
+EC 1.6.99.12	 now *EC 1.16.1.6
+EC 1.6.99.13	 now *EC 1.16.1.7
+EC 1.7.1.1	 nitrate reductase (NADH)
+EC 1.7.1.2	 nitrate reductase (NAD(P)H)
+EC 1.7.1.3	 nitrate reductase (NADPH)
+EC 1.7.1.4	 nitrite reductase (NAD(P)H)
+EC 1.7.1.5	 hyponitrite reductase
+EC 1.7.1.6	 azobenzene reductase
+EC 1.7.1.7	 GMP reductase
+EC 1.7.1.8	 deleted entry
+EC 1.7.1.9	 nitroquinoline-N-oxide reductase
+EC 1.7.1.10	 hydroxylamine reductase (NADH)
+EC 1.7.1.11	 4-(dimethylamino)phenylazoxybenzene reductase
+EC 1.7.1.12	 N-hydroxy-2-acetamidofluorene reductase
+EC 1.7.1.13	 preQ1 synthase
+EC 1.7.1.14	 nitric oxide reductase (NAD(P), nitrous oxide-forming)
+EC 1.7.2.1	 nitrite reductase (NO-forming)
+EC 1.7.2.2	 nitrite reductase (cytochrome; ammonia-forming)
+EC 1.7.2.3	 trimethylamine-N-oxide reductase (cytochrome c)
+EC 1.7.2.4	 nitrous-oxide reductase
+EC 1.7.2.5	 nitric oxide reductase (cytochrome c)
+EC 1.7.2.6	 hydroxylamine dehydrogenase
+EC 1.7.3.1	 nitroalkane oxidase
+EC 1.7.3.2	 acetylindoxyl oxidase
+EC 1.7.3.3	 urate oxidase
+EC 1.7.3.4	 hydroxylamine oxidase
+EC 1.7.3.5	 3-aci-nitropropanoate oxidase
+EC 1.7.5.1	 nitrate reductase (quinone)
+EC 1.7.5.2	 nitric oxide reductase (menaquinol)
+EC 1.7.6.1	 nitrite dismutase
+EC 1.7.7.1	 ferredoxin—nitrite reductase
+EC 1.7.7.2	 ferredoxin—nitrate reductase
+EC 1.7.99.1	 hydroxylamine reductase
+EC 1.7.99.2	 deleted
+EC 1.7.99.3	 included with *EC 1.7.2.1
+EC 1.7.99.4	 nitrate reductase
+EC 1.7.99.5	 deleted, now included with *EC 1.5.1.20
+EC 1.7.99.6	 nitrous-oxide reductase
+EC 1.7.99.7	 nitric-oxide reductase
+EC 1.7.99.8	 hydroxylamine oxidoreductase
+EC 1.8.1.1	 deleted
+EC 1.8.1.2	 sulfite reductase (NADPH)
+EC 1.8.1.3	 hypotaurine dehydrogenase
+EC 1.8.1.4	 dihydrolipoyl dehydrogenase
+EC 1.8.1.5	 2-oxopropyl-CoM reductase (carboxylating)
+EC 1.8.1.6	 cystine reductase
+EC 1.8.1.7	 glutathione-disulfide reductase
+EC 1.8.1.8	 protein-disulfide reductase
+EC 1.8.1.9	 thioredoxin-disulfide reductase
+EC 1.8.1.10	 CoA-glutathione reductase
+EC 1.8.1.11	 asparagusate reductase
+EC 1.8.1.12	 trypanothione-disulfide reductase
+EC 1.8.1.13	 bis-g-glutamylcystine reductase
+EC 1.8.1.14	 CoA-disulfide reductase
+EC 1.8.1.15	 mycothione reductase
+EC 1.8.1.16	 glutathione amide reductase
+EC 1.8.1.17	 dimethylsulfone reductase
+EC 1.8.2.1	 sulfite dehydrogenase
+EC 1.8.2.2	 thiosulfate dehydrogenase
+EC 1.8.2.3	 sulfide-cytochrome-c reductase (flavocytochrome c)
+EC 1.8.2.4	 dimethyl sulfide:cytochrome c2 reductase
+EC 1.8.3.1	 sulfite oxidase
+EC 1.8.3.2	 thiol oxidase
+EC 1.8.3.3	 glutathione oxidase
+EC 1.8.3.4	 methanethiol oxidase
+EC 1.8.3.5	 prenylcysteine oxidase
+EC 1.8.3.6	 farnesylcysteine lyase
+EC 1.8.4.1	 glutathione—homocystine transhydrogenase
+EC 1.8.4.2	 protein-disulfide reductase (glutathione)
+EC 1.8.4.3	 glutathione—CoA-glutathione transhydrogenase
+EC 1.8.4.4	 glutathione—cystine transhydrogenase
+EC 1.8.4.5	 methionine-S-oxide reductase
+EC 1.8.4.6	 protein-methionine-S-oxide reductase
+EC 1.8.4.7	 enzyme-thiol transhydrogenase (glutathione-disulfide)
+EC 1.8.4.8	 phosphoadenylyl-sulfate reductase (thioredoxin)
+EC 1.8.4.9	 adenylyl-sulfate reductase (glutathione)
+EC 1.8.4.10	 adenylyl-sulfate reductase (thioredoxin)
+EC 1.8.4.11	 peptide-methionine (S)-S-oxide reductase
+EC 1.8.4.12	 peptide-methionine (R)-S-oxide reductase
+EC 1.8.4.13	 L-methionine (S)-S-oxide reductase
+EC 1.8.4.14	 L-methionine (R)-S-oxide reductase
+EC 1.8.5.1	 glutathione dehydrogenase (ascorbate)
+EC 1.8.5.2	 thiosulfate dehydrogenase (quinone)
+EC 1.8.5.3	 dimethylsulfoxide reductase
+EC 1.8.5.4	 sulfide:quinone reductase
+EC 1.8.6.1	 deleted, included in EC 2.5.1.18
+EC 1.8.7.1	 sulfite reductase (ferredoxin)
+EC 1.8.7.2	 ferredoxin:thioredoxin reductase
+EC 1.8.98.1	 CoB—CoM heterodisulfide reductase
+EC 1.8.98.2	 sulfiredoxin.
+EC 1.8.99.1	 sulfite reductase
+EC 1.8.99.2	 adenylyl-sulfate reductase
+EC 1.8.99.3	 hydrogensulfite reductase
+EC 1.8.99.4	 now EC 1.8.4.8
+EC 1.9.3.1	 cytochrome-c oxidase
+EC 1.9.3.2	 included with EC 1.7.2.1
+EC 1.9.6.1	 nitrate reductase (cytochrome)
+EC 1.9.99.1	 iron—cytochrome-c reductase
+EC 1.10.1.1	 trans-acenaphthene-1,2-diol dehydrogenase
+EC 1.10.2.1	 L-ascorbate—cytochrome-b5 reductase
+EC 1.10.2.2	 ubiquinol—cytochrome-c reductase
+EC 1.10.3.1	 catechol oxidase
+EC 1.10.3.2	 laccase
+EC 1.10.3.3	 L-ascorbate oxidase
+EC 1.10.3.4	 o-aminophenol oxidase
+EC 1.10.3.5	 3-hydroxyanthranilate oxidase
+EC 1.10.3.6	 rifamycin-B oxidase
+EC 1.10.3.7	 now EC 1.21.3.4
+EC 1.10.3.8	 now EC 1.21.3.5
+EC 1.10.3.9	 photosystem II
+EC 1.10.3.10	 ubiquinol oxidase (H+-transporting)
+EC 1.10.3.11	 ubiquinol oxidase
+EC 1.10.3.12	 menaquinol oxidase (H+-transporting)
+EC 1.10.9.1	 plastoquinol---plastocyanin reductase
+EC 1.10.99.1	 now EC 1.10.9.1
+EC 1.10.99.2	 ribosyldihydronicotinamide dehydrogenase (quinone)
+EC 1.10.99.3	 violaxanthin de-epoxidase
+EC 1.11.1.1	 NADH peroxidase
+EC 1.11.1.2	 NADPH peroxidase
+EC 1.11.1.3	 fatty-acid peroxidase
+EC 1.11.1.4	 now *EC 1.13.11.11
+EC 1.11.1.5	 cytochrome-c peroxidase
+EC 1.11.1.6	 catalase
+EC 1.11.1.7	 peroxidase
+EC 1.11.1.8	 iodide peroxidase
+EC 1.11.1.9	 glutathione peroxidase
+EC 1.11.1.10	 chloride peroxidase
+EC 1.11.1.11	 L-ascorbate peroxidase
+EC 1.11.1.12	 phospholipid-hydroperoxide glutathione peroxidase
+EC 1.11.1.13	 manganese peroxidase
+EC 1.11.1.14	 diarylpropane peroxidase
+EC 1.11.1.15	 peroxiredoxin
+EC 1.11.1.16	 versatile peroxidase
+EC 1.11.1.17	 glutathione amide-dependent peroxidase
+EC 1.11.1.18	 bromide peroxidase
+EC 1.11.1.19	 dye decolorizing peroxidase
+EC 1.11.1.20	 prostamide/prostaglandin F2alpha synthase
+EC 1.11.1.21	 catalase-peroxidase
+EC 1.11.2.1	 unspecific peroxygenase
+EC 1.11.2.2	 myeloperoxidase
+EC 1.11.2.3	 plant seed peroxygenase
+EC 1.11.2.4	 fatty-acid peroxygenase
+EC 1.12.1.1	 now EC 1.18.99.1
+EC 1.12.1.2	 hydrogen dehydrogenase
+EC 1.12.1.3	 hydrogen dehydrogenase (NADP+)
+EC 1.12.1.4	 hydrogenase (NAD+, ferredoxin)
+EC 1.12.2.1	 cytochrome-c3 hydrogenase
+EC 1.12.5.1	 hydrogen:quinone oxidoreductase
+EC 1.12.7.1	 now EC 1.18.99.1
+EC 1.12.7.2	 ferredoxin hydrogenase
+EC 1.12.98.1	 coenzyme F420 hydrogenase
+EC 1.12.98.2	 5,10-methenyltetrahydromethanopterin hydrogenase
+EC 1.12.98.3	 Methanosarcina-phenazine hydrogenase
+EC 1.12.98.4	 Sulfhydrogenase
+EC 1.12.99.1	 now *EC 1.12.98.1
+EC 1.12.99.2	 deleted, composed of *EC 1.12.98.3 and *EC 1.8.98.1
+EC 1.12.99.3	 now *EC 1.12.5.1
+EC 1.12.99.4	 now *EC 1.12.98.2
+EC 1.12.99.5	 identical to *EC 1.13.11.47
+EC 1.12.99.6	 hydrogenase (acceptor)
+EC 1.13.1.1	 now *EC 1.13.11.1
+EC 1.13.1.2	 now *EC 1.13.11.2
+EC 1.13.1.3	 now *EC 1.13.11.3
+EC 1.13.1.4	 now *EC 1.13.11.4
+EC 1.13.1.5	 now *EC 1.13.11.5
+EC 1.13.1.6	 now *EC 1.13.11.6
+EC 1.13.1.7	 now deleted
+EC 1.13.1.8	 now *EC 1.13.11.8
+EC 1.13.1.9	 now *EC 1.13.11.9
+EC 1.13.1.10	 now *EC 1.13.11.10
+EC 1.13.1.11	 now *EC 1.13.99.1
+EC 1.13.1.12	 now *EC 1.13.11.11
+EC 1.13.1.13	 now *EC 1.13.11.12
+EC 1.13.11.1	 catechol 1,2-dioxygenase
+EC 1.13.11.2	 catechol 2,3-dioxygenase
+EC 1.13.11.3	 protocatechuate 3,4-dioxygenase
+EC 1.13.11.4	 gentisate 1,2-dioxygenase
+EC 1.13.11.5	 homogentisate 1,2-dioxygenase
+EC 1.13.11.6	 3-hydroxyanthranilate 3,4-dioxygenase
+EC 1.13.11.7	 deleted
+EC 1.13.11.8	 protocatechuate 4,5-dioxygenase
+EC 1.13.11.9	 2,5-dihydroxypyridine 5,6-dioxygenase
+EC 1.13.11.10	 7,8-dihydroxykynurenate 8,8a-dioxygenase
+EC 1.13.11.11	 tryptophan 2,3-dioxygenase
+EC 1.13.11.12	 lipoxygenase
+EC 1.13.11.13	 ascorbate 2,3-dioxygenase
+EC 1.13.11.14	 2,3-dihydroxybenzoate 3,4-dioxygenase
+EC 1.13.11.15	 3,4-dihydroxyphenylacetate 2,3-dioxygenase
+EC 1.13.11.16	 3-carboxyethylcatechol 2,3-dioxygenase
+EC 1.13.11.17	 indole 2,3-dioxygenase
+EC 1.13.11.18	 sulfur dioxygenase
+EC 1.13.11.19	 cysteamine dioxygenase
+EC 1.13.11.20	 cysteine dioxygenase
+EC 1.13.11.21	 now *EC 1.14.99.36
+EC 1.13.11.22	 caffeate 3,4-dioxygenase
+EC 1.13.11.23	 2,3-dihydroxyindole 2,3-dioxygenase
+EC 1.13.11.24	 quercetin 2,3-dioxygenase
+EC 1.13.11.25	 3,4-dihydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione 4,5-dioxygenase
+EC 1.13.11.26	 peptide-tryptophan 2,3-dioxygenase
+EC 1.13.11.27	 4-hydroxyphenylpyruvate dioxygenase
+EC 1.13.11.28	 2,3-dihydroxybenzoate 2,3-dioxygenase
+EC 1.13.11.29	 stizolobate synthase
+EC 1.13.11.30	 stizolobinate synthase
+EC 1.13.11.31	 arachidonate 12-lipoxygenase
+EC 1.13.11.32	 2-nitropropane dioxygenase
+EC 1.13.11.33	 arachidonate 15-lipoxygenase
+EC 1.13.11.34	 arachidonate 5-lipoxygenase
+EC 1.13.11.35	 pyrogallol 1,2-oxygenase
+EC 1.13.11.36	 chloridazon-catechol dioxygenase
+EC 1.13.11.37	 hydroxyquinol 1,2-dioxygenase
+EC 1.13.11.38	 1-hydroxy-2-naphthoate 1,2-dioxygenase
+EC 1.13.11.39	 biphenyl-2,3-diol 1,2-dioxygenase
+EC 1.13.11.40	 arachidonate 8-lipoxygenase
+EC 1.13.11.41	 2,4'-dihydroxyacetophenone dioxygenase
+EC 1.13.11.42	 deleted
+EC 1.13.11.43	 lignostilbene ab-dioxygenase
+EC 1.13.11.44	 linoleate diol synthase
+EC 1.13.11.45	 linoleate 11-lipoxygenase
+EC 1.13.11.46	 4-hydroxymandelate synthase
+EC 1.13.11.47	 3-hydroxy-4-oxoquinoline 2,4-dioxygenase
+EC 1.13.11.48	 3-hydroxy-2-methyl-quinolin-4-one 2,4-dioxygenase
+EC 1.13.11.49	 chlorite O2-lyase
+EC 1.13.11.50	 acetylacetone-cleaving enzyme
+EC 1.13.11.51	 9-cis-epoxycarotenoid dioxygenase
+EC 1.13.11.52	 indoleamine 2,3-dioxygenase
+EC 1.13.11.53	 Acireductone dioxygenase (Ni2+-requiring)
+EC 1.13.11.54	 acireductone dioxygenase (Fe(2+)-requiring)
+EC 1.13.11.55	 sulfur oxygenase/reductase
+EC 1.13.11.56	 1,2-dihydroxynaphthalene dioxygenase
+EC 1.13.11.57	 gallate dioxygenase
+EC 1.13.11.58	 linoleate 9S-lipoxygenase
+EC 1.13.11.59	 torulene dioxygenase
+EC 1.13.11.60	 linoleate 8R-lipoxygenase
+EC 1.13.11.61	 linolenate 9R-lipoxygenase
+EC 1.13.11.62	 linoleate 10R-lipoxygenase
+EC 1.13.11.63	 beta-carotene 15,15'-dioxygenase
+EC 1.13.11.64	 5-nitrosalicylate dioxygenase
+EC 1.13.11.65	 carotenoid isomerooxygenase
+EC 1.13.11.66	 hydroquinone 1,2-dioxygenase
+EC 1.13.11.67	 8'-apo-beta-carotenoid 14',13'-cleaving dioxygenase
+EC 1.13.11.68	 9-cis-beta-carotene 9',10'-cleaving dioxygenase
+EC 1.13.11.69	 carlactone synthase
+EC 1.13.11.70	 all-trans-10'-apo-beta-carotenal 13,14-cleaving dioxygenase
+EC 1.13.11.71	 carotenoid-9',10'-cleaving dioxygenase
+EC 1.13.11.72	 2-hydroxyethylphosphonate dioxygenase
+EC 1.13.11.73	 methylphosphonate synthase
+EC 1.13.11.80	 (3,5-dihydroxyphenyl)acetyl-CoA 1,2-dioxygenase
+EC 1.13.12.1	 arginine 2-monooxygenase
+EC 1.13.12.2	 lysine 2-monooxygenase
+EC 1.13.12.3	 tryptophan 2-monooxygenase
+EC 1.13.12.4	 lactate 2-monooxygenase
+EC 1.13.12.5	 Renilla-luciferin 2-monooxygenase
+EC 1.13.12.6	 Cypridina-luciferin 2-monooxygenase
+EC 1.13.12.7	 Photinus-luciferin 4-monooxygenase (ATP-hydrolysing)
+EC 1.13.12.8	 Watasenia-luciferin 2-monooxygenase
+EC 1.13.12.9	 phenylalanine 2-monooxygenase
+EC 1.13.12.10	 covered by *EC 1.14.13.59
+EC 1.13.12.11	 methylphenyltetrahydropyridine N-monooxygenase
+EC 1.13.12.12	 apo-b-carotenoid-14',13'-dioxygenase
+EC 1.13.12.13	 Oplophorus-luciferin 2-monooxygenase
+EC 1.13.12.14	 chlorophyllide-a oxygenase
+EC 1.13.12.15	 3,4-dihydroxyphenylalanine oxidative deaminase
+EC 1.13.12.16	 nitronate monooxygenase
+EC 1.13.12.17	 dichloroarcyriaflavin A synthase
+EC 1.13.12.18	 dinoflagellate luciferase
+EC 1.13.12.19	 2-oxoglutarate dioxygenase (ethylene-forming)
+EC 1.13.99.1	 inositol oxygenase
+EC 1.13.99.2	 now EC 1.14.12.10
+EC 1.13.99.3	 tryptophan 2'-dioxygenase
+EC 1.13.99.4	 now EC 1.14.12.9
+EC 1.13.99.5	 now EC 1.13.11.47
+EC 1.14.1.1	 now EC 1.14.14.1
+EC 1.14.1.2	 now EC 1.14.13.9
+EC 1.14.1.3	 deleted, covered by EC 1.14.99.7, EC 5.4.99.7
+EC 1.14.1.4	 now EC 1.14.99.2
+EC 1.14.1.5	 now EC 1.14.13.5
+EC 1.14.1.6	 now EC 1.14.15.4
+EC 1.14.1.7	 now EC 1.14.99.9
+EC 1.14.1.8	 now EC 1.14.99.10
+EC 1.14.1.9	 deleted
+EC 1.14.1.10	 now EC 1.14.99.11
+EC 1.14.1.11	 deleted
+EC 1.14.2.1	 now EC 1.14.17.1
+EC 1.14.2.2	 now EC 1.13.11.27
+EC 1.14.3.1	 now EC 1.14.16.1
+EC 1.14.11.1	 g-butyrobetaine dioxygenase
+EC 1.14.11.2	 procollagen-proline dioxygenase
+EC 1.14.11.3	 pyrimidine-deoxynucleoside 2'-dioxygenase
+EC 1.14.11.4	 procollagen-lysine 5-dioxygenase
+EC 1.14.11.5	 deleted, included in EC 1.14.11.6
+EC 1.14.11.6	 thymine dioxygenase
+EC 1.14.11.7	 procollagen-proline 3-dioxygenase
+EC 1.14.11.8	 trimethyllysine dioxygenase
+EC 1.14.11.9	 flavanone 3-dioxygenase
+EC 1.14.11.10	 pyrimidine-deoxynucleoside 1'-dioxygenase
+EC 1.14.11.11	 hyoscyamine (6S)-dioxygenase
+EC 1.14.11.12	 gibberellin-44 dioxygenase
+EC 1.14.11.13	 gibberellin 2b-dioxygenase
+EC 1.14.11.14	 6b-hydroxyhyoscyamine epoxidase
+EC 1.14.11.15	 gibberellin 3b-dioxygenase
+EC 1.14.11.16	 peptide-aspartate b-dioxygenase
+EC 1.14.11.17	 taurine dioxygenase
+EC 1.14.11.18	 phytanoyl-CoA dioxygenase
+EC 1.14.11.19	 leucocyanidin oxygenase
+EC 1.14.11.20	 deacetoxyvindoline 4-hydroxylase
+EC 1.14.11.21	 clavaminate synthase
+EC 1.14.11.22	 flavone synthase
+EC 1.14.11.23	 flavonol synthase
+EC 1.14.11.24	 2'-deoxymugineic-acid 2'-dioxygenase
+EC 1.14.11.25	 mugineic-acid 3-dioxygenase
+EC 1.14.11.26	 deacetoxycephalosporin-C hydroxylase
+EC 1.14.11.27	 (histone-H3)-lysine-36 demethylase
+EC 1.14.11.28	 proline 3-hydroxylase
+EC 1.14.11.29	 hypoxia-inducible factor-proline dioxygenase
+EC 1.14.11.30	 hypoxia-inducible factor-asparagine dioxygenase
+EC 1.14.11.31	 thebaine 6-O-demethylase
+EC 1.14.11.32	 codeine 3-O-demethylase
+EC 1.14.11.33	 DNA oxidative demethylase
+EC 1.14.11.34	 2-oxoglutarate/L-arginine monooxygenase/decarboxylase (succinate-forming)
+EC 1.14.11.35	 1-deoxypentalenic acid 11beta-hydroxylase
+EC 1.14.11.36	 pentalenolactone F synthase
+EC 1.14.11.64	 glutarate 2-hydroxylase
+EC 1.14.12.1	 anthranilate 1,2-dioxygenase (deaminating, decarboxylating)
+EC 1.14.12.2	 now EC 1.14.13.35
+EC 1.14.12.3	 benzene 1,2-dioxygenase
+EC 1.14.12.4	 3-hydroxy-2-methylpyridinecarboxylate dioxygenase
+EC 1.14.12.5	 5-pyridoxate dioxygenase
+EC 1.14.12.6	 now EC 1.14.13.66
+EC 1.14.12.7	 phthalate 4,5-dioxygenase
+EC 1.14.12.8	 4-sulfobenzoate 3,4-dioxygenase
+EC 1.14.12.9	 4-chlorophenylacetate 3,4-dioxygenase
+EC 1.14.12.10	 benzoate 1,2-dioxygenase
+EC 1.14.12.11	 toluene dioxygenase
+EC 1.14.12.12	 naphthalene 1,2-dioxygenase
+EC 1.14.12.13	 2-chlorobenzoate 1,2-dioxygenase
+EC 1.14.12.14	 2-aminobenzenesulfonate 2,3-dioxygenase
+EC 1.14.12.15	 terephthalate 1,2-dioxygenase
+EC 1.14.12.16	 2-hydroxyquinoline 5,6-dioxygenase
+EC 1.14.12.17	 nitric oxide dioxygenase
+EC 1.14.12.18	 biphenyl 2,3-dioxygenase
+EC 1.14.12.19	 3-phenylpropionate dioxygenase
+EC 1.14.12.20	 pheophorbide a oxygenase
+EC 1.14.12.21	 benzoyl-CoA 2,3-dioxygenase
+EC 1.14.12.22	 carbazole 1,9a-dioxygenase
+EC 1.14.13.1	 salicylate 1-monooxygenase
+EC 1.14.13.2	 4-hydroxybenzoate 3-monooxygenase
+EC 1.14.13.3	 4-hydroxyphenylacetate 3-monooxygenase
+EC 1.14.13.4	 melilotate 3-monooxygenase
+EC 1.14.13.5	 imidazoleacetate 4-monooxygenase
+EC 1.14.13.6	 orcinol 2-monooxygenase
+EC 1.14.13.7	 phenol 2-monooxygenase
+EC 1.14.13.8	 dimethylaniline monooxygenase (N-oxide-forming)
+EC 1.14.13.9	 kynurenine 3-monooxygenase
+EC 1.14.13.10	 2,6-dihydroxypyridine 3-monooxygenase
+EC 1.14.13.11	 trans-cinnamate 4-monooxygenase
+EC 1.14.13.12	 benzoate 4-monooxygenase
+EC 1.14.13.13	 calcidiol 1-monooxygenase
+EC 1.14.13.14	 trans-cinnamate 2-monooxygenase
+EC 1.14.13.15	 cholestanetriol 26-monooxygenase
+EC 1.14.13.16	 cyclopentanone monooxygenase
+EC 1.14.13.17	 cholesterol 7a-monooxygenase
+EC 1.14.13.18	 4-hydroxyphenylacetate 1-monooxygenase
+EC 1.14.13.19	 taxifolin 8-monooxygenase
+EC 1.14.13.20	 2,4-dichlorophenol 6-monooxygenase
+EC 1.14.13.21	 flavonoid 3'-monooxygenase
+EC 1.14.13.22	 cyclohexanone monooxygenase
+EC 1.14.13.23	 3-hydroxybenzoate 4-monooxygenase
+EC 1.14.13.24	 3-hydroxybenzoate 6-monooxygenase
+EC 1.14.13.25	 methane monooxygenase
+EC 1.14.13.26	 phosphatidylcholine 12-monooxygenase
+EC 1.14.13.27	 4-aminobenzoate 1-monooxygenase
+EC 1.14.13.28	 3,9-dihydroxypterocarpan 6a-monooxygenase
+EC 1.14.13.29	 4-nitrophenol 2-monooxygenase
+EC 1.14.13.30	 leukotriene-B4 20-monooxygenase
+EC 1.14.13.31	 2-nitrophenol 2-monooxygenase
+EC 1.14.13.32	 albendazole monooxygenase
+EC 1.14.13.33	 4-hydroxybenzoate 3-monooxygenase (NAD(P)H)
+EC 1.14.13.34	 leukotriene-E4 20-monooxygenase
+EC 1.14.13.35	 anthranilate 3-monooxygenase (deaminating)
+EC 1.14.13.36	 5-O-(4-coumaroyl)-D-quinate 3'-monooxygenase
+EC 1.14.13.37	 methyltetrahydroprotoberberine 14-monooxygenase
+EC 1.14.13.38	 anhydrotetracycline monooxygenase
+EC 1.14.13.39	 nitric-oxide synthase
+EC 1.14.13.40	 anthraniloyl-CoA monooxygenase
+EC 1.14.13.41	 tyrosine N-monooxygenase
+EC 1.14.13.42	 hydroxyphenylacetonitrile 2-monooxygenase
+EC 1.14.13.43	 questin monooxygenase
+EC 1.14.13.44	 2-hydroxybiphenyl 3-monooxygenase
+EC 1.14.13.45	 now EC 1.14.18.2
+EC 1.14.13.46	 (-)-menthol monooxygenase
+EC 1.14.13.47	 (S)-limonene 3-monooxygenase
+EC 1.14.13.48	 (S)-limonene 6-monooxygenase
+EC 1.14.13.49	 (S)-limonene 7-monooxygenase
+EC 1.14.13.50	 pentachlorophenol monooxygenase
+EC 1.14.13.51	 6-oxocineole dehydrogenase
+EC 1.14.13.52	 isoflavone 3'-hydroxylase
+EC 1.14.13.53	 4'-methoxyisoflavone 2'-hydroxylase
+EC 1.14.13.54	 ketosteroid monooxygenase
+EC 1.14.13.55	 protopine 6-monooxygenase
+EC 1.14.13.56	 dihydrosanguinarine 10-monooxygenase
+EC 1.14.13.57	 dihydrochelirubine 12-monooxygenase
+EC 1.14.13.58	 benzoyl-CoA 3-monooxygenase
+EC 1.14.13.59	 L-lysine 6-monooxygenase (NADPH)
+EC 1.14.13.60	 27-hydroxycholesterol 7a-monooxygenase
+EC 1.14.13.61	 2-hydroxyquinoline 8-monooxygenase
+EC 1.14.13.62	 4-hydroxyquinoline 3-monooxygenase
+EC 1.14.13.63	 3-hydroxyphenylacetate 6-hydroxylase
+EC 1.14.13.64	 4-hydroxybenzoate 1-hydroxylase
+EC 1.14.13.65	 deleted
+EC 1.14.13.66	 2-hydroxycyclohexanone 2-monooxygenase
+EC 1.14.13.67	 quinine 3-monooxygenase
+EC 1.14.13.68	 4-hydroxyphenylacetaldehyde oxime monooxygenase
+EC 1.14.13.69	 alkene monooxygenase
+EC 1.14.13.70	 sterol 14-demethylase
+EC 1.14.13.71	 N-methylcoclaurine 3'-monooxygenase
+EC 1.14.13.72	 methylsterol monooxygenase
+EC 1.14.13.73	 tabersonine 16-hydroxylase
+EC 1.14.13.74	 7-deoxyloganin 7-hydroxylase
+EC 1.14.13.75	 vinorine hydroxylase
+EC 1.14.13.76	 taxane 10b-hydroxylase
+EC 1.14.13.77	 taxane 13a-hydroxylase
+EC 1.14.13.78	 ent-kaurene oxidase
+EC 1.14.13.79	 ent-kaurenoic acid oxidase
+EC 1.14.13.80	 (R)-limonene 6-monooxygenase
+EC 1.14.13.81	 magnesium-protoporphyrin IX monomethyl ester (oxidative) cyclase
+EC 1.14.13.82	 vanillate monooxygenase
+EC 1.14.13.83	 precorrin-3B synthase
+EC 1.14.13.84	 4-hydroxyacetophenone monooxygenase
+EC 1.14.13.85	 glyceollin synthase
+EC 1.14.13.86	 2-hydroxyisoflavanone synthase
+EC 1.14.13.87	 licodione synthase
+EC 1.14.13.88	 flavonoid 3',5'-hydroxylase
+EC 1.14.13.89	 isoflavone 2'-hydroxylase
+EC 1.14.13.90	 zeaxanthin epoxidase
+EC 1.14.13.91	 deoxysarpagine hydroxylase
+EC 1.14.13.92	 phenylacetone monooxygenase
+EC 1.14.13.93	 (+)-abscisic acid 8'-hydroxylase
+EC 1.14.13.94	 Lithocholate 6beta-hydroxylase
+EC 1.14.13.95	 7alpha-hydroxycholest-4-en-3-one 12alpha-hydroxylase
+EC 1.14.13.96	 5beta-cholestane-3alpha,7alpha-diol 12alpha-hydroxylase
+EC 1.14.13.97	 taurochenodeoxycholate 6α-hydroxylase
+EC 1.14.13.98	 cholesterol 24-hydroxylase
+EC 1.14.13.99	 24-hydroxycholesterol 7α-hydroxylase
+EC 1.14.13.100	 25-hydroxycholesterol 7α-hydroxylase
+EC 1.14.13.101	 senecionine N-oxygenase
+EC 1.14.13.102	 psoralen synthase
+EC 1.14.13.103	 8-dimethylallylnaringenin 2'-hydroxylase
+EC 1.14.13.104	 (+)-menthofuran synthase
+EC 1.14.13.105	 monocyclic monoterpene ketone monooxygenase
+EC 1.14.13.106	 epi-isozizaene 5-monooxygenase
+EC 1.14.13.107	 limonene 1,2-monooxygenase
+EC 1.14.13.108	 abietadiene hydroxylase
+EC 1.14.13.109	 abietadienol hydroxylase
+EC 1.14.13.110	 geranylgeraniol 18-hydroxylase
+EC 1.14.13.111	 methanesulfonate monooxygenase
+EC 1.14.13.112	 3-epi-6-deoxocathasterone 23-monooxygenase
+EC 1.14.13.113	 FAD-dependent urate hydroxylase
+EC 1.14.13.114	 6-hydroxynicotinate 3-monooxygenase
+EC 1.14.13.115	 angelicin synthase
+EC 1.14.13.116	 geranylhydroquinone 3-hydroxylase
+EC 1.14.13.117	 isoleucine N-monooxygenase
+EC 1.14.13.118	 valine N-monooxygenase
+EC 1.14.13.119	 5-epiaristolochene 1,3-dihydroxylase
+EC 1.14.13.120	 costunolide synthase
+EC 1.14.13.121	 premnaspirodiene oxygenase
+EC 1.14.13.122	 chlorophyllide-a oxygenase
+EC 1.14.13.123	 germacrene A hydroxylase
+EC 1.14.13.124	 phenylalanine N-monooxygenase
+EC 1.14.13.125	 tryptophan N-monooxygenase
+EC 1.14.13.126	 vitamin D3 24-hydroxylase
+EC 1.14.13.127	 3-(3-hydroxyphenyl)propanoate hydroxylase
+EC 1.14.13.128	 7-methylxanthine demethylase
+EC 1.14.13.129	 beta-carotene 3-hydroxylase
+EC 1.14.13.130	 pyrrole-2-carboxylate monooxygenase
+EC 1.14.13.131	 dimethyl-sulfide monooxygenase
+EC 1.14.13.132	 squalene monooxygenase
+EC 1.14.13.133	 pentalenene oxygenase
+EC 1.14.13.134	 beta-amyrin 11-oxidase
+EC 1.14.13.135	 1-hydroxy-2-naphthoate hydroxylase
+EC 1.14.13.136	 isoflavonoid synthase
+EC 1.14.13.137	 indole-2-monooxygenase
+EC 1.14.13.138	 indolin-2-one monooxygenase
+EC 1.14.13.139	 3-hydroxyindolin-2-one monooxygenase
+EC 1.14.13.140	 2-hydroxy-1,4-benzoxazin-3-one monooxygenase
+EC 1.14.13.141	 cholest-4-en-3-one 26-monooxygenase
+EC 1.14.13.142	 3-ketosteroid 9alpha-monooxygenase
+EC 1.14.13.143	 ent-isokaurene C2-hydroxylase
+EC 1.14.13.144	 9beta-pimara-7,15-diene oxidase
+EC 1.14.13.145	 ent-cassa-12,15-diene 11-hydroxylase
+EC 1.14.13.146	 taxoid 14beta-hydroxylase
+EC 1.14.13.147	 taxoid 7beta-hydroxylase
+EC 1.14.13.148	 trimethylamine monooxygenase
+EC 1.14.13.149	 phenylacetyl-CoA 1,2-epoxidase
+EC 1.14.13.150	 alpha-humulene 10-hydroxylase
+EC 1.14.13.151	 linalool 8-monooxygenase
+EC 1.14.13.152	 geraniol 8-hydroxylase
+EC 1.14.13.153	 (+)-sabinene 3-hydroxylase
+EC 1.14.13.154	 erythromycin 12 hydroxylase
+EC 1.14.13.155	 alpha-pinene monooxygenase
+EC 1.14.13.156	 1,8-cineole 2-endo-monooxygenase
+EC 1.14.13.157	 1,8-cineole 2-exo-monooxygenase
+EC 1.14.13.158	 amorpha-4,11-diene 12-monooxygenase
+EC 1.14.13.159	 vitamin D 25-hydroxylase
+EC 1.14.13.160	 (2,2,3-trimethyl-5-oxocyclopent-3-enyl)acetyl-CoA 1,5-monooxygenase
+EC 1.14.13.161	 (+)-camphor 6-exo-hydroxylase
+EC 1.14.13.162	 2,5-diketocamphane 1,2-monooxygenase
+EC 1.14.13.163	 6-hydroxy-3-succinoylpyridine 3-monooxygenase
+EC 1.14.13.164	 now EC 1.13.11.65
+EC 1.14.13.165	 nitric-oxide synthase (NAD(P)H-dependent)
+EC 1.14.13.166	 4-nitrocatechol 4-monooxygenase
+EC 1.14.13.167	 4-nitrophenol 4-monooxygenase
+EC 1.14.13.168	 indole-3-pyruvate monooxygenase
+EC 1.14.13.169	 sphinganine C4-monooxygenase
+EC 1.14.13.170	 pentalenolactone D synthase
+EC 1.14.13.171	 neopentalenolactone D synthase
+EC 1.14.13.196	 L-ornithine N5 monooxygenase
+EC 1.14.14.1	 unspecific monooxygenase
+EC 1.14.14.2	 deleted, included in EC 1.14.14.1
+EC 1.14.14.3	 alkanal monooxygenase (FMN-linked)
+EC 1.14.14.4	 deleted, identical to EC 1.14.15.7
+EC 1.14.14.5	 alkanesulfonate monooxygenase
+EC 1.14.14.6	 Now EC 1.14.13.111
+EC 1.14.14.7	 tryptophan 7-halogenase
+EC 1.14.14.8	 anthranilate 3-monooxygenase (FAD)
+EC 1.14.14.9	 4-hydroxyphenylacetate 3-monooxygenase
+EC 1.14.14.10	 nitrilotriacetate monooxygenase
+EC 1.14.14.11	 styrene monooxygenase
+EC 1.14.14.12	 3-hydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione monooxygenase
+EC 1.14.14.13	 4-(gamma-L-glutamylamino)butanoyl-(BtrI acyl-carrier protein) monooxygenase
+EC 1.14.15.1	 camphor 5-monooxygenase
+EC 1.14.15.2	 camphor 1,2-monooxygenase
+EC 1.14.15.3	 alkane 1-monooxygenase
+EC 1.14.15.4	 steroid 11b-monooxygenase
+EC 1.14.15.5	 corticosterone 18-monooxygenase
+EC 1.14.15.6	 cholesterol monooxygenase (side-chain-cleaving)
+EC 1.14.15.7	 choline monooxygenase
+EC 1.14.15.8	 steroid 15beta-monooxygenase
+EC 1.14.15.9	 spheroidene monooxygenase
+EC 1.14.15.10	 (+)-camphor 6-endo-hydroxylase
+EC 1.14.15.11	 pentalenic acid synthase
+EC 1.14.16.1	 phenylalanine 4-monooxygenase
+EC 1.14.16.2	 tyrosine 3-monooxygenase
+EC 1.14.16.3	 anthranilate 3-monooxygenase
+EC 1.14.16.4	 tryptophan 5-monooxygenase
+EC 1.14.16.5	 glyceryl-ether monooxygenase
+EC 1.14.16.6	 mandelate 4-monooxygenase
+EC 1.14.17.1	 dopamine b-monooxygenase
+EC 1.14.17.2	 deleted, included in EC 1.14.18.1
+EC 1.14.17.3	 peptidylglycine monooxygenase
+EC 1.14.17.4	 aminocyclopropanecarboxylate oxidase
+EC 1.14.18.1	 monophenol monooxygenase
+EC 1.14.18.2	 CMP-N-acetylneuraminate monooxygenase
+EC 1.14.18.3	 methane monooxygenase (particulate)
+EC 1.14.19.1	 stearoyl-CoA 9-desaturase
+EC 1.14.19.2	 acyl-(acyl-carrier-protein) desaturase
+EC 1.14.19.3	 linoleoyl-CoA desaturase
+EC 1.14.19.4	 Delta8-fatty-acid desaturase
+EC 1.14.19.5	 Delta11-fatty-acid desaturase
+EC 1.14.19.6	 Delta12-fatty-acid desaturase
+EC 1.14.19.7	 (S)-2-hydroxypropylphosphonic acid epoxidase
+EC 1.14.20.1	 deacetoxycephalosporin-C synthase
+EC 1.14.20.2	 2,4-dihydroxy-1,4-benzoxazin-3-one-glucoside dioxygenase
+EC 1.14.21.1	 (S)-stylopine synthase
+EC 1.14.21.2	 (S)-cheilanthifoline synthase
+EC 1.14.21.3	 berbamunine synthase
+EC 1.14.21.4	 salutaridine synthase
+EC 1.14.21.5	 (S)-canadine synthase
+EC 1.14.21.6	 lathosterol oxidase
+EC 1.14.21.7	 biflaviolin synthase
+EC 1.14.21.8	 pseudobaptigenin synthase
+EC 1.14.99.1	 prostaglandin-endoperoxide synthase
+EC 1.14.99.2	 kynurenine 7,8-hydroxylase
+EC 1.14.99.3	 heme oxygenase (decyclizing)
+EC 1.14.99.4	 progesterone monooxygenase
+EC 1.14.99.5	 now EC 1.14.19.1
+EC 1.14.99.6	 now EC 1.14.19.2
+EC 1.14.99.7	 now EC 1.14.13.132
+EC 1.14.99.8	 deleted, included in EC 1.14.14.1
+EC 1.14.99.9	 steroid 17a-monooxygenase
+EC 1.14.99.10	 steroid 21-monooxygenase
+EC 1.14.99.11	 estradiol 6b-monooxygenase
+EC 1.14.99.12	 4-androstene-3,17-dione monooxygenase
+EC 1.14.99.13	 now EC 1.14.13.23
+EC 1.14.99.14	 progesterone 11a-monooxygenase
+EC 1.14.99.15	 4-methoxybenzoate monooxygenase (O-demethylating)
+EC 1.14.99.16	 now EC 1.14.13.72
+EC 1.14.99.17	 now EC 1.14.16.5
+EC 1.14.99.18	 deleted
+EC 1.14.99.19	 plasmanylethanolamine desaturase
+EC 1.14.99.20	 phylloquinone monooxygenase (2,3-epoxidizing)
+EC 1.14.99.21	 Latia-luciferin monooxygenase (demethylating)
+EC 1.14.99.22	 ecdysone 20-monooxygenase
+EC 1.14.99.23	 3-hydroxybenzoate 2-monooxygenase
+EC 1.14.99.24	 steroid 9a-monooxygenase
+EC 1.14.99.25	 now EC 1.14.19.3
+EC 1.14.99.26	 2-hydroxypyridine 5-monooxygenase
+EC 1.14.99.27	 juglone 3-monooxygenase
+EC 1.14.99.28	 linalool 8-monooxygenase
+EC 1.14.99.29	 deoxyhypusine monooxygenase
+EC 1.14.99.30	 carotene 7,8-desaturase
+EC 1.14.99.31	 myristoyl-CoA 11-(E) desaturase
+EC 1.14.99.32	 myristoyl-CoA 11-(Z) desaturase
+EC 1.14.99.33	 D12-fatty acid dehydrogenase
+EC 1.14.99.34	 monoprenyl isoflavone epoxidase
+EC 1.14.99.35	 thiophene-2-carbonyl-CoA monooxygenase
+EC 1.14.99.36	 b-carotene 15,15'-monooxygenase
+EC 1.14.99.37	 taxadiene 5a-hydroxylase
+EC 1.14.99.38	 cholesterol 25-hydroxylase
+EC 1.14.99.39	 ammonia monooxygenase
+EC 1.14.99.40	 5,6-dimethylbenzimidazole synthase
+EC 1.14.99.41	 all-trans-8'-apo-beta-carotenal 15,15'-oxygenase
+EC 1.14.99.42	 zeaxanthin 7,8-dioxygenase
+EC 1.14.99.43	 beta-amyrin 24-hydroxylase
+EC 1.14.99.44	 diapolycopene oxygenase
+EC 1.14.99.45	 carotene epsilon-monooxygenase
+EC 1.14.99.46	 pyrimidine oxygenase
+EC 1.14.99.47	 (+)-larreatricin hydroxylase
+EC 1.15.1.1	 superoxide dismutase
+EC 1.15.1.2	 superoxide reductase
+EC 1.16.1.1	 mercury(II) reductase
+EC 1.16.1.2	 diferric-transferrin reductase
+EC 1.16.1.3	 aquacobalamin reductase
+EC 1.16.1.4	 cob(II)alamin reductase
+EC 1.16.1.5	 aquacobalamin reductase (NADPH)
+EC 1.16.1.6	 cyanocobalamin reductase (cyanide-eliminating)
+EC 1.16.1.7	 ferric-chelate reductase
+EC 1.16.1.8	 (methionine synthase) reductase
+EC 1.16.1.9	 ferric-chelate reductase (NADPH)
+EC 1.16.3.1	 ferroxidase
+EC 1.16.5.1	 ascorbate ferrireductase (transmembrane)
+EC 1.16.8.1	 cob(II)yrinic acid a,c-diamide reductase
+EC 1.16.9.1	 iron:rusticyanin reductase
+EC 1.16.98.1	 Now EC 1.16.9.1
+EC 1.17.1.1	 CDP-4-dehydro-6-deoxyglucose reductase
+EC 1.17.1.2	 4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+EC 1.17.1.3	 leucoanthocyanidin reductase
+EC 1.17.1.4	 xanthine dehydrogenase
+EC 1.17.1.5	 nicotinate dehydrogenase
+EC 1.17.1.6	 bile-acid 7alpha-dehydroxylase
+EC 1.17.1.7	 3-oxo-5,6-dehydrosuberyl-CoA semialdehyde dehydrogenase
+EC 1.17.2.1	 nicotinate dehydrogenase (cytochrome)
+EC 1.17.2.2	 lupanine 17-hydroxylase (cytochrome c)
+EC 1.17.3.1	 pteridine oxidase
+EC 1.17.3.2	 xanthine oxidase
+EC 1.17.3.3	 6-hydroxynicotinate dehydrogenase
+EC 1.17.4.1	 ribonucleoside-diphosphate reductase
+EC 1.17.4.2	 ribonucleoside-triphosphate reductase
+EC 1.17.4.3	 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+EC 1.17.5.1	 phenylacetyl-CoA dehydrogenase
+EC 1.17.5.2	 caffeine dehydrogenase
+EC 1.17.7.1	 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+EC 1.17.7.2	 7-hydroxymethyl chlorophyll a reductase
+EC 1.17.99.1	 4-cresol dehydrogenase (hydroxylating)
+EC 1.17.99.2	 ethylbenzene hydroxylase
+EC 1.17.99.3	 3alpha,7alpha,12alpha-trihydroxy-5beta-cholestanoyl-CoA 24-hydroxylase
+EC 1.17.99.4	 uracil/thymine dehydrogenase
+EC 1.17.99.5	 bile-acid 7alpha-dehydroxylase
+EC 1.18.1.1	 rubredoxin—NAD+ reductase
+EC 1.18.1.2	 ferredoxin—NADP+ reductase
+EC 1.18.1.3	 ferredoxin—NAD+ reductase
+EC 1.18.1.4	 rubredoxin—NAD(P)+ reductase
+EC 1.18.1.5	 Putidaredoxin—NAD+ reductase
+EC 1.18.1.6	 adrenodoxin-NADP+ reductase
+EC 1.18.2.1	 now EC 1.18.6.1
+EC 1.18.3.1	 now EC 1.18.99.1
+EC 1.18.6.1	 nitrogenase
+EC 1.18.96.1	 now EC 1.15.1.2
+EC 1.18.99.1	 now EC 1.12.7.2
+EC 1.19.6.1	 nitrogenase (flavodoxin)
+EC 1.20.1.1	 phosphonate dehydrogenase
+EC 1.20.2.1	 arsenate reductase (cytochrome c)
+EC 1.20.4.1	 arsenate reductase (glutaredoxin)
+EC 1.20.4.2	 methylarsonate reductase
+EC 1.20.4.3	 mycoredoxin
+EC 1.20.9.1	 arsenate reductase (azurin)
+EC 1.20.98.1	 Now EC 1.20.9.1
+EC 1.20.99.1	 arsenate reductase (donor)
+EC 1.21.3.1	 isopenicillin-N synthase
+EC 1.21.3.2	 columbamine oxidase
+EC 1.21.3.3	 reticuline oxidase
+EC 1.21.3.4	 sulochrin oxidase ((+)-bisdechlorogeodin-forming)
+EC 1.21.3.5	 sulochrin oxidase ((-)-bisdechlorogeodin-forming)
+EC 1.21.3.6	 aureusidin synthase
+EC 1.21.3.7	 tetrahydrocannabinolic acid synthase
+EC 1.21.3.8	 cannabidiolic acid synthase
+EC 1.21.4.1	 D-proline reductase (dithiol)
+EC 1.21.4.2	 glycine reductase
+EC 1.21.4.3	 sarcosine reductase
+EC 1.21.4.4	 betaine reductase
+EC 1.21.99.1	 b-cyclopiazonate dehydrogenase
+EC 1.22.1.1	 iodotyrosine deiodinase
+EC 1.97.1.1	 chlorate reductase
+EC 1.97.1.2	 pyrogallol hydroxytransferase
+EC 1.97.1.3	 sulfur reductase
+EC 1.97.1.4	 (formate-C-acetyltransferase)-activating enzyme
+EC 1.97.1.5	 now *EC 1.20.4.1
+EC 1.97.1.6	 now *EC 1.20.99.1
+EC 1.97.1.7	 now *EC 1.20.4.2
+EC 1.97.1.8	 tetrachloroethene reductive dehalogenase
+EC 1.97.1.9	 selenate reductase
+EC 1.97.1.10	 thyroxine 5'-deiodinase
+EC 1.97.1.11	 thyroxine 5-deiodinase
+EC 1.97.1.12	 photosystem I
+EC 1.98.1.1	 now EC 1.18.99.1
+EC 1.99.1.1	 deleted, now *EC 1.14.14.1
+EC 1.99.1.2	 deleted, now *EC 1.14.16.1
+EC 1.99.1.3	 deleted
+EC 1.99.1.4	 deleted
+EC 1.99.1.5	 deleted, now *EC 1.14.13.9
+EC 1.99.1.6	 deleted
+EC 1.99.1.7	 deleted, now *EC 1.14.15.4
+EC 1.99.1.8	 deleted
+EC 1.99.1.9	 deleted, now *EC 1.14.99.9
+EC 1.99.1.10	 deleted
+EC 1.99.1.11	 deleted, now *EC 1.14.99.10
+EC 1.99.1.12	 deleted
+EC 1.99.1.13	 deleted, covered by *EC 1.14.99.7 and *EC 5.4.99.7
+EC 1.99.1.14	 deleted, now *EC 1.13.11.27
+EC 1.99.2.1	 deleted, now *EC 1.13.11.12
+EC 1.99.2.2	 deleted, now *EC 1.13.11.1
+EC 1.99.2.3	 deleted, now *EC 1.13.11.3
+EC 1.99.2.4	 deleted, now *EC 1.13.11.4
+EC 1.99.2.5	 deleted, now *EC 1.13.11.5
+EC 1.99.2.6	 deleted, now *EC 1.13.99.1

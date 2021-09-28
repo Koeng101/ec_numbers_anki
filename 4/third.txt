@@ -1,12 +1,12 @@
-EC 4.1.1:; Carboxy-Lyases
-EC 4.1.2:; Aldehyde-Lyases
-EC 4.1.3:; Oxo-Acid-Lyases
-EC 4.1.99:; Other Carbon-Carbon Lyases
-EC 4.2.1:; Hydro-lyases
-EC 4.2.2:; Acting on Polysaccharides
-EC 4.2.3:; Acting on phosphates
-EC 4.2.99:; Other Carbon-Oxygen Lyases
-EC 4.3.1:; Ammonia-Lyases
-EC 4.3.2:; Amidine-Lyases
-EC 4.3.3:; Amine-Lyases
-EC 4.3.99:; Other Carbon-Nitrogen Lyases
+EC 4.1.1:	 Carboxy-Lyases
+EC 4.1.2:	 Aldehyde-Lyases
+EC 4.1.3:	 Oxo-Acid-Lyases
+EC 4.1.99:	 Other Carbon-Carbon Lyases
+EC 4.2.1:	 Hydro-lyases
+EC 4.2.2:	 Acting on Polysaccharides
+EC 4.2.3:	 Acting on phosphates
+EC 4.2.99:	 Other Carbon-Oxygen Lyases
+EC 4.3.1:	 Ammonia-Lyases
+EC 4.3.2:	 Amidine-Lyases
+EC 4.3.3:	 Amine-Lyases
+EC 4.3.99:	 Other Carbon-Nitrogen Lyases

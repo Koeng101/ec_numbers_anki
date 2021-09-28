@@ -1,13 +1,13 @@
-EC 3.1:; Acting on Ester Bonds
-EC 3.2:; Glycosylases
-EC 3.3:; Acting on Ether Bonds
-EC 3.4:; act on peptide bonds – Peptidase
-EC 3.5:; act on carbon-nitrogen bonds, other than peptide bonds
-EC 3.6:; Act on acid anhydrides
-EC 3.7:; act on carbon-carbon bonds
-EC 3.8:; act on halide bonds
-EC 3.9:; act on phosphorus-nitrogen bonds
-EC 3.10:; act on sulfur-nitrogen bonds
-EC 3.11:; act on carbon-phosphorus bonds
-EC 3.12:; act on sulfur-sulfur bonds
-EC 3.13:; act on carbon-sulfur bonds
+EC 3.1:	 Acting on Ester Bonds
+EC 3.2:	 Glycosylases
+EC 3.3:	 Acting on Ether Bonds
+EC 3.4:	 act on peptide bonds – Peptidase
+EC 3.5:	 act on carbon-nitrogen bonds, other than peptide bonds
+EC 3.6:	 Act on acid anhydrides
+EC 3.7:	 act on carbon-carbon bonds
+EC 3.8:	 act on halide bonds
+EC 3.9:	 act on phosphorus-nitrogen bonds
+EC 3.10:	 act on sulfur-nitrogen bonds
+EC 3.11:	 act on carbon-phosphorus bonds
+EC 3.12:	 act on sulfur-sulfur bonds
+EC 3.13:	 act on carbon-sulfur bonds

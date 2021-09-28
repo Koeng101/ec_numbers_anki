@@ -48,17 +48,17 @@ for i in range(1,7):
 
     f = open("{}/second.txt".format(i), "w")
     for key, value in second_level.items():
-        f.write("{}; {}\n".format(key, value))
+        f.write("{}\t {}\n".format(key, value))
     f.close()
 
     f = open("{}/third.txt".format(i), "w")
     for key, value in third_level.items():
-        f.write("{}; {}\n".format(key, value))
+        f.write("{}\t {}\n".format(key, value))
     f.close()
 
     f = open("{}/fourth.txt".format(i), "w")
     for key, value in fourth_level.items():
-        f.write("{}; {}\n".format(key, value))
+        f.write("{}\t {}\n".format(key, value))
     f.close()
 
     print("EC {} has {} second level".format(i, len(second_level)))

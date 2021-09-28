@@ -1,6 +1,6 @@
-EC 6.1:; Forming Carbon-Oxygen Bonds
-EC 6.2:; Forming Carbon-Sulfur Bonds
-EC 6.3:; Forming Carbon-Nitrogen Bonds
-EC 6.4:; Forming Carbon-Carbon Bonds
-EC 6.5:; Forming Phosphoric Ester Bonds
-EC 6.6:; Forming Nitrogen-Metal Bonds
+EC 6.1:	 Forming Carbon-Oxygen Bonds
+EC 6.2:	 Forming Carbon-Sulfur Bonds
+EC 6.3:	 Forming Carbon-Nitrogen Bonds
+EC 6.4:	 Forming Carbon-Carbon Bonds
+EC 6.5:	 Forming Phosphoric Ester Bonds
+EC 6.6:	 Forming Nitrogen-Metal Bonds
